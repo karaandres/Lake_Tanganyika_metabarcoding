@@ -1,0 +1,1281 @@
+﻿OTUID,Genus,Species,Katie's notes,Pete's notes,OTUID,NCBI_top_match,NCBI_percent_identity,Local_database_top_match,Local_database_percent_identity
+ASV_99,Lamprologus,callipterus,Clear; 12 ASVs,,ASV_99,Lamprologus callipterus,100,Neolamprologus_cancellatus_LJD1,99.502
+ASV_98,Lepidiolamprologus ,sp,"Clade of several Lepidiolamprologus species -- elongatus, profudicola, attenuatus...and also some Neolamprologus species. I don't know what's going on but it seems like a mess. 10 ASVs in this group. ",,ASV_98,Lepidiolamprologus elongatus,100,000000018_U07251.1_Lepidiolamprologus_elongatus__000015958_EF462275.1_Lepidiolamprologus_cf._profundicola_JJD-2007__000015959_EF462276.1_Lepidiolamprologus_cf._profundicola_JJD-2007__000026830_EF679248.1_Lepidiolamprologus_elongatus_,100
+ASV_97,,,,,ASV_97,Petrochromis cf. polyodon SK-2009,99.742,Petrochromis_sp_moshi_yellow_LCF8,98.756
+ASV_96,,,,,ASV_96,Petrochromis sp. 'Moshi yellow',99.483,Petrochromis_sp_moshi_yellow_LCF8,98.259
+ASV_95,Unknown,sp,Cool potentially unknown species with affinity to Chalinochromis; clade of 9 ASVs with no ref among them,,ASV_95,Neolamprologus sp. 'ndobnoi',96.899,Julidochromis_sp_unterfels_JWA2,97.264
+ASV_94,,,,,ASV_94,Xenotilapia leptura,95.349,Xenotilapia_longispinis_KAF6,99.751
+ASV_93,,,,,ASV_93,Tropheus moorii,98.756,Tropheus_polli_LEF9,99.751
+ASV_92,,,,,ASV_92,Simochromis diagramma,99.742,Simochromis_diagramma_AUD8,99.254
+ASV_91,,,,,ASV_91,Grammatotria lemairii,97.933,Grammatotria_lemairii_JDD8,99.502
+ASV_90,,,,,ASV_90,Petrochromis cf. macrognathus SK-2009,100,Petrochromis_sp_moshi_yellow_LCF8,99.005
+ASV_9,,,,,ASV_9,Petrochromis sp. 'Kazumbe',98.966,Petrochromis_sp_kazumbae_KEB4,99.005
+ASV_89,Bathybates,fasciatus,no species ID ambiguity; six ASVs in this clade,,ASV_89,Bathybates fasciatus,99.742,Bathybates_fasciatus_GPB2,100
+ASV_88,,,,,ASV_88,Lobochilotes labiatus,99.483,Lobochilotes_labiatus_ISE5,98.756
+ASV_87,,,,,ASV_87,Petrochromis sp. 'Moshi yellow',100,Petrochromis_sp_moshi_yellow_LCF8,99.751
+ASV_85,,,,,ASV_85,Petrochromis sp. 'Moshi yellow',99.742,Petrochromis_sp_moshi_yellow_LCF8,98.507
+ASV_84,Oreochromis,tanganicae,clearly distinct clade with 7 ASVs,,ASV_84,Oreochromis tanganicae,99.742,Oreochromis_tanganicae_JAC7,99.751
+ASV_83,Neolamprologus,similis,clear; three ASVs,,ASV_83,Neolamprologus similis,99.483,Neolamprologus_similis_KEC2,98.507
+ASV_82,Julidochromis,regani,clear,,ASV_82,Julidochromis marlieri,99.742,Julidochromis_regani_KFF4,99.751
+ASV_81,Bathybates,fasciatus,no species ID ambiguity; six ASVs in this clade,,ASV_81,Bathybates fasciatus,100,Bathybates_fasciatus_GPB2,99.751
+ASV_80,,,,,ASV_80,Cyprichromis cf. leptosoma 'jumbo tricolor',98.191,Cyprichromis_pavo_JEB4,98.01
+ASV_8,Oreochromis,tanganicae,clearly distinct clade with 7 ASVs,,ASV_8,Oreochromis tanganicae,100,Oreochromis_tanganicae_JAC7,100
+ASV_79,Tanganicodus,sp,"Eretmodine clade. Unresolvable by species, likely due to hybridization",,ASV_79,Eretmodus cyanostictus,99.742,Eretmodus_marksmithi_JXF4,99.751
+ASV_78,,,,,ASV_78,Xenotilapia boulengeri,96.875,Xenotilapia_sp_kilesa_Bel03,99.751
+ASV_77,,,,,ASV_77,Petrochromis sp. 'Kazumbe',99.742,Petrochromis_sp_kazumbae_KEB4,99.751
+ASV_76,,,,,ASV_76,Perissodus microlepis,100,000026837_EF679255.1_Perissodus_microlepis_,100
+ASV_75,Tanganicodus,sp,"Eretmodine clade. Unresolvable by species, likely due to hybridization",,ASV_75,Eretmodus cyanostictus,100,Eretmodus_marksmithi_JXF4,100
+ASV_74,,,,,ASV_74,Paracyprichromis brieni,99.742,Paracyprichromis_brieni_JXI4,100
+ASV_73,,,,,ASV_73,Limnotilapia dardennii,99.742,Limnotilapia_dardennii_AWI6,99.502
+ASV_72,,,,,ASV_72,Petrochromis famula,99.742,Petrochromis_famula_IYA7,98.507
+ASV_71,Oreochromis,tanganicae,clearly distinct clade with 7 ASVs,,ASV_71,Oreochromis tanganicae,100,Oreochromis_tanganicae_JAC7,99.751
+ASV_70,Telmatochromis ,sp,"Big mess, multiple species, many ASVs",,ASV_70,Telmatochromis bifrenatus,100,Telmatochromis_sp_dhonti_twiyu_LHC1,100
+ASV_7,,,,,ASV_7,Cyprichromis leptosoma,100,Cyprichromis_sp_dwarf_jumbo_KFA9,100
+ASV_69,,,,,ASV_69,Petrochromis sp. 'Moshi yellow',99.483,Petrochromis_sp_moshi_yellow_LCF8,99.751
+ASV_689,,,,,ASV_689,Petrochromis sp. 'Kazumbe',99.065,Petrochromis_sp_kazumbae_KEB4,99.065
+ASV_688,,,,,ASV_688,Petrochromis sp. 'Kazumbe',98.754,Petrochromis_sp_kazumbae_KEB4,98.754
+ASV_687,Neolamprologus,brichardi,clear; 7 ASVs,,ASV_687,Neolamprologus brichardi,98.507,Neolamprologus_marunguensis_JWH4,98.507
+ASV_686,,,,,ASV_686,Petrochromis sp. 'Kazumbe',96.307,Petrochromis_sp_kazumbae_KEB4,92.786
+ASV_685,,,,,ASV_685,Pseudanthias dispar,100,NO MATCH,NA
+ASV_683,,,,,ASV_683,Cyprichromis leptosoma,89.203,Cyprichromis_sp_dwarf_jumbo_KFA9,88.586
+ASV_682,,,,,ASV_682,Lobochilotes labiatus,93.023,000000021_U07254.1_Lobochilotes_labiatus_,93.023
+ASV_681,,,,,ASV_681,Tropheus brichardi,97.933,Tropheus_sp_murago_LHD9,98
+ASV_680,,,,,ASV_680,Julidochromis marlieri,100,Julidochromis_regani_KFF4,100
+ASV_68,,,,,ASV_68,Pseudosimochromis curvifrons,100,Pseudosimochromis_curvifrons_AYC7,99.502
+ASV_679,,,,,ASV_679,Haplochromis cf. stappersii 'Malagarasi',95.467,000089667_KR010449.1_Astatotilapia_sp._'Blue_Rufiji'_,95.157
+ASV_677,,,,,ASV_677,Grammatotria lemairii,97.158,Grammatotria_lemairii_JDD8,99.005
+ASV_676,,,,,ASV_676,Julidochromis marlieri,99.677,Julidochromis_regani_KFF4,99.692
+ASV_674,,,,,ASV_674,Cardiopharynx schoutedeni,98.708,000000010_U07243.1_Cardiopharynx_schoutedeni_,98.708
+ASV_671,,,,,ASV_671,Salarias fasciatus,100,NO MATCH,NA
+ASV_670,,,,,ASV_670,Xenotilapia boulengeri,95.561,Xenotilapia_sp_kilesa_Bel03,95.477
+ASV_67,,,,,ASV_67,Petrochromis cf. polyodon SK-2009,100,Petrochromis_sp_moshi_yellow_LCF8,99.005
+ASV_669,Julidochromis,marlieri,clear; 2 ASVs,,ASV_669,Julidochromis marlieri,99.483,Julidochromis_regani_KFF4,99.502
+ASV_668,Neolamprologus,sp,"affiliated with longicaudatus and savoryi, but distinct clade of ASVs. It could be that there are no reference sequences of longicaudatus or savoryi from this part of the lake?  I am unfamiliar with the geographic distribution of these species",longicaudatus or savoryi,ASV_668,Neolamprologus longicaudatus,97.165,Neolamprologus_longicaudatus_JWI3,97.27
+ASV_667,,,,,ASV_667,Cardiopharynx schoutedeni,96.899,000000010_U07243.1_Cardiopharynx_schoutedeni_,96.899
+ASV_666,,,,,ASV_666,Macropharyngodon negrosensis,100,Trematocara_nigrifrons_IUE5,76.826
+ASV_665,,,,,ASV_665,Xenotilapia flavipinnis,97.674,000000033_U07269.1_Xenotilapia_flavipinnis_,97.674
+ASV_664,,,,,ASV_664,Petrochromis cf. polyodon SK-2009,94.947,000028660_GQ995767.1_Petrochromis_cf._polyodon_SK-2009_,94.947
+ASV_663,,,,,ASV_663,Mastacembelus erythrotaenia,89.055,Bathybates_leo_ILF7,80.353
+ASV_661,Neolamprologus ,savoryi,"clear, 4 ASVs",,ASV_661,Neolamprologus savoryi,99.225,000054559_JQ950366.1_Neolamprologus_savoryi_,99.225
+ASV_660,Trematocara,sp,In a clade with four other ASVs and several Trematocara. Unclear what species,,ASV_660,Trematocara marginatum,98.158,Trematocara_variabile_Bel33,99.005
+ASV_66,,,,,ASV_66,Pseudosimochromis marginatus,100,000054694_JQ755390.1_Pseudosimochromis_marginatus_,100
+ASV_659,Bathybates,vittatus,no species ambiguity; single ASV,,ASV_659,Bathybates vittatus,99.742,Bathybates_vittatus_JDE7,99.751
+ASV_658,,,,,ASV_658,Callochromis macrops,99.483,Callochromis_melanostigma_KAF4,99.502
+ASV_657,,,,,ASV_657,Ophthalmotilapia heterodonta,99.225,000026836_EF679254.1_Ophthalmotilapia_heterodonta_,99.225
+ASV_656,,,,,ASV_656,Cardiopharynx schoutedeni,97.674,000000010_U07243.1_Cardiopharynx_schoutedeni_,97.674
+ASV_655,,,,,ASV_655,Petrochromis famula,99.483,Petrochromis_famula_IYA7,99.005
+ASV_654,Neolamprologus, sp,"longior, leleupi, obscurus? unclear",,ASV_654,Neolamprologus leleupi,97.416,Neolamprologus_longior_KEH3,97.512
+ASV_652,Bathybates,ferox,no species ambiguity; single ASV,,ASV_652,Bathybates ferox,100,000003745_AY663736.1_Bathybates_ferox__000003746_AY663737.1_Bathybates_ferox_,100
+ASV_651,Neolamprologus,niger,"seven ASVs, one single genbank sequence",,ASV_651,Neolamprologus niger,98.966,000003989_AY740391.1_Neolamprologus_niger_,98.966
+ASV_650,Altolamprologus,compressiceps,Clear; 2 ASVs. There was another clade with A compressiceps reference but this one contains two references and is sister to A. calvus so seems more legit,,ASV_650,Altolamprologus compressiceps,100,000014358_AF398229.1_Altolamprologus_compressiceps__000014372_EF191121.1_Altolamprologus_compressiceps_,99.483
+ASV_65,,,,,ASV_65,Petrochromis cf. polyodon SK-2009,99.742,000028660_GQ995767.1_Petrochromis_cf._polyodon_SK-2009_,99.742
+ASV_648,Lamprologus,lemairii,clearly linked to two references with this ID; three ASVs,,ASV_648,Lamprologus lemairii,99.742,000002128_DQ055056.1_Lamprologus_lemairii__000014344_EF191093.1_Lamprologus_lemairii__000015954_EF462271.1_Lamprologus_lemairii__000026829_EF679247.1_Lamprologus_lemairii_,99.742
+ASV_647,,,,,ASV_647,Xenotilapia sima,98.966,Xenotilapia_sima_LBE9,97.761
+ASV_646,,,,,ASV_646,Xenotilapia ochrogenys,96.641,Xenotilapia_sp_kilesa_Bel03,96.97
+ASV_645,,,,,ASV_645,Callochromis pleurospilus,97.674,Callochromis_melanostigma_KAF4,97.015
+ASV_644,,,,,ASV_644,Cyathopharynx furcifer,98.708,000009381_AY337781.1_Cyathopharynx_furcifer_,98.708
+ASV_643,,,,,ASV_643,Cardiopharynx schoutedeni,98.708,000000010_U07243.1_Cardiopharynx_schoutedeni_,98.708
+ASV_642,Telmatochromis ,sp,"Big mess, multiple species, many ASVs",,ASV_642,Neolamprologus savoryi,98.45,Telmatochromis_sp_dhonti_twiyu_LHC1,97.512
+ASV_641,Oreochromis,tanganicae,clearly distinct clade with 7 ASVs,,ASV_641,Oreochromis tanganicae,99.483,Oreochromis_tanganicae_JAC7,99.502
+ASV_640,Lamprologus,callipterus,Clear; 12 ASVs,,ASV_640,Lamprologus callipterus,99.742,Neolamprologus_cancellatus_LJD1,99.254
+ASV_64,,,,,ASV_64,Petrochromis sp. 'Kazumbe',99.742,Petrochromis_sp_kazumbae_KEB4,99.751
+ASV_639,,,,,ASV_639,Enantiopus melanogenys,98.708,000003839_AY682517.1_Xenotilapia_melanogenys_,98.708
+ASV_638,,,,,ASV_638,Cardiopharynx schoutedeni,98.191,000000010_U07243.1_Cardiopharynx_schoutedeni_,98.191
+ASV_637,,,,,ASV_637,Petrochromis cf. polyodon SK-2009,98.45,Petrochromis_sp_moshi_yellow_LCF8,97.264
+ASV_636,Trematocara,sp,In a clade with four other ASVs and several Trematocara. Unclear what species,,ASV_636,Trematocara marginatum,98.684,Trematocara_variabile_Bel33,99.502
+ASV_635,Neolamprologus ,savoryi,"clear, 4 ASVs",,ASV_635,Neolamprologus savoryi,98.191,000015931_EF462247.1_Neolamprologus_savoryi_,98.191
+ASV_634,,,,,ASV_634,Cardiopharynx schoutedeni,98.966,000000010_U07243.1_Cardiopharynx_schoutedeni_,98.966
+ASV_632,,,Unknown - long branch by itself,,ASV_632,Boulengerochromis microlepis,96.382,000026818_EF679235.1_Boulengerochromis_microlepis_,96.382
+ASV_631,Neolamprologus,walteri,There are nearly identical haplotypes also IDd by the Salzburger group as chitamwebwai (?); This is a clear clade including 6 ASVs,,ASV_631,Neolamprologus walteri,99.483,Neolamprologus_chitamwebwai_KHA9,99.502
+ASV_630,,,unknown - long branch in Lamprologines,,ASV_630,Lamprologus callipterus,97.158,Neolamprologus_cancellatus_LJD1,97.015
+ASV_63,,,,,ASV_63,Grammatotria lemairii,98.191,Grammatotria_lemairii_JDD7,99.751
+ASV_629,,,Really unclear -- Julidochromis? Telmatochromis? ,,ASV_629,Neolamprologus brichardi,97.015,Neolamprologus_chitamwebwai_KHA9,97.761
+ASV_628,,,,,ASV_628,Callochromis pleurospilus,97.416,Callochromis_melanostigma_KAF4,96.766
+ASV_627,Oreochromis,sp,"distinct clade from most O. tanganicae sequences which have ASVs associated with them, so I'd guess this is a different Oreochromis species, and I'd be curious if it was associated with river inflow. There is one sequenced labeled O. malagarasi  these ASVs are closely associated with. There are three ASVs in the group. ",malagarasi,ASV_627,Oreochromis upembae,99.742,Oreochromis_malagarasi_KYH4,99.751
+ASV_626,,,,,ASV_626,Cyathopharynx furcifer,99.742,000009381_AY337781.1_Cyathopharynx_furcifer_,99.742
+ASV_625,,,,,ASV_625,Gemmatimonas phototrophica,83.721,NO MATCH,NA
+ASV_624,,,,,ASV_624,Gnathochromis pfefferi,99.742,Gnathochromis_pfefferi_AWE2,99.005
+ASV_623,Telmatochromis ,sp,"Big mess, multiple species, many ASVs",,ASV_623,Telmatochromis bifrenatus,99.742,Telmatochromis_sp_dhonti_twiyu_LHC1,99.751
+ASV_622,Neolamprologus,brichardi,clear; 7 ASVs,,ASV_622,Neolamprologus brichardi,99.483,Neolamprologus_marunguensis_JWH4,98.756
+ASV_621,,,,,ASV_621,Lestradea perspicax,99.742,000009365_AY337765.1_Lestradea_perspicax_,99.742
+ASV_620,,,,,ASV_620,Xenotilapia flavipinnis,97.674,000009394_AY337794.1_Xenotilapia_flavipinnis_,97.674
+ASV_62,,,,,ASV_62,Petrochromis sp. 'Kazumbe',99.742,Petrochromis_sp_kazumbae_KEB4,99.751
+ASV_619,,,,,ASV_619,Mastacembelus armatus,87.345,Neolamprologus_bifasciatus_LHF7,80.25
+ASV_618,,,,,ASV_618,Cyathopharynx furcifer,99.742,000084987_KM288923.1_Cyathopharynx_furcifer_,99.742
+ASV_617,,,,,ASV_617,Tropheus brichardi,99.483,Tropheus_sp_murago_LHD9,99.502
+ASV_616,,,,,ASV_616,Cardiopharynx schoutedeni,95.866,000000010_U07243.1_Cardiopharynx_schoutedeni_,95.866
+ASV_614,Lepidiolamprologus ,sp,"Clade of several Lepidiolamprologus species -- elongatus, profudicola, attenuatus...and also some Neolamprologus species. I don't know what's going on but it seems like a mess. 10 ASVs in this group. ",,ASV_614,Lepidiolamprologus elongatus,99.483,000000018_U07251.1_Lepidiolamprologus_elongatus__000015958_EF462275.1_Lepidiolamprologus_cf._profundicola_JJD-2007__000015959_EF462276.1_Lepidiolamprologus_cf._profundicola_JJD-2007__000026830_EF679248.1_Lepidiolamprologus_elongatus_,99.483
+ASV_613,Trematocara,sp,In clade with four other ASVs and several Trematocara spp. If I had to pick a species it would be marginatum,marginatum,ASV_613,Trematocara nigrifrons,99.739,Trematocara_stigmaticum_IUE7,100
+ASV_612,,,,,ASV_612,Petrochromis famula,99.742,Petrochromis_famula_IYA7,99.254
+ASV_611,Lamprologus,callipterus,Clear; 12 ASVs,,ASV_611,Lamprologus callipterus,99.742,Neolamprologus_cancellatus_LJD1,99.254
+ASV_610,,,,,ASV_610,Cichlidae environmental sample,99.483,Limnotilapia_dardennii_AWI5,99.502
+ASV_61,Telmatochromis ,sp,"Big mess, multiple species, many ASVs",,ASV_61,Telmatochromis brichardi,99.483,000026848_EF679266.1_Telmatochromis_dhonti_,99.483
+ASV_609,Telmatochromis ,sp,"Big mess, multiple species, many ASVs",,ASV_609,Telmatochromis bifrenatus,99.742,Telmatochromis_sp_dhonti_twiyu_LHC1,99.751
+ASV_608,Neolamprologus ,savoryi,"clear, 4 ASVs",,ASV_608,Neolamprologus savoryi,98.45,000054559_JQ950366.1_Neolamprologus_savoryi_,98.45
+ASV_607,,,,,ASV_607,Cyathopharynx furcifer,98.966,000009381_AY337781.1_Cyathopharynx_furcifer_,98.966
+ASV_606,,,,,ASV_606,Xenotilapia flavipinnis,97.416,000000033_U07269.1_Xenotilapia_flavipinnis_,97.416
+ASV_605,,,,,ASV_605,Grammatotria lemairii,96.899,Grammatotria_lemairii_JDD8,99.005
+ASV_604,,,,,ASV_604,Callochromis stappersii,99.742,000009375_AY337775.1_Callochromis_stappersii_,99.742
+ASV_603,,,,,ASV_603,Cyathopharynx furcifer,96.899,000009381_AY337781.1_Cyathopharynx_furcifer_,96.899
+ASV_602,Lamprologus,callipterus,Clear; 12 ASVs,,ASV_602,Lamprologus callipterus,99.483,Neolamprologus_cancellatus_LJD1,99.502
+ASV_601,,,"? long branch in Lamprologines by itself, single ASV",,ASV_601,Lamprologus callipterus,98.45,Neolamprologus_cancellatus_LJD1,98
+ASV_600,,,,,ASV_600,Petrochromis sp. 'Kazumbe',99.483,Petrochromis_sp_kazumbae_KEB4,99.502
+ASV_60,Neolamprologus,brichardi,clear; 7 ASVs,,ASV_60,Neolamprologus brichardi,99.742,Neolamprologus_marunguensis_JWH4,98.507
+ASV_6,,,,,ASV_6,Petrochromis sp. 'Kazumbe',99.742,Petrochromis_sp_kazumbae_KEB4,99.751
+ASV_599,,,,,ASV_599,Petrochromis orthognathus;Interochromis loocki,99.483,Petrochromis_sp_polyodon_texas_LHB3,98.756
+ASV_598,,,,,ASV_598,Xenotilapia leptura,95.607,Xenotilapia_longispinis_KAF6,99.502
+ASV_597,,,,,ASV_597,Cardiopharynx schoutedeni,97.416,000000010_U07243.1_Cardiopharynx_schoutedeni_,97.416
+ASV_596,,,,,ASV_596,Petrochromis sp. 'Moshi yellow',99.225,Petrochromis_sp_moshi_yellow_LCF8,98.01
+ASV_595,,,,,ASV_595,Petrochromis famula,99.742,Petrochromis_famula_IYA7,99.254
+ASV_594,Neolamprologus ,gracilis,clear; single ASV,,ASV_594,Neolamprologus sp. 'Palmeri',98.966,Neolamprologus_sp_gracilis_tanzania_LCC6,99.005
+ASV_593,Lamprologus,callipterus,Clear; 12 ASVs,,ASV_593,Lamprologus callipterus,99.483,Neolamprologus_cancellatus_LJD1,99.502
+ASV_592,,,,,ASV_592,Ophthalmotilapia ventralis,97.158,000009374_AY337774.1_Ophthalmotilapia_ventralis_,97.158
+ASV_591,,,,,ASV_591,Lobochilotes labiatus,98.45,Lobochilotes_labiatus_ISE5,97.761
+ASV_590,Neolamprologus,mondabu,clear clade with 14 ASVs; one genbank ref of mondabu,,ASV_590,Neolamprologus mondabu,99.483,000015925_EF462241.1_Neolamprologus_mondabu__000015926_EF462242.1_Neolamprologus_mondabu_,99.483
+ASV_59,Neolamprologus,toae,clear; 4 ASVs,,ASV_59,Neolamprologus toae,100,Neolamprologus_toae_JZD6,99.502
+ASV_589,Bathybates,hornii,no species ambiguity; single ASV,,ASV_589,Bathybates sp.,100,Bathybates_hornii_JDE4,99.254
+ASV_588,,,,,ASV_588,Ophthalmotilapia nasuta,97.933,000085019_KM288947.1_Ophthalmotilapia_nasuta_,97.933
+ASV_587,,,,,ASV_587,Xenotilapia flavipinnis,97.674,000000033_U07269.1_Xenotilapia_flavipinnis_,97.674
+ASV_585,Neolamprologus,walteri,There are nearly identical haplotypes also IDd by the Salzburger group as chitamwebwai (?); This is a clear clade including 6 ASVs,,ASV_585,Neolamprologus walteri,99.742,Neolamprologus_chitamwebwai_KHA9,99.751
+ASV_584,Boulengerochromis,microlepis,no species ambiguity; three ASVs,,ASV_584,Boulengerochromis microlepis,100,000026818_EF679235.1_Boulengerochromis_microlepis_,100
+ASV_583,,,,,ASV_583,Xenotilapia flavipinnis,98.966,000000033_U07269.1_Xenotilapia_flavipinnis_,98.966
+ASV_582,,,,,ASV_582,Lestradea perspicax,97.158,000009365_AY337765.1_Lestradea_perspicax_,97.158
+ASV_581,Oreochromis,tanganicae,clearly distinct clade with 7 ASVs,,ASV_581,Oreochromis tanganicae,99.742,Oreochromis_tanganicae_JAC7,99.751
+ASV_580,Neolamprologus,mondabu,clear clade with 14 ASVs; one genbank ref of mondabu,,ASV_580,Neolamprologus mondabu,99.483,000015925_EF462241.1_Neolamprologus_mondabu__000015926_EF462242.1_Neolamprologus_mondabu_,99.483
+ASV_58,,,,,ASV_58,Petrochromis sp. 'green',100,000054681_JQ755363.1_Petrochromis_sp._'green'_,100
+ASV_579,,,,,ASV_579,Cardiopharynx schoutedeni,96.382,000000010_U07243.1_Cardiopharynx_schoutedeni_,96.382
+ASV_578,,,,,ASV_578,Lestradea perspicax,98.45,000009365_AY337765.1_Lestradea_perspicax_,98.45
+ASV_577,Neolamprologus,furcifer,clear clade with 4 ASVs and two genbank refs,,ASV_577,Neolamprologus furcifer,100,000015933_EF462249.1_Neolamprologus_furcifer__000026834_EF679252.1_Neolamprologus_furcifer__000076558_KJ187231.1_Neolamprologus_furcifer__000076559_KJ187232.1_Neolamprologus_furcifer__000076567_KJ187241.1_Neolamprologus_furcifer__000076568_KJ187242.1_Neolamprologus_furcifer_,100
+ASV_576,Neolamprologus,mondabu,clear clade with 14 ASVs; one genbank ref of mondabu,,ASV_576,Neolamprologus mondabu,99.225,000015925_EF462241.1_Neolamprologus_mondabu__000015926_EF462242.1_Neolamprologus_mondabu_,99.225
+ASV_575,,,,,ASV_575,Xenotilapia cf. bathyphila,98.191,Xenotilapia_bathyphilus_IVB5,99.254
+ASV_574,,,,,ASV_574,Lestradea perspicax,98.191,000009365_AY337765.1_Lestradea_perspicax_,98.191
+ASV_573,Neolamprologus,niger,"seven ASVs, one single genbank sequence",,ASV_573,Neolamprologus niger,98.966,000003989_AY740391.1_Neolamprologus_niger_,98.966
+ASV_572,,,,,ASV_572,Petrochromis sp. 'Moshi yellow',99.483,Petrochromis_sp_moshi_yellow_LCF8,98.259
+ASV_571,Neolamprologus ,savoryi,"clear, 4 ASVs",,ASV_571,Neolamprologus savoryi,97.674,000015931_EF462247.1_Neolamprologus_savoryi_,97.674
+ASV_570,,,,,ASV_570,Petrochromis sp. 'Moshi',99.483,Petrochromis_sp_red_LCD5,99.005
+ASV_57,,,,,ASV_57,Petrochromis famula,100,Petrochromis_famula_IYA7,99.502
+ASV_569,,,,,ASV_569,Xenotilapia cf. bathyphila,97.674,Xenotilapia_bathyphilus_IVB5,98.756
+ASV_568,,,,,ASV_568,Xenotilapia flavipinnis,97.158,000009394_AY337794.1_Xenotilapia_flavipinnis_,97.158
+ASV_567,,,,,ASV_567,Petrochromis cf. polyodon SK-2009,100,Petrochromis_sp_moshi_yellow_LCF8,99
+ASV_566,Lepidiolamprologus ,sp,"Clade of several Lepidiolamprologus species -- elongatus, profudicola, attenuatus...and also some Neolamprologus species. I don't know what's going on but it seems like a mess. 10 ASVs in this group. ",,ASV_566,Lepidiolamprologus kendalli,99.742,000015952_EF462269.1_Lepidiolamprologus_kendalli_,99.742
+ASV_565,Telmatochromis ,sp,"Big mess, multiple species, many ASVs",,ASV_565,Telmatochromis brichardi,99.483,000026848_EF679266.1_Telmatochromis_dhonti_,99.483
+ASV_564,,,,,ASV_564,Xenotilapia spiloptera,98.966,Xenotilapia_sp_spilopterus_north_LEA3,99.254
+ASV_563,,,,,ASV_563,Cyathopharynx furcifer,97.416,000009381_AY337781.1_Cyathopharynx_furcifer_,97.416
+ASV_562,Tanganicodus,sp,"Eretmodine clade. Unresolvable by species, likely due to hybridization",,ASV_562,Eretmodus cyanostictus,99.225,Eretmodus_marksmithi_JXF4,99.254
+ASV_561,Neolamprologus,pulcher,two ASVs; one ref from genbank with this ID,,ASV_561,Neolamprologus brichardi,98.756,Neolamprologus_marunguensis_JWH4,99.254
+ASV_560,Telmatochromis ,sp,"Big mess, multiple species, many ASVs",,ASV_560,Telmatochromis bifrenatus,99.742,Telmatochromis_sp_dhonti_twiyu_LHC1,99.751
+ASV_56,,,,,ASV_56,Limnotilapia dardennii,99.742,Limnotilapia_dardennii_AWI6,99.502
+ASV_559,,,,,ASV_559,Petrochromis sp. 'Moshi yellow',99.225,Petrochromis_sp_moshi_yellow_LCF8,98.01
+ASV_558,,,,,ASV_558,Cyathopharynx furcifer,98.45,000009381_AY337781.1_Cyathopharynx_furcifer_,98.45
+ASV_557,,,,,ASV_557,Petrochromis famula,99.483,Petrochromis_famula_IYA7,98.259
+ASV_556,,,,,ASV_556,Cyathopharynx furcifer,98.966,000009381_AY337781.1_Cyathopharynx_furcifer_,98.966
+ASV_554,,,,,ASV_554,Xenotilapia spiloptera,98.966,Xenotilapia_sp_spilopterus_north_LEA3,99.254
+ASV_553,,,,,ASV_553,Cyprichromis pavo,99.225,Cyprichromis_pavo_JEB4,99.254
+ASV_552,,,,,ASV_552,Petrochromis cf. polyodon SK-2009,95.349,000028660_GQ995767.1_Petrochromis_cf._polyodon_SK-2009_,95.349
+ASV_551,Neolamprologus,walteri,There are nearly identical haplotypes also IDd by the Salzburger group as chitamwebwai (?); This is a clear clade including 6 ASVs,,ASV_551,Neolamprologus walteri,99.742,Neolamprologus_chitamwebwai_KHA9,99.751
+ASV_550,Julidochromis,marlieri,clear,,ASV_550,Julidochromis marlieri,99.742,Julidochromis_regani_KFF4,99.751
+ASV_55,,,,,ASV_55,Lobochilotes labiatus,99.483,Lobochilotes_labiatus_ISE5,98.756
+ASV_549,Lamprologus,lemairii,clearly linked to two references with this ID; three ASVs,,ASV_549,Lamprologus lemairii,99.742,Neolamprologus_caudopunctatus_IQA4,98.507
+ASV_548,,,,,ASV_548,Aulonocranus dewindti,98.966,000084974_KM288908.1_Aulonocranus_dewindti_,98.966
+ASV_547,Oreochromis,tanganicae,clearly distinct clade with 7 ASVs,,ASV_547,Oreochromis tanganicae,99.742,Oreochromis_tanganicae_JAC7,99.751
+ASV_546,,,,,ASV_546,Xenotilapia boulengeri,97.933,000033408_HM135111.1_Xenotilapia_boulengeri_,97.933
+ASV_545,Bathybates,fasciatus,no species ID ambiguity; six ASVs in this clade,,ASV_545,Bathybates fasciatus,99.742,Bathybates_fasciatus_GPB2,99.502
+ASV_544,,,,,ASV_544,Petrochromis sp. 'Kazumbe',99.742,Petrochromis_sp_kazumbae_KEB4,99.751
+ASV_543,,,,,ASV_543,Petrochromis famula,99.742,Petrochromis_famula_IYA7,98.507
+ASV_542,Chalinochromis ,sp,"three ASVs in large clade of unresolved Chalinochromis, Julidochromis",,ASV_542,Neolamprologus sp. 'ndobnoi',98.966,Julidochromis_sp_unterfels_JWA2,99.254
+ASV_541,,,,,ASV_541,Xenotilapia flavipinnis,97.674,000000033_U07269.1_Xenotilapia_flavipinnis_,97.674
+ASV_540,,,,,ASV_540,Callochromis pleurospilus,98.191,Callochromis_melanostigma_KAF4,97.015
+ASV_54,,,,,ASV_54,Petrochromis sp. 'Moshi yellow',100,Petrochromis_sp_moshi_yellow_LCF8,98.756
+ASV_539,Telmatochromis ,sp,"Big mess, multiple species, many ASVs",,ASV_539,Telmatochromis brichardi,98.966,000026848_EF679266.1_Telmatochromis_dhonti_,98.966
+ASV_538,,,,,ASV_538,Cichlidae environmental sample,96.899,Petrochromis_sp_giant_LDC6,97.015
+ASV_537,,,,,ASV_537,Ophthalmotilapia nasuta,99.483,000085019_KM288947.1_Ophthalmotilapia_nasuta_,99.483
+ASV_536,,,,,ASV_536,Cardiopharynx schoutedeni,97.933,000000010_U07243.1_Cardiopharynx_schoutedeni_,97.933
+ASV_535,,,,,ASV_535,Cyathopharynx furcifer,97.933,000009381_AY337781.1_Cyathopharynx_furcifer_,97.933
+ASV_532,Lamprologus ,ocellatus,only one ref; three ASVs,,ASV_532,Lamprologus ocellatus,99.225,000015942_EF462259.1_Lamprologus_ocellatus_,99.225
+ASV_531,,,,,ASV_531,Lestradea perspicax,99.225,000009365_AY337765.1_Lestradea_perspicax_,99.225
+ASV_530,,,,,ASV_530,Xenotilapia flavipinnis,98.966,000000033_U07269.1_Xenotilapia_flavipinnis_,98.966
+ASV_53,,,,,ASV_53,Xenotilapia spiloptera,98.966,Xenotilapia_sp_spilopterus_north_LEA3,99.254
+ASV_529,,,,,ASV_529,Cyathopharynx furcifer,97.674,000009381_AY337781.1_Cyathopharynx_furcifer_,97.674
+ASV_528,,,,,ASV_528,Xenotilapia boulengeri,98.45,Xenotilapia_sima_LBE9,97.761
+ASV_527,,,,,ASV_527,Cardiopharynx schoutedeni,95.866,000000010_U07243.1_Cardiopharynx_schoutedeni_,95.866
+ASV_526,,,,,ASV_526,Grammatotria lemairii,96.899,Grammatotria_lemairii_JDD8,99.502
+ASV_525,,,,,ASV_525,Xenotilapia leptura,96.124,Xenotilapia_sima_LBE9,96.517
+ASV_524,,,,,ASV_524,Xenotilapia boulengeri,96.641,Xenotilapia_sima_LBE9,99.502
+ASV_523,,,,,ASV_523,Oreochromis tanganicae,95.349,Oreochromis_tanganicae_JAC7,95
+ASV_522,Neolamprologus,sp,"affiliated with longicaudatus and savoryi, but distinct clade of ASVs. It could be that there are no reference sequences of longicaudatus or savoryi from this part of the lake?  I am unfamiliar with the geographic distribution of these species",longicaudatus or savoryi,ASV_522,Neolamprologus multifasciatus,96.114,Neolamprologus_falcicula_JXD7,96.259
+ASV_521,,,,,ASV_521,Limnotilapia dardennii,99.483,Limnotilapia_dardennii_AWI6,99.502
+ASV_520,,,,,ASV_520,Haplochromis burtoni,95.5,Tropheus_moorii_JBH4,92.75
+ASV_52,Oreochromis,sp,"distinct clade from most O. tanganicae sequences which have ASVs associated with them, so I'd guess this is a different Oreochromis species, and I'd be curious if it was associated with river inflow. There is one sequenced labeled O. malagarasi  these ASVs are closely associated with. There are three ASVs in the group. ",malagarasi,ASV_52,Oreochromis upembae,100,Oreochromis_malagarasi_KYH4,100
+ASV_519,Neolamprologus,niger,"seven ASVs, one single genbank sequence",,ASV_519,Neolamprologus niger,99.225,000003989_AY740391.1_Neolamprologus_niger_,99.225
+ASV_518,Lamprologus ,ocellatus,only one ref; three ASVs,,ASV_518,Lamprologus ocellatus,99.225,000015942_EF462259.1_Lamprologus_ocellatus_,99.225
+ASV_517,Neolamprologus,sp,"affiliated with longicaudatus and savoryi, but distinct clade of ASVs. It could be that there are no reference sequences of longicaudatus or savoryi from this part of the lake?  I am unfamiliar with the geographic distribution of these species",longicaudatus or savoryi,ASV_517,Neolamprologus longicaudatus,96.382,Neolamprologus_longicaudatus_JWI3,96.517
+ASV_516,,,,,ASV_516,Xenotilapia ochrogenys,96.641,Xenotilapia_sp_kilesa_Bel03,96.985
+ASV_515,,,,,ASV_515,Petrochromis sp. 'Moshi',98.191,Petrochromis_sp_red_LCD5,97.015
+ASV_514,,,,,ASV_514,Xenotilapia flavipinnis,99.225,000000033_U07269.1_Xenotilapia_flavipinnis_,99.225
+ASV_513,,,,,ASV_513,Grammatotria lemairii,96.899,Grammatotria_lemairii_JDD8,99.005
+ASV_512,,,,,ASV_512,Ophthalmotilapia ventralis,99.483,000000024_U07257.1_Ophthalmotilapia_ventralis_,99.483
+ASV_511,Neolamprologus,sp,"affiliated with longicaudatus and savoryi, but distinct clade of ASVs. It could be that there are no reference sequences of longicaudatus or savoryi from this part of the lake?  I am unfamiliar with the geographic distribution of these species",longicaudatus or savoryi,ASV_511,Lepidiolamprologus kendalli,96.114,Neolamprologus_falcicula_JXD7,96.509
+ASV_510,Unknown,sp,Cool potentially unknown species with affinity to Chalinochromis; clade of 9 ASVs with no ref among them,,ASV_510,Neolamprologus christyi,97.416,Neolamprologus_christyi_IZI8,97.512
+ASV_51,Telmatochromis,sp,bifrenatus or temporalis,,ASV_51,Telmatochromis temporalis,100,Neolamprologus_chitamwebwai_KHA9,99.751
+ASV_509,,,,,ASV_509,Lobochilotes labiatus,99.742,Lobochilotes_labiatus_ISE5,98.756
+ASV_508,,,,,ASV_508,Grammatotria lemairii,97.158,Grammatotria_lemairii_JDD8,99.751
+ASV_507,Altolamprologus,compressiceps,most likely but there is another compressiceps clade. Only one ref with this one,,ASV_507,Altolamprologus compressiceps,100,000026820_EF679237.1_Altolamprologus_compressiceps_,100
+ASV_506,,,,,ASV_506,Petrochromis sp. 'Kazumbe',98.708,Petrochromis_sp_kazumbae_KEB4,98.756
+ASV_505,Neolamprologus,similis,clear; three ASVs,,ASV_505,Neolamprologus similis,98.966,Neolamprologus_similis_KEC2,98.756
+ASV_504,Neolamprologus,toae,clear; 4 ASVs,,ASV_504,Neolamprologus toae,99.483,Neolamprologus_toae_JZD6,100
+ASV_503,Telmatochromis,sp,likely bifrenatus but could be temporalis,bifrenatus,ASV_503,Telmatochromis temporalis,99.225,Telmatochromis_bifrenatus_KYB8,100
+ASV_502,,,,,ASV_502,Lobochilotes labiatus,99.225,Lobochilotes_labiatus_ISE5,98.507
+ASV_501,Telmatochromis ,sp,"Big mess, multiple species, many ASVs",,ASV_501,Telmatochromis dhonti,99.483,000026848_EF679266.1_Telmatochromis_dhonti_,99.483
+ASV_500,Neolamprologus,toae,clear; 4 ASVs,,ASV_500,Neolamprologus toae,99.483,Neolamprologus_toae_JZD6,99.502
+ASV_50,,,,,ASV_50,Xenotilapia boulengeri,95.573,Xenotilapia_sp_kilesa_Bel03,98.507
+ASV_5,,,,,ASV_5,Tropheus brichardi,99.742,Tropheus_sp_murago_LHD9,99.751
+ASV_499,,,,,ASV_499,Tropheus brichardi,99.483,Tropheus_sp_murago_LHD9,99.502
+ASV_498,Neolamprologus,brevis/calliurus,"cannot distinguish between brevis, calliurus and perhaps also speciosus, but speciosus is only one sequence. 5 ASVs. ",,ASV_498,Neolamprologus brevis,99.483,Neolamprologus_sp_brevis_magara_KCI6,99.502
+ASV_497,,,,,ASV_497,Enantiopus melanogenys,96.382,Xenotilapia_sima_LBE9,96.517
+ASV_496,,,,,ASV_496,Cardiopharynx schoutedeni,98.966,000000010_U07243.1_Cardiopharynx_schoutedeni_,98.966
+ASV_495,,,,,ASV_495,Petrochromis sp. 'Moshi yellow',99.483,Petrochromis_sp_moshi_yellow_LCF8,98.259
+ASV_494,Spathodus,sp,"Eretmodine clade. Unresolvable by species, likely due to hybridization",,ASV_494,Spathodus erythrodon,98.191,000005428_AF317267.1_Spathodus_erythrodon_,98.191
+ASV_493,,,,,ASV_493,Grammatotria lemairii,97.158,Grammatotria_lemairii_JDD8,99.751
+ASV_492,,,,,ASV_492,Xenotilapia sima,98.966,Xenotilapia_sima_LBE9,98
+ASV_491,,,,,ASV_491,Grammatotria lemairii,98.191,Grammatotria_lemairii_JDD7,99.502
+ASV_490,Spathodus,sp,"Eretmodine clade. Unresolvable by species, likely due to hybridization",,ASV_490,Spathodus erythrodon,99.742,000005428_AF317267.1_Spathodus_erythrodon_,99.742
+ASV_49,,,,,ASV_49,Petrochromis trewavasae,97.761,Petrochromis_sp_polyodon_texas_LHB3,98.756
+ASV_489,Unknown,sp,Cool potentially unknown species with affinity to Chalinochromis; clade of 9 ASVs with no ref among them,,ASV_489,Neolamprologus christyi,97.416,Neolamprologus_christyi_IZI8,97.512
+ASV_488,,,,,ASV_488,Cardiopharynx schoutedeni,98.966,000000010_U07243.1_Cardiopharynx_schoutedeni_,98.966
+ASV_487,,,,,ASV_487,Cardiopharynx schoutedeni,96.382,000000010_U07243.1_Cardiopharynx_schoutedeni_,96.382
+ASV_486,Telmatochromis ,sp,"Big mess, multiple species, many ASVs",,ASV_486,Telmatochromis dhonti,99.742,000026848_EF679266.1_Telmatochromis_dhonti_,99.742
+ASV_485,,,,,ASV_485,Limnotilapia dardennii,99.742,Limnotilapia_dardennii_AWI6,99.502
+ASV_484,Telmatochromis ,sp,"Big mess, multiple species, many ASVs",,ASV_484,Neolamprologus savoryi,98.966,Telmatochromis_sp_dhonti_twiyu_LHC1,98.01
+ASV_483,Tanganicodus,sp,"Eretmodine clade. Unresolvable by species, likely due to hybridization",,ASV_483,Eretmodus cyanostictus,97.674,Eretmodus_marksmithi_JXF4,97.761
+ASV_482,,,,,ASV_482,Lobochilotes labiatus,99.742,Lobochilotes_labiatus_ISE5,98.756
+ASV_481,,,,,ASV_481,Xenotilapia spiloptera,98.966,Xenotilapia_sp_spilopterus_north_LEA3,99.254
+ASV_480,Altolamprologus,compressiceps,Clear; 2 ASVs. There was another clade with A compressiceps reference but this one contains two references and is sister to A. calvus so seems more legit,,ASV_480,Altolamprologus compressiceps,99.742,000014358_AF398229.1_Altolamprologus_compressiceps__000014372_EF191121.1_Altolamprologus_compressiceps_,99.742
+ASV_48,Neolamprologus,brevis/calliurus,"cannot distinguish between brevis, calliurus and perhaps also speciosus, but speciosus is only one sequence. 5 ASVs. ",,ASV_48,Neolamprologus brevis,99.742,Neolamprologus_sp_brevis_magara_KCI6,99.751
+ASV_479,,,,,ASV_479,Lobochilotes labiatus,99.742,Lobochilotes_labiatus_ISE5,98.756
+ASV_478,Tanganicodus,sp,"Eretmodine clade. Unresolvable by species, likely due to hybridization",,ASV_478,Eretmodus cyanostictus,99.483,Eretmodus_marksmithi_JXF4,99.502
+ASV_477,,,,,ASV_477,Haplochromis burtoni,96.02,Petrochromis_sp_giant_LDC6,96.766
+ASV_476,,,,,ASV_476,Tropheus moorii,100,Tropheus_sp_mpimbwe_LDI7,99.002
+ASV_475,Neolamprologus ,tetracanthus,unclear but best guess two ASVs,,ASV_475,Neolamprologus tetracanthus,100,Lepidiolamprologus_cunningtoni_IOH5,98.756
+ASV_474,,,,,ASV_474,Tropheus brichardi,99.483,Tropheus_sp_murago_LHD9,99.502
+ASV_473,Neolamprologus,walteri,There are nearly identical haplotypes also IDd by the Salzburger group as chitamwebwai (?); This is a clear clade including 6 ASVs,,ASV_473,Neolamprologus walteri,99.742,Neolamprologus_walteri_KFD4,100
+ASV_472,,,,,ASV_472,Cyphotilapia frontosa,100,Cyphotilapia_frontosa_LEI9,100
+ASV_471,,,,,ASV_471,Macrognathus pancalus,86.717,Neolamprologus_bifasciatus_LHF7,80.25
+ASV_470,Tanganicodus,sp,"Eretmodine clade. Unresolvable by species, likely due to hybridization",,ASV_470,Eretmodus cyanostictus,98.45,Eretmodus_marksmithi_JXF4,98.507
+ASV_47,,,,,ASV_47,Petrochromis sp. 'Moshi yellow',99.483,Petrochromis_sp_moshi_yellow_LCF8,99.751
+ASV_469,,,,,ASV_469,Xenotilapia spiloptera,99.225,Xenotilapia_sp_spilopterus_north_LEA3,99.502
+ASV_468,,,,,ASV_468,Potamothrissa obtusirostris,89.114,NO MATCH,NA
+ASV_467,,,,,ASV_467,Aulonocranus dewindti,98.966,000084974_KM288908.1_Aulonocranus_dewindti_,98.966
+ASV_466,,,,,ASV_466,Petrochromis sp. 'Moshi',99.483,Petrochromis_sp_red_LCD5,99.005
+ASV_465,Lamprologus ,ocellatus,only one ref; three ASVs,,ASV_465,Lamprologus ocellatus,98.708,000015942_EF462259.1_Lamprologus_ocellatus_,98.708
+ASV_464,,,,,ASV_464,Grammatotria lemairii,97.416,Grammatotria_lemairii_JDD8,100
+ASV_463,,,,,ASV_463,Grammatotria lemairii,96.899,Grammatotria_lemairii_JDD8,99.005
+ASV_462,,,,,ASV_462,Petrochromis cf. polyodon SK-2009,99.742,000028660_GQ995767.1_Petrochromis_cf._polyodon_SK-2009_,99.742
+ASV_461,,,,,ASV_461,Limnotilapia dardennii,99.742,Limnotilapia_dardennii_AWI6,99.502
+ASV_460,,,,,ASV_460,Petrochromis sp. 'Kazumbe',98.45,Petrochromis_sp_kazumbae_KEB4,98.507
+ASV_46,,,,,ASV_46,Pundamilia nyererei,99.254,000001733_AY930073.1_Astatotilapia_sp._R185_,99.225
+ASV_459,,,,,ASV_459,Xenotilapia spiloptera,98.708,Xenotilapia_sp_spilopterus_north_LEA3,99.005
+ASV_458,,,,,ASV_458,Simochromis diagramma,99.483,Simochromis_diagramma_AUD8,98.507
+ASV_457,Neolamprologus,similis,clear; three ASVs,,ASV_457,Neolamprologus similis,99.225,Neolamprologus_similis_KEC2,99.005
+ASV_456,,,,,ASV_456,Petrochromis sp. 'Moshi',98.191,Petrochromis_sp_red_LCD5,97.264
+ASV_455,,,,,ASV_455,Xenotilapia leptura,99.742,Asprotilapia_leptura_INF2,99.005
+ASV_454,,,,,ASV_454,Xenotilapia boulengeri,96.124,Xenotilapia_nigrolabiata_IZC7,99.502
+ASV_453,,,,,ASV_453,Tylochromis polylepis,100,000022046_AP009509.1_Tylochromis_polylepis_,100
+ASV_452,Neolamprologus,mondabu,clear clade with 14 ASVs; one genbank ref of mondabu,,ASV_452,Neolamprologus mondabu,99.742,000015925_EF462241.1_Neolamprologus_mondabu__000015926_EF462242.1_Neolamprologus_mondabu_,99.742
+ASV_451,Unknown,sp,Cool potentially unknown species with affinity to Chalinochromis; clade of 9 ASVs with no ref among them,,ASV_451,Neolamprologus christyi,97.158,Neolamprologus_christyi_IZI8,97.264
+ASV_450,,,,,ASV_450,Limnotilapia dardennii,100,Limnotilapia_dardennii_AWI6,99.502
+ASV_45,,,,,ASV_45,Petrochromis sp. 'Kazumbe',98.708,Petrochromis_sp_kazumbae_KEB4,98.756
+ASV_449,,,,,ASV_449,Grammatotria lemairii,96.899,Grammatotria_lemairii_JDD8,99.005
+ASV_448,,,,,ASV_448,Grammatotria lemairii,96.899,Grammatotria_lemairii_JDD8,99.005
+ASV_447,,,,,ASV_447,Petrochromis sp. 'Moshi yellow',99.225,Petrochromis_sp_moshi_yellow_LCF8,99.254
+ASV_446,Neolamprologus,mondabu,clear clade with 14 ASVs; one genbank ref of mondabu,,ASV_446,Neolamprologus mondabu,99.742,000015925_EF462241.1_Neolamprologus_mondabu__000015926_EF462242.1_Neolamprologus_mondabu_,99.742
+ASV_445,,,,,ASV_445,Petrochromis sp. 'Kazumbe',99.742,Petrochromis_sp_kazumbae_KEB4,99.751
+ASV_444,,,,,ASV_444,Ophthalmotilapia ventralis,99.742,000000024_U07257.1_Ophthalmotilapia_ventralis_,99.742
+ASV_443,,,,,ASV_443,Limnotilapia dardennii,99.742,Limnotilapia_dardennii_AWI6,99.502
+ASV_442,Neolamprologus,mondabu,clear clade with 14 ASVs; one genbank ref of mondabu,,ASV_442,Neolamprologus mondabu,99.742,000015925_EF462241.1_Neolamprologus_mondabu__000015926_EF462242.1_Neolamprologus_mondabu_,99.742
+ASV_441,,,,,ASV_441,Xenotilapia spiloptera,98.966,Xenotilapia_sp_spilopterus_north_LEA3,99.254
+ASV_440,,,,,ASV_440,Serranochromis macrocephalus,94.527,Limnochromis_staneri_ITC2,95.025
+ASV_44,Neolamprologus,brichardi,clear; 7 ASVs,,ASV_44,Neolamprologus brichardi,100,000026833_EF679251.1_Neolamprologus_brichardi_,100
+ASV_439,,,,,ASV_439,Cyathopharynx furcifer,97.674,000009381_AY337781.1_Cyathopharynx_furcifer_,97.674
+ASV_438,,,,,ASV_438,Petrochromis sp. 'Kazumbe',99.742,Petrochromis_sp_kazumbae_KEB4,99.751
+ASV_437,,,,,ASV_437,Simochromis diagramma,99.742,Simochromis_diagramma_AUD8,98.756
+ASV_436,,,,,ASV_436,Grammatotria lemairii,96.899,Grammatotria_lemairii_JDD8,99.005
+ASV_435,,,,,ASV_435,Petrochromis sp. 'Moshi',99.483,Petrochromis_sp_red_LCD5,99.005
+ASV_434,,,,,ASV_434,Ophthalmotilapia ventralis,98.191,000009374_AY337774.1_Ophthalmotilapia_ventralis_,98.191
+ASV_433,,,,,ASV_433,Limnotilapia dardennii,99.225,Limnotilapia_dardennii_AWI6,99.254
+ASV_432,Telmatochromis ,sp,"Big mess, multiple species, many ASVs",,ASV_432,Telmatochromis dhonti,99.483,Telmatochromis_sp_dhonti_twiyu_LHC1,98.507
+ASV_431,,,,,ASV_431,Grammatotria lemairii,97.158,Grammatotria_lemairii_JDD8,99.254
+ASV_430,,,,,ASV_430,Cardiopharynx schoutedeni,99.483,000000010_U07243.1_Cardiopharynx_schoutedeni_,99.483
+ASV_43,Boulengerochromis,microlepis,no species ambiguity; three ASVs,,ASV_43,Boulengerochromis microlepis,100,000026818_EF679235.1_Boulengerochromis_microlepis_,100
+ASV_428,Tanganicodus,sp,"Eretmodine clade. Unresolvable by species, likely due to hybridization",,ASV_428,Eretmodus cyanostictus,99.483,Eretmodus_marksmithi_JXF4,99.502
+ASV_427,,,,,ASV_427,Limnotilapia dardennii,99.225,Limnotilapia_dardennii_AWI6,99.254
+ASV_426,,,,,ASV_426,Grammatotria lemairii,96.899,Grammatotria_lemairii_JDD8,99.005
+ASV_425,Neolamprologus,furcifer,clear clade with 4 ASVs and two genbank refs,,ASV_425,Neolamprologus furcifer,99.742,000015933_EF462249.1_Neolamprologus_furcifer__000026834_EF679252.1_Neolamprologus_furcifer__000076558_KJ187231.1_Neolamprologus_furcifer__000076559_KJ187232.1_Neolamprologus_furcifer__000076567_KJ187241.1_Neolamprologus_furcifer__000076568_KJ187242.1_Neolamprologus_furcifer_,99.742
+ASV_424,Lamprologus,callipterus,Clear; 12 ASVs,,ASV_424,Lamprologus callipterus,99.742,Neolamprologus_cancellatus_LJD1,99.502
+ASV_423,Neolamprologus,mondabu,clear clade with 14 ASVs; one genbank ref of mondabu,,ASV_423,Neolamprologus mondabu,99.742,000015925_EF462241.1_Neolamprologus_mondabu__000015926_EF462242.1_Neolamprologus_mondabu_,99.742
+ASV_422,,,,,ASV_422,Lobochilotes labiatus,99.483,Lobochilotes_labiatus_ISE5,98.756
+ASV_421,,,,,ASV_421,Petrochromis sp. 'Kazumbe',99.483,Petrochromis_sp_kazumbae_KEB4,99.502
+ASV_420,Lepidiolamprologus ,sp,"Clade of several Lepidiolamprologus species -- elongatus, profudicola, attenuatus...and also some Neolamprologus species. I don't know what's going on but it seems like a mess. 10 ASVs in this group. ",,ASV_420,Lepidiolamprologus profundicola,99.742,000033255_HM623830.1_Lepidiolamprologus_profundicola_,99.742
+ASV_42,,,,,ASV_42,Petrochromis sp. 'Moshi yellow',99.742,Petrochromis_sp_moshi_yellow_LCF8,98.507
+ASV_419,,,,,ASV_419,Cardiopharynx schoutedeni,96.124,000000010_U07243.1_Cardiopharynx_schoutedeni_,96.124
+ASV_418,,,,,ASV_418,Cyprichromis pavo,98.45,Cyprichromis_pavo_JEB4,98.507
+ASV_417,,,,,ASV_417,Simochromis diagramma,99.742,Simochromis_diagramma_AUD8,98.756
+ASV_416,,,,,ASV_416,Simochromis diagramma,99.742,Simochromis_diagramma_AUD8,98.756
+ASV_415,,,,,ASV_415,Lepidiolamprologus kendalli,99.742,000015952_EF462269.1_Lepidiolamprologus_kendalli_,99.742
+ASV_414,,,,,ASV_414,Xenotilapia flavipinnis,98.966,000009394_AY337794.1_Xenotilapia_flavipinnis_,98.966
+ASV_413,Telmatochromis ,sp,"Big mess, multiple species, many ASVs",,ASV_413,Telmatochromis brichardi,99.225,000026848_EF679266.1_Telmatochromis_dhonti_,99.225
+ASV_412,Neolamprologus,sp,"affiliated with longicaudatus and savoryi, but distinct clade of ASVs. It could be that there are no reference sequences of longicaudatus or savoryi from this part of the lake?  I am unfamiliar with the geographic distribution of these species",longicaudatus or savoryi,ASV_412,Lepidiolamprologus kendalli,95.855,Neolamprologus_falcicula_JXD7,96.259
+ASV_411,,,,,ASV_411,Callochromis macrops,99.483,Callochromis_melanostigma_KAF4,99.502
+ASV_410,,,,,ASV_410,Cardiopharynx schoutedeni,95.607,000000010_U07243.1_Cardiopharynx_schoutedeni_,95.607
+ASV_41,,,,,ASV_41,Cichlidae environmental sample,100,Limnotilapia_dardennii_AWI5,100
+ASV_409,,,,,ASV_409,Pseudosimochromis babaulti,99.742,000001747_AY930087.1_Simochromis_diagramma_,99.742
+ASV_408,,,,,ASV_408,Callochromis macrops,97.416,Callochromis_macrops_BND3,98.259
+ASV_407,,,,,ASV_407,Cyathopharynx furcifer,98.966,000009381_AY337781.1_Cyathopharynx_furcifer_,98.966
+ASV_406,,,,,ASV_406,Xenotilapia spiloptera,98.966,Xenotilapia_sp_spilopterus_north_LEA3,99.254
+ASV_405,,,,,ASV_405,Xenotilapia flavipinnis,98.966,000000033_U07269.1_Xenotilapia_flavipinnis_,98.966
+ASV_404,Lepidiolamprologus ,sp,"Clade of several Lepidiolamprologus species -- elongatus, profudicola, attenuatus...and also some Neolamprologus species. I don't know what's going on but it seems like a mess. 10 ASVs in this group. ",,ASV_404,Lepidiolamprologus profundicola,99.742,Neolamprologus_cancellatus_LJD1,98.507
+ASV_403,,,,,ASV_403,Petrochromis cf. polyodon SK-2009,99.483,Petrochromis_sp_moshi_yellow_LCF8,98.507
+ASV_402,,,,,ASV_402,Xenotilapia spiloptera,98.966,Xenotilapia_sp_spilopterus_north_LEA3,99.254
+ASV_401,Spathodus,sp,"Eretmodine clade. Unresolvable by species, likely due to hybridization",,ASV_401,Spathodus marlieri,97.158,Spathodus_erythrodon_JUB7,97.257
+ASV_400,Lamprologus,callipterus,Clear; 12 ASVs,,ASV_400,Lamprologus callipterus,98.708,Lamprologus_callipterus_JAB1,98.259
+ASV_40,,,,,ASV_40,Ctenochromis horei,100,Ctenochromis_horei_AXA7,100
+ASV_4,,,,,ASV_4,Simochromis diagramma,100,Simochromis_diagramma_AUD8,99.005
+ASV_399,,,,,ASV_399,Lestradea perspicax,97.158,000009365_AY337765.1_Lestradea_perspicax_,97.158
+ASV_398,,,,,ASV_398,Cyathopharynx furcifer,99.225,000009381_AY337781.1_Cyathopharynx_furcifer_,99.225
+ASV_397,Telmatochromis ,sp,"Big mess, multiple species, many ASVs",,ASV_397,Telmatochromis brichardi,99.225,000026848_EF679266.1_Telmatochromis_dhonti_,99.225
+ASV_396,,,,,ASV_396,Lepidiolamprologus attenuatus,100,000015956_EF462273.1_Lepidiolamprologus_attenuatus__000015957_EF462274.1_Lepidiolamprologus_attenuatus_,100
+ASV_395,Unknown,sp,Cool potentially unknown species with affinity to Chalinochromis; clade of 9 ASVs with no ref among them,,ASV_395,Neolamprologus christyi,96.382,Neolamprologus_christyi_IZI8,96.517
+ASV_394,Neolamprologus,walteri,There are nearly identical haplotypes also IDd by the Salzburger group as chitamwebwai (?); This is a clear clade including 6 ASVs,,ASV_394,Neolamprologus walteri,99.742,Neolamprologus_chitamwebwai_KHA9,99.751
+ASV_393,,,,,ASV_393,Grammatotria lemairii,97.933,Grammatotria_lemairii_JDD7,99.502
+ASV_392,Oreochromis,tanganicae,clearly distinct clade with 7 ASVs,,ASV_392,Oreochromis tanganicae,99.742,Oreochromis_tanganicae_JAC7,99.751
+ASV_391,Spathodus,sp,"Eretmodine clade. Unresolvable by species, likely due to hybridization",,ASV_391,Spathodus erythrodon,96.641,000005428_AF317267.1_Spathodus_erythrodon_,96.641
+ASV_390,,,,,ASV_390,Petrochromis cf. macrognathus SK-2009,99.742,Petrochromis_sp_moshi_yellow_LCF8,98.756
+ASV_39,,,,,ASV_39,Tropheus polli,100,Tropheus_polli_LEF9,99.751
+ASV_389,,,,,ASV_389,Cardiopharynx schoutedeni,98.191,000000010_U07243.1_Cardiopharynx_schoutedeni_,98.191
+ASV_388,,,,,ASV_388,Petrochromis sp. 'Moshi yellow',99.742,Petrochromis_sp_moshi_yellow_LCF8,99.502
+ASV_387,,,,,ASV_387,Simochromis diagramma,99.742,Simochromis_diagramma_AUD8,98.756
+ASV_386,,,,,ASV_386,Petrochromis sp. 'Moshi',99.742,Petrochromis_sp_red_LCD5,98.756
+ASV_385,,,,,ASV_385,Grammatotria lemairii,96.899,Grammatotria_lemairii_JDD8,99.005
+ASV_384,,,,,ASV_384,Limnotilapia dardennii,99.483,Limnotilapia_dardennii_AWI6,99.502
+ASV_383,,,,,ASV_383,Grammatotria lemairii,97.933,Grammatotria_lemairii_JDD7,100
+ASV_382,Neolamprologus,brichardi,clear; 7 ASVs,,ASV_382,Neolamprologus brichardi,99.225,Neolamprologus_brichardi_JUI1,98.259
+ASV_381,,,,,ASV_381,Mastacembelus erythrotaenia,88.191,Neolamprologus_sexfasciatus_IND8,77.307
+ASV_380,,,,,ASV_380,Grammatotria lemairii,97.933,Grammatotria_lemairii_JDD7,99.502
+ASV_38,,,,,ASV_38,Lobochilotes labiatus,99.742,Lobochilotes_labiatus_ISE5,99.254
+ASV_379,,,,,ASV_379,Cyprichromis cf. leptosoma 'jumbo tricolor',98.45,Cyprichromis_pavo_JEB4,98.01
+ASV_378,Unknown,sp,Cool potentially unknown species with affinity to Chalinochromis; clade of 9 ASVs with no ref among them,,ASV_378,Neolamprologus christyi,97.158,Neolamprologus_christyi_IZI8,97.264
+ASV_377,Neolamprologus,toae,clear; 4 ASVs,,ASV_377,Neolamprologus toae,99.742,Neolamprologus_toae_JZD6,99.751
+ASV_376,,,,,ASV_376,Petrochromis sp. 'Moshi yellow',99.742,Petrochromis_sp_moshi_yellow_LCF8,98.507
+ASV_375,,,,,ASV_375,Petrochromis sp. 'Kazumbe',99.742,Petrochromis_sp_kazumbae_KEB4,99.751
+ASV_374,Telmatochromis ,sp,"Big mess, multiple species, many ASVs",,ASV_374,Telmatochromis brichardi,99.225,000026848_EF679266.1_Telmatochromis_dhonti_,99.225
+ASV_373,,,,,ASV_373,Chalinochromis brichardi,99.742,Chalinochromis_sp_ndobhoi_KEF1,99.502
+ASV_372,Neolamprologus,brevis/calliurus,"cannot distinguish between brevis, calliurus and perhaps also speciosus, but speciosus is only one sequence. 5 ASVs. ",,ASV_372,Neolamprologus fasciatus x Neolamprologus calliurus;Lamprologus callipterus x Neolamprologus calliurus,100,Neolamprologus_calliurus_ILA7,100
+ASV_371,,,,,ASV_371,Cardiopharynx schoutedeni,95.866,000000010_U07243.1_Cardiopharynx_schoutedeni_,95.866
+ASV_370,,,,,ASV_370,Tropheus brichardi,99.742,Tropheus_sp_murago_LHD9,99.751
+ASV_37,Neolamprologus,furcifer,clear clade with 4 ASVs and two genbank refs,,ASV_37,Neolamprologus furcifer,100,000015933_EF462249.1_Neolamprologus_furcifer__000026834_EF679252.1_Neolamprologus_furcifer__000076558_KJ187231.1_Neolamprologus_furcifer__000076559_KJ187232.1_Neolamprologus_furcifer__000076567_KJ187241.1_Neolamprologus_furcifer__000076568_KJ187242.1_Neolamprologus_furcifer_,100
+ASV_369,Telmatochromis ,sp,"Big mess, multiple species, many ASVs",,ASV_369,Telmatochromis brichardi,98.966,000026848_EF679266.1_Telmatochromis_dhonti_,98.966
+ASV_368,,,,,ASV_368,Cardiopharynx schoutedeni,98.45,000000010_U07243.1_Cardiopharynx_schoutedeni_,98.45
+ASV_367,,,,,ASV_367,Petrochromis sp. 'Moshi',100,Petrochromis_sp_red_LCD5,98.756
+ASV_366,,,,,ASV_366,Enantiopus melanogenys,98.45,000003839_AY682517.1_Xenotilapia_melanogenys_,98.45
+ASV_365,,,,,ASV_365,Petrochromis sp. 'Moshi yellow',99.483,Petrochromis_sp_moshi_yellow_LCF8,99.751
+ASV_364,Telmatochromis ,sp,"Big mess, multiple species, many ASVs",,ASV_364,Telmatochromis dhonti,99.742,000026848_EF679266.1_Telmatochromis_dhonti_,99.742
+ASV_363,,,,,ASV_363,Cheilochromis euchilus,95.511,Petrochromis_sp_giant_LDC6,96.517
+ASV_362,,,,,ASV_362,Cardiopharynx schoutedeni,96.124,000000010_U07243.1_Cardiopharynx_schoutedeni_,96.124
+ASV_361,,,,,ASV_361,Xenotilapia boulengeri,97.674,000033408_HM135111.1_Xenotilapia_boulengeri_,97.674
+ASV_360,Neolamprologus,pulcher,two ASVs; one ref from genbank with this ID,,ASV_360,Neolamprologus brichardi,98.507,Neolamprologus_marunguensis_JWH4,99.005
+ASV_36,,,,,ASV_36,Simochromis diagramma,99.742,Simochromis_diagramma_AUD8,98.756
+ASV_359,,,,,ASV_359,Simochromis diagramma,99.483,Simochromis_diagramma_AUD8,98.507
+ASV_358,,,,,ASV_358,Simochromis diagramma,99.742,Simochromis_diagramma_AUD8,98.756
+ASV_357,,,,,ASV_357,Cichlidae environmental sample,99.742,Limnotilapia_dardennii_AWI5,99.751
+ASV_356,,,,,ASV_356,Xenotilapia flavipinnis,97.674,000000033_U07269.1_Xenotilapia_flavipinnis_,97.674
+ASV_355,,,,,ASV_355,Cardiopharynx schoutedeni,99.483,000000010_U07243.1_Cardiopharynx_schoutedeni_,99.483
+ASV_354,,,,,ASV_354,Callochromis stappersii,99.742,000009375_AY337775.1_Callochromis_stappersii_,99.742
+ASV_353,,,,,ASV_353,Cyphotilapia frontosa,99.742,Cyphotilapia_frontosa_LEI6,100
+ASV_352,,,,,ASV_352,Petrochromis cf. polyodon SK-2009,99.742,Petrochromis_sp_moshi_yellow_LCF8,98.756
+ASV_351,,,,,ASV_351,Ophthalmotilapia heterodonta,100,000026836_EF679254.1_Ophthalmotilapia_heterodonta_,100
+ASV_350,Telmatochromis ,sp,"Big mess, multiple species, many ASVs",,ASV_350,Telmatochromis brichardi,99.742,000026848_EF679266.1_Telmatochromis_dhonti_,99.742
+ASV_35,Lepidiolamprologus ,sp,"Clade of several Lepidiolamprologus species -- elongatus, profudicola, attenuatus...and also some Neolamprologus species. I don't know what's going on but it seems like a mess. 10 ASVs in this group. ",,ASV_35,Lepidiolamprologus elongatus,99.742,000000018_U07251.1_Lepidiolamprologus_elongatus__000015958_EF462275.1_Lepidiolamprologus_cf._profundicola_JJD-2007__000015959_EF462276.1_Lepidiolamprologus_cf._profundicola_JJD-2007__000026830_EF679248.1_Lepidiolamprologus_elongatus_,99.742
+ASV_349,,,,,ASV_349,Enantiopus melanogenys,98.708,000003839_AY682517.1_Xenotilapia_melanogenys_,98.708
+ASV_348,,,,,ASV_348,Ctenochromis horei,99.742,Ctenochromis_horei_AXA7,99.751
+ASV_347,,,,,ASV_347,Cardiopharynx schoutedeni,99.225,000000010_U07243.1_Cardiopharynx_schoutedeni_,99.225
+ASV_346,Telmatochromis ,sp,"Big mess, multiple species, many ASVs",,ASV_346,Telmatochromis dhonti,99.483,000026848_EF679266.1_Telmatochromis_dhonti_,99.483
+ASV_345,,,,,ASV_345,Xenotilapia flavipinnis,99.225,000000033_U07269.1_Xenotilapia_flavipinnis_,99.225
+ASV_344,Neolamprologus,mondabu,clear clade with 14 ASVs; one genbank ref of mondabu,,ASV_344,Neolamprologus mondabu,99.742,000015925_EF462241.1_Neolamprologus_mondabu__000015926_EF462242.1_Neolamprologus_mondabu_,99.742
+ASV_343,,,,,ASV_343,Xenotilapia sima,98.966,Xenotilapia_sima_LBE9,98.01
+ASV_341,,,,,ASV_341,Tropheus polli,99.742,Tropheus_polli_LEF9,99.751
+ASV_340,Neolamprologus,leloupi,"one ASV, close to two leloupi refs",,ASV_340,Lamprologus lemairii,96.124,Neolamprologus_multifasciatus_IRF8,95.771
+ASV_34,,,,,ASV_34,Petrochromis sp. 'Moshi',99.742,Petrochromis_sp_red_LCD5,99.254
+ASV_339,,,,,ASV_339,Gnathochromis pfefferi,99.742,Gnathochromis_pfefferi_AWE2,99.254
+ASV_338,,,,,ASV_338,Callochromis pleurospilus,97.674,Callochromis_melanostigma_KAF4,97.015
+ASV_337,Neolamprologus,brevis/calliurus,"cannot distinguish between brevis, calliurus and perhaps also speciosus, but speciosus is only one sequence. 5 ASVs. ",,ASV_337,Neolamprologus brevis,99.742,Neolamprologus_sp_brevis_magara_KCI6,99.751
+ASV_336,,,,,ASV_336,Petrochromis sp. 'Moshi',99.483,Petrochromis_sp_red_LCD5,99.005
+ASV_335,Telmatochromis ,sp,"Big mess, multiple species, many ASVs",,ASV_335,Telmatochromis bifrenatus,99.742,Telmatochromis_sp_dhonti_twiyu_LHC1,99.751
+ASV_334,,,,,ASV_334,Haplochromis burtoni,99.502,Tropheus_moorii_JBH4,96.766
+ASV_333,,,,,ASV_333,Petrochromis sp. 'Moshi',99.742,Petrochromis_sp_red_LCD5,98.756
+ASV_332,,,,,ASV_332,Gnathochromis pfefferi,99.742,Gnathochromis_pfefferi_AWE2,99.005
+ASV_331,,,,,ASV_331,Tropheus brichardi,99.483,Tropheus_sp_murago_LHD9,99.502
+ASV_330,Spathodus,sp,"Eretmodine clade. Unresolvable by species, likely due to hybridization",,ASV_330,Spathodus erythrodon,96.899,000005428_AF317267.1_Spathodus_erythrodon_,96.899
+ASV_33,,,,,ASV_33,Haplotaxodon microlepis,99.483,Haplotaxodon_microlepis_IQB8,99.502
+ASV_329,,,,,ASV_329,Pundamilia nyererei,99.005,000001733_AY930073.1_Astatotilapia_sp._R185_,98.966
+ASV_328,,,,,ASV_328,Petrochromis orthognathus,99.483,Petrochromis_sp_orthognathus_ikola_LFA8,99.005
+ASV_327,Telmatochromis ,sp,"Big mess, multiple species, many ASVs",,ASV_327,Telmatochromis bifrenatus,99.742,Telmatochromis_sp_dhonti_twiyu_LHC1,99.751
+ASV_326,,,,,ASV_326,Xenotilapia leptura,100,Asprotilapia_leptura_INF2,99.254
+ASV_325,,,,,ASV_325,Petrochromis sp. 'Kazumbe',99.742,Petrochromis_sp_kazumbae_KEB4,99.751
+ASV_324,Lamprologus,callipterus,Clear; 12 ASVs,,ASV_324,Lamprologus callipterus,98.966,Lamprologus_callipterus_JAB1,98.507
+ASV_323,Tanganicodus,sp,"Eretmodine clade. Unresolvable by species, likely due to hybridization",,ASV_323,Eretmodus cyanostictus,99.483,Eretmodus_marksmithi_JXF4,99.502
+ASV_322,,,,,ASV_322,Cardiopharynx schoutedeni,98.45,000000010_U07243.1_Cardiopharynx_schoutedeni_,98.45
+ASV_321,,,,,ASV_321,Petrochromis sp. 'Kazumbe',99.742,Petrochromis_sp_kazumbae_KEB4,99.751
+ASV_320,,,,,ASV_320,Petrochromis sp. 'Moshi',99.742,Petrochromis_sp_red_LCD5,98.756
+ASV_32,Lamprologus,lemairii,clearly linked to two references with this ID; three ASVs,,ASV_32,Lamprologus lemairii,100,000002128_DQ055056.1_Lamprologus_lemairii__000014344_EF191093.1_Lamprologus_lemairii__000015954_EF462271.1_Lamprologus_lemairii__000026829_EF679247.1_Lamprologus_lemairii_,100
+ASV_319,,,,,ASV_319,Gnathochromis pfefferi,99.742,Gnathochromis_pfefferi_AWE2,99.005
+ASV_318,,,,,ASV_318,Aulonocranus dewindti,99.225,000084974_KM288908.1_Aulonocranus_dewindti_,99.225
+ASV_317,Neolamprologus,niger,"seven ASVs, one single genbank sequence",,ASV_317,Neolamprologus niger,99.483,000003989_AY740391.1_Neolamprologus_niger_,99.483
+ASV_316,,,,,ASV_316,Petrochromis cf. polyodon SK-2009,99.742,Petrochromis_sp_moshi_yellow_LCF8,98.756
+ASV_315,,,,,ASV_315,Grammatotria lemairii,96.899,Grammatotria_lemairii_JDD8,99.502
+ASV_314,,,,,ASV_314,Gnathochromis pfefferi,99.742,Gnathochromis_pfefferi_AWE2,99.005
+ASV_313,,,,,ASV_313,Cyprichromis microlepidotus,99.742,Cyprichromis_sp_dwarf_jumbo_KFA9,99.502
+ASV_312,,,,,ASV_312,Cardiopharynx schoutedeni,96.124,000000010_U07243.1_Cardiopharynx_schoutedeni_,96.124
+ASV_311,,,,,ASV_311,Tropheus duboisi,99.751,Tropheus_duboisi_KHA4,100
+ASV_31,,,,,ASV_31,Petrochromis sp. 'Moshi',99.742,Petrochromis_sp_red_LCD5,98.756
+ASV_309,Neolamprologus,mondabu,clear clade with 14 ASVs; one genbank ref of mondabu,,ASV_309,Neolamprologus mondabu,99.742,000015925_EF462241.1_Neolamprologus_mondabu__000015926_EF462242.1_Neolamprologus_mondabu_,99.742
+ASV_308,Lamprologus,callipterus,Clear; 12 ASVs,,ASV_308,Lamprologus callipterus,99.742,Neolamprologus_cancellatus_LJD1,99.254
+ASV_307,,,,,ASV_307,Petrochromis sp. 'Kazumbe',99.483,Petrochromis_sp_kazumbae_KEB4,99.502
+ASV_306,,,,,ASV_306,Petrochromis sp. 'Moshi yellow',99.483,Petrochromis_sp_moshi_yellow_LCF8,99.751
+ASV_305,,,,,ASV_305,Simochromis diagramma,99.742,Simochromis_diagramma_AUD8,98.756
+ASV_304,,,,,ASV_304,Limnotilapia dardennii,99.742,Limnotilapia_dardennii_AWI6,99.502
+ASV_303,,,,,ASV_303,Limnotilapia dardennii,99.483,Limnotilapia_dardennii_AWI6,99.502
+ASV_302,Chalinochromis ,sp,"three ASVs in large clade of unresolved Chalinochromis, Julidochromis",,ASV_302,Chalinochromis brichardi,100,Chalinochromis_sp_ndobhoi_KEF1,99.751
+ASV_301,,,,,ASV_301,Cyathopharynx furcifer,100,000009381_AY337781.1_Cyathopharynx_furcifer_,100
+ASV_300,Lepidiolamprologus ,sp,"Clade of several Lepidiolamprologus species -- elongatus, profudicola, attenuatus...and also some Neolamprologus species. I don't know what's going on but it seems like a mess. 10 ASVs in this group. ",,ASV_300,Lepidiolamprologus elongatus,99.483,000015952_EF462269.1_Lepidiolamprologus_kendalli_,99.483
+ASV_30,Julidochromis,regani,clear,,ASV_30,Julidochromis marlieri,100,Julidochromis_regani_KFF4,100
+ASV_3,,,,,ASV_3,Petrochromis sp. 'Moshi',100,Petrochromis_sp_red_LCD5,99.005
+ASV_299,,,,,ASV_299,Grammatotria lemairii,97.158,Grammatotria_lemairii_JDD8,99.005
+ASV_297,,,,,ASV_297,Simochromis diagramma,99.742,Simochromis_diagramma_AUD8,98.756
+ASV_296,,,,,ASV_296,Ophthalmotilapia ventralis,98.45,000009374_AY337774.1_Ophthalmotilapia_ventralis_,98.45
+ASV_295,,,,,ASV_295,Simochromis diagramma,99.742,Simochromis_diagramma_AUD8,98.756
+ASV_294,Neolamprologus,mondabu,clear clade with 14 ASVs; one genbank ref of mondabu,,ASV_294,Neolamprologus mondabu,99.742,000015925_EF462241.1_Neolamprologus_mondabu__000015926_EF462242.1_Neolamprologus_mondabu_,99.742
+ASV_293,,,,,ASV_293,Cunningtonia longiventralis,100,000003838_AY682516.1_Cunningtonia_longiventralis_,100
+ASV_292,,,,,ASV_292,Petrochromis sp. 'Moshi',99.483,Petrochromis_sp_red_LCD5,99.005
+ASV_291,,,,,ASV_291,Cichlidae environmental sample,99.742,000003981_AY740345.1_Cyprichromis_cf._leptosoma__000009573_AY740364.1_Cyprichromis_cf._leptosoma_'jumbo'__000009574_AY740367.1_Cyprichromis_cf._leptosoma_'jumbo'_,99.742
+ASV_290,,,,,ASV_290,Petrochromis orthognathus,99.483,Petrochromis_sp_orthognathus_ikola_LFA8,99.005
+ASV_29,,,,,ASV_29,Petrochromis sp. 'Moshi',100,Petrochromis_sp_red_LCD5,99.005
+ASV_289,,,,,ASV_289,Cyprichromis pavo,98.966,Cyprichromis_pavo_JEB4,99.005
+ASV_288,,,,,ASV_288,Xenotilapia spiloptera,99.483,Xenotilapia_sp_spilopterus_north_LEA3,99.751
+ASV_287,,,,,ASV_287,Xenotilapia boulengeri,98.708,000033408_HM135111.1_Xenotilapia_boulengeri_,98.708
+ASV_286,Neolamprologus,furcifer,clear clade with 4 ASVs and two genbank refs,,ASV_286,Neolamprologus furcifer,99.742,000015933_EF462249.1_Neolamprologus_furcifer__000026834_EF679252.1_Neolamprologus_furcifer__000076558_KJ187231.1_Neolamprologus_furcifer__000076559_KJ187232.1_Neolamprologus_furcifer__000076567_KJ187241.1_Neolamprologus_furcifer__000076568_KJ187242.1_Neolamprologus_furcifer_,99.742
+ASV_285,Unknown,sp,Cool potentially unknown species with affinity to Chalinochromis; clade of 9 ASVs with no ref among them,,ASV_285,Neolamprologus sp. 'ndobnoi',96.641,Julidochromis_sp_unterfels_JWA2,97.015
+ASV_284,Lepidiolamprologus ,sp,"Clade of several Lepidiolamprologus species -- elongatus, profudicola, attenuatus...and also some Neolamprologus species. I don't know what's going on but it seems like a mess. 10 ASVs in this group. ",,ASV_284,Lepidiolamprologus kendalli,99.742,000015952_EF462269.1_Lepidiolamprologus_kendalli_,99.742
+ASV_283,,,,,ASV_283,Tropheus moorii,97.264,Petrochromis_sp_polyodon_texas_LHB3,98.259
+ASV_282,,,,,ASV_282,Petrochromis cf. polyodon SK-2009,99.483,000028660_GQ995767.1_Petrochromis_cf._polyodon_SK-2009_,99.483
+ASV_281,Telmatochromis ,sp,"Big mess, multiple species, many ASVs",,ASV_281,Telmatochromis bifrenatus,99.742,Telmatochromis_sp_dhonti_twiyu_LHC1,99.751
+ASV_280,,,,,ASV_280,Petrochromis sp. 'Kazumbe',99.742,Petrochromis_sp_kazumbae_KEB4,99.751
+ASV_28,,,,,ASV_28,Petrochromis orthognathus;Interochromis loocki,99.742,Petrochromis_sp_polyodon_texas_LHB3,99.005
+ASV_279,,,,,ASV_279,Petrochromis orthognathus,99.742,Petrochromis_sp_orthognathus_ikola_LFA8,99.502
+ASV_278,Neolamprologus,mondabu,clear clade with 14 ASVs; one genbank ref of mondabu,,ASV_278,Neolamprologus mondabu,99.742,000015925_EF462241.1_Neolamprologus_mondabu__000015926_EF462242.1_Neolamprologus_mondabu_,99.742
+ASV_277,,,,,ASV_277,Lobochilotes labiatus,99.742,Lobochilotes_labiatus_ISE5,98.756
+ASV_276,,,,,ASV_276,Limnotilapia dardennii,99.742,Limnotilapia_dardennii_AWI6,99.502
+ASV_275,,,,,ASV_275,Petrochromis sp. 'Moshi',99.742,Petrochromis_sp_red_LCD5,98.756
+ASV_274,,,,,ASV_274,Ophthalmotilapia ventralis,97.416,000009374_AY337774.1_Ophthalmotilapia_ventralis_,97.416
+ASV_273,Neolamprologus ,tetracanthus,unclear but best guess two ASVs,,ASV_273,Neolamprologus tetracanthus,99.742,Lepidiolamprologus_cunningtoni_IOH5,98.507
+ASV_272,,,,,ASV_272,Petrochromis sp. 'Moshi yellow',99.483,Petrochromis_sp_moshi_yellow_LCF8,99.751
+ASV_271,,,,,ASV_271,Lobochilotes labiatus,99.483,Lobochilotes_labiatus_ISE5,98.756
+ASV_270,Spathodus,sp,"Eretmodine clade. Unresolvable by species, likely due to hybridization",,ASV_270,Spathodus erythrodon,96.641,000005428_AF317267.1_Spathodus_erythrodon_,96.641
+ASV_27,,,,,ASV_27,Limnotilapia dardennii,99.742,Limnotilapia_dardennii_AWI6,99.751
+ASV_269,,,,,ASV_269,Tropheus moorii,98.507,Tropheus_polli_LEF9,99.502
+ASV_268,,,,,ASV_268,Ophthalmotilapia heterodonta,100,000026836_EF679254.1_Ophthalmotilapia_heterodonta_,100
+ASV_267,,,,,ASV_267,Tropheus brichardi,99.483,Tropheus_sp_murago_LHD9,99.502
+ASV_266,,,,,ASV_266,Cyathopharynx furcifer,99.742,000009381_AY337781.1_Cyathopharynx_furcifer_,99.742
+ASV_265,,,,,ASV_265,Haplotaxodon microlepis,99.225,Haplotaxodon_microlepis_IQB8,99.254
+ASV_264,,,,,ASV_264,Xenotilapia spiloptera,99.483,Xenotilapia_sp_spilopterus_north_LEA3,99.751
+ASV_263,Boulengerochromis,microlepis,no species ambiguity; three ASVs,,ASV_263,Boulengerochromis microlepis,99.742,000026818_EF679235.1_Boulengerochromis_microlepis_,99.742
+ASV_262,Neolamprologus,tretocephalus,,,ASV_262,Neolamprologus tretocephalus,99.742,Neolamprologus_tretocephalus_KFH5,100
+ASV_261,Neolamprologus,sp,"affiliated with longicaudatus and savoryi, but distinct clade of ASVs. It could be that there are no reference sequences of longicaudatus or savoryi from this part of the lake?  I am unfamiliar with the geographic distribution of these species",longicaudatus or savoryi,ASV_261,Neolamprologus longicaudatus,96.641,Neolamprologus_longicaudatus_JWI3,96.766
+ASV_260,Telmatochromis ,sp,"Big mess, multiple species, many ASVs",,ASV_260,Telmatochromis dhonti,100,000026848_EF679266.1_Telmatochromis_dhonti_,100
+ASV_26,,,,,ASV_26,Grammatotria lemairii,97.158,Grammatotria_lemairii_JDD8,99.254
+ASV_259,,,,,ASV_259,Lobochilotes labiatus,99.483,Lobochilotes_labiatus_ISE5,98.756
+ASV_258,,,,,ASV_258,Xenotilapia flavipinnis,99.225,000000033_U07269.1_Xenotilapia_flavipinnis_,99.225
+ASV_257,Trematocara,sp,In a clade with four other ASVs and several Trematocara. Unclear what species,,ASV_257,Trematocara marginatum,97.895,Trematocara_variabile_Bel33,98.756
+ASV_256,,,,,ASV_256,Tropheus brichardi,99.742,Tropheus_sp_murago_LHD9,99.751
+ASV_255,,,,,ASV_255,Xenotilapia flavipinnis,98.191,000000033_U07269.1_Xenotilapia_flavipinnis_,98.191
+ASV_254,,,,,ASV_254,Pseudosimochromis babaulti,99.742,000028678_GQ995785.1_Pseudosimochromis_babaulti_,99.742
+ASV_253,Tanganicodus,sp,"Eretmodine clade. Unresolvable by species, likely due to hybridization",,ASV_253,Eretmodus cyanostictus,99.742,Eretmodus_marksmithi_JXF4,99.751
+ASV_252,Telmatochromis ,sp,"Big mess, multiple species, many ASVs",,ASV_252,Telmatochromis bifrenatus,99.483,Telmatochromis_sp_dhonti_twiyu_LHC1,99.502
+ASV_251,,,,,ASV_251,Simochromis diagramma,100,Simochromis_diagramma_AUD8,99.751
+ASV_250,,,,,ASV_250,Xenotilapia spiloptera,99.225,Xenotilapia_sp_spilopterus_north_LEA3,99.502
+ASV_25,,,,,ASV_25,Lobochilotes labiatus,99.742,Lobochilotes_labiatus_ISE5,99.005
+ASV_249,Hemibates,stenosoma,"no ambiguity, single ASV",,ASV_249,Oreochromis sp. 'red tilapia',94.527,Bathybates_leo_ILF7,94.514
+ASV_248,,,,,ASV_248,Xenotilapia flavipinnis,97.933,000000033_U07269.1_Xenotilapia_flavipinnis_,97.933
+ASV_247,,,,,ASV_247,Simochromis diagramma,99.742,Simochromis_diagramma_AUD8,98.756
+ASV_246,,,,,ASV_246,Cyathopharynx furcifer,97.674,000009381_AY337781.1_Cyathopharynx_furcifer_,97.674
+ASV_245,,,,,ASV_245,Petrochromis sp. 'Moshi yellow',99.225,Petrochromis_sp_moshi_yellow_LCF8,99.502
+ASV_244,Chalinochromis ,sp,"three ASVs in large clade of unresolved Chalinochromis, Julidochromis",,ASV_244,Neolamprologus sp. 'ndobnoi',98.966,Julidochromis_sp_unterfels_JWA2,99.254
+ASV_243,,,,,ASV_243,Plecodus elaviae,99.225,Plecodus_paradoxus_LEC7,100
+ASV_242,Lepidiolamprologus ,sp,"Clade of several Lepidiolamprologus species -- elongatus, profudicola, attenuatus...and also some Neolamprologus species. I don't know what's going on but it seems like a mess. 10 ASVs in this group. ",,ASV_242,Lepidiolamprologus kendalli,99.742,000015952_EF462269.1_Lepidiolamprologus_kendalli_,99.742
+ASV_241,,,,,ASV_241,Pseudosimochromis babaulti,99.483,000028678_GQ995785.1_Pseudosimochromis_babaulti_,99.483
+ASV_240,,,,,ASV_240,Xenotilapia leptura,97.674,Asprotilapia_leptura_INF2,98.507
+ASV_24,,,,,ASV_24,Tropheus polli,100,Tropheus_polli_LEF9,100
+ASV_239,Oreochromis,sp,"distinct clade from most O. tanganicae sequences which have ASVs associated with them, so I'd guess this is a different Oreochromis species, and I'd be curious if it was associated with river inflow. There is one sequenced labeled O. malagarasi  these ASVs are closely associated with. There are three ASVs in the group. ",malagarasi,ASV_239,Oreochromis upembae,99.742,Oreochromis_malagarasi_KYH4,99.751
+ASV_238,,,,,ASV_238,Petrochromis famula,99.483,Petrochromis_famula_IYA7,99.005
+ASV_237,,,,,ASV_237,Ophthalmotilapia heterodonta,98.45,000026836_EF679254.1_Ophthalmotilapia_heterodonta_,98.45
+ASV_236,,,,,ASV_236,Callochromis stappersii,99.742,000009375_AY337775.1_Callochromis_stappersii_,99.742
+ASV_235,Lepidiolamprologus ,sp,"Clade of several Lepidiolamprologus species -- elongatus, profudicola, attenuatus...and also some Neolamprologus species. I don't know what's going on but it seems like a mess. 10 ASVs in this group. ",,ASV_235,Lepidiolamprologus profundicola,100,000033255_HM623830.1_Lepidiolamprologus_profundicola_,100
+ASV_234,Bathybates,fasciatus,no species ID ambiguity; six ASVs in this clade,,ASV_234,Bathybates fasciatus,99.742,Bathybates_fasciatus_GPB2,99.502
+ASV_233,,,,,ASV_233,Petrochromis sp. 'Moshi yellow',99.483,Petrochromis_sp_moshi_yellow_LCF8,99.502
+ASV_232,,,,,ASV_232,Petrochromis sp. 'Moshi yellow',99.483,Petrochromis_sp_moshi_yellow_LCF8,99.751
+ASV_231,,,,,ASV_231,Petrochromis sp. 'Kazumbe',100,Petrochromis_sp_kazumbae_KEB4,99.751
+ASV_230,,,,,ASV_230,Cardiopharynx schoutedeni,97.674,000000010_U07243.1_Cardiopharynx_schoutedeni_,97.674
+ASV_23,,,,,ASV_23,Xenotilapia spiloptera,99.483,Xenotilapia_sp_spilopterus_north_LEA4,100
+ASV_229,,,,,ASV_229,Grammatotria lemairii,97.674,Grammatotria_lemairii_JDD8,99.254
+ASV_228,,,,,ASV_228,Petrochromis sp. 'Moshi yellow',99.225,Petrochromis_sp_moshi_yellow_LCF8,98.507
+ASV_227,,,,,ASV_227,Xenotilapia spiloptera,99.225,Xenotilapia_sp_spilopterus_north_LEA3,99.502
+ASV_226,,,,,ASV_226,Petrochromis cf. polyodon SK-2009,99.742,000028660_GQ995767.1_Petrochromis_cf._polyodon_SK-2009_,99.742
+ASV_225,Neolamprologus,brichardi,clear; 7 ASVs,,ASV_225,Neolamprologus brichardi,98.507,Neolamprologus_helianthus_JWG9,99.005
+ASV_224,,,,,ASV_224,Lestradea perspicax,97.416,000009365_AY337765.1_Lestradea_perspicax_,97.416
+ASV_223,,,,,ASV_223,Cyathopharynx furcifer,98.191,000009381_AY337781.1_Cyathopharynx_furcifer_,98.191
+ASV_222,,,,,ASV_222,Xenotilapia leptura,97.674,Asprotilapia_leptura_INF2,98.507
+ASV_221,Neolamprologus,sp,"affiliated with longicaudatus and savoryi, but distinct clade of ASVs. It could be that there are no reference sequences of longicaudatus or savoryi from this part of the lake?  I am unfamiliar with the geographic distribution of these species",longicaudatus or savoryi,ASV_221,Neolamprologus longicaudatus,96.907,Neolamprologus_longicaudatus_JWI3,97.022
+ASV_220,,,,,ASV_220,Cardiopharynx schoutedeni,98.966,000000010_U07243.1_Cardiopharynx_schoutedeni_,98.966
+ASV_22,,,,,ASV_22,Tropheus brichardi,100,Tropheus_sp_murago_LHD9,100
+ASV_219,Neolamprologus,mondabu,clear clade with 14 ASVs; one genbank ref of mondabu,,ASV_219,Neolamprologus mondabu,99.742,000015925_EF462241.1_Neolamprologus_mondabu__000015926_EF462242.1_Neolamprologus_mondabu_,99.742
+ASV_218,,,,,ASV_218,Limnotilapia dardennii,99.225,Limnotilapia_dardennii_AWI6,99.254
+ASV_217,,,,,ASV_217,Grammatotria lemairii,96.899,Grammatotria_lemairii_JDD8,99.005
+ASV_216,Bathybates,leo,"no ambiguity, single ASV",,ASV_216,Bathybates leo,100,Bathybates_leo_ILF7,100
+ASV_215,,,,,ASV_215,Petrochromis famula,99.742,Petrochromis_famula_IYA7,99.254
+ASV_214,,,,,ASV_214,Petrochromis cf. polyodon SK-2009,99.742,000028660_GQ995767.1_Petrochromis_cf._polyodon_SK-2009_,99.742
+ASV_213,Telmatochromis,sp,bifrenatus or temporalis,,ASV_213,Telmatochromis temporalis,99.483,Telmatochromis_bifrenatus_KYB8,99.254
+ASV_212,Tanganicodus,sp,"Eretmodine clade. Unresolvable by species, likely due to hybridization",,ASV_212,Eretmodus cyanostictus,97.933,Eretmodus_marksmithi_JXF4,98.01
+ASV_211,,,,,ASV_211,Xenotilapia tenuidentata,97.933,Microdontochromis_tenuidentata_LHG6,98.756
+ASV_210,,,,,ASV_210,Simochromis diagramma,100,Simochromis_diagramma_AUD8,100
+ASV_21,Tanganicodus,sp,"Eretmodine clade. Unresolvable by species, likely due to hybridization",,ASV_21,Eretmodus cyanostictus,97.933,Eretmodus_marksmithi_JXF4,98.01
+ASV_209,Neolamprologus,brevis/calliurus,"cannot distinguish between brevis, calliurus and perhaps also speciosus, but speciosus is only one sequence. 5 ASVs. ",,ASV_209,Neolamprologus brevis,100,Neolamprologus_sp_brevis_magara_KCI6,100
+ASV_208,Spathodus,sp,"Eretmodine clade. Unresolvable by species, likely due to hybridization",,ASV_208,Spathodus erythrodon,96.641,000005428_AF317267.1_Spathodus_erythrodon_,96.641
+ASV_207,Spathodus,sp,"Eretmodine clade. Unresolvable by species, likely due to hybridization",,ASV_207,Spathodus erythrodon,96.899,000005428_AF317267.1_Spathodus_erythrodon_,96.899
+ASV_206,,,,,ASV_206,Xenotilapia boulengeri,99.483,000033408_HM135111.1_Xenotilapia_boulengeri_,99.483
+ASV_205,Telmatochromis ,sp,"Big mess, multiple species, many ASVs",,ASV_205,Telmatochromis bifrenatus,99.742,Telmatochromis_sp_dhonti_twiyu_LHC1,99.751
+ASV_204,,,,,ASV_204,Xenotilapia boulengeri,99.483,000033408_HM135111.1_Xenotilapia_boulengeri_,99.483
+ASV_203,,,,,ASV_203,Aulonocranus dewindti,98.966,000084974_KM288908.1_Aulonocranus_dewindti_,98.966
+ASV_202,Lamprologus,callipterus,Clear; 12 ASVs,,ASV_202,Lamprologus callipterus,99.742,Neolamprologus_cancellatus_LJD1,99.254
+ASV_201,,,,,ASV_201,Xenotilapia flavipinnis,99.483,000000033_U07269.1_Xenotilapia_flavipinnis_,99.483
+ASV_200,Bathybates,fasciatus,no species ID ambiguity; six ASVs in this clade,,ASV_200,Bathybates fasciatus,99.742,Bathybates_fasciatus_GPB2,99.502
+ASV_20,,,,,ASV_20,Petrochromis sp. 'Moshi yellow',99.742,Petrochromis_sp_moshi_yellow_LCF8,100
+ASV_2,,,,,ASV_2,Petrochromis cf. polyodon SK-2009,100,000028660_GQ995767.1_Petrochromis_cf._polyodon_SK-2009_,100
+ASV_199,Eretmodus,sp,"Eretmodine clade. Unresolvable by species, likely due to hybridization",cyanostictus,ASV_199,Cichlidae environmental sample,97.674,000002083_AF398220.1_Eretmodus_cyanostictus_,97.674
+ASV_198,,,,,ASV_198,Haplochromis burtoni,99.502,Tropheus_moorii_JBH4,96.766
+ASV_197,Telmatochromis ,sp,"Big mess, multiple species, many ASVs",,ASV_197,Telmatochromis bifrenatus,99.483,Telmatochromis_sp_dhonti_twiyu_LHC1,99.502
+ASV_196,,,,,ASV_196,Petrochromis sp. 'Moshi yellow',99.483,Petrochromis_sp_moshi_yellow_LCF8,99.751
+ASV_195,,,,,ASV_195,Cyathopharynx furcifer,97.933,000009381_AY337781.1_Cyathopharynx_furcifer_,97.933
+ASV_194,,,,,ASV_194,Petrochromis sp. 'Kazumbe',99.742,Petrochromis_sp_kazumbae_KEB4,99.751
+ASV_193,,,,,ASV_193,Lobochilotes labiatus,100,Lobochilotes_labiatus_ISE5,98.756
+ASV_192,,,,,ASV_192,Petrochromis orthognathus,100,Petrochromis_sp_orthognathus_ikola_LFA8,99.502
+ASV_191,,,,,ASV_191,Petrochromis sp. 'Moshi yellow',99.483,Petrochromis_sp_moshi_yellow_LCF8,98.756
+ASV_190,Neolamprologus,brichardi,clear; 7 ASVs,,ASV_190,Neolamprologus brichardi,98.966,Neolamprologus_marunguensis_JWH4,98.259
+ASV_19,,,,,ASV_19,Lobochilotes labiatus,100,Lobochilotes_labiatus_ISE5,99.005
+ASV_189,,,,,ASV_189,Lestradea perspicax,98.708,000009365_AY337765.1_Lestradea_perspicax_,98.708
+ASV_188,,,,,ASV_188,Benthochromis tricoti,99.742,Benthochromis_sp_horii_mahale_LEF2,100
+ASV_187,,,,,ASV_187,Petrochromis sp. 'Moshi yellow',99.225,Petrochromis_sp_moshi_yellow_LCF8,98.01
+ASV_186,Telmatochromis,sp,bifrenatus or temporalis,,ASV_186,Telmatochromis temporalis,99.742,Telmatochromis_bifrenatus_KYB8,99.502
+ASV_185,Unknown,sp,Cool potentially unknown species with affinity to Chalinochromis; clade of 9 ASVs with no ref among them,,ASV_185,Neolamprologus christyi,96.899,Neolamprologus_christyi_IZI8,97.015
+ASV_184,Neolamprologus,modestus,could be tetracanthus,,ASV_184,Cichlidae environmental sample,99.483,Neolamprologus_tetracanthus_IPG3,99.254
+ASV_183,Tanganicodus,sp,"Eretmodine clade. Unresolvable by species, likely due to hybridization",,ASV_183,Eretmodus cyanostictus,98.191,Eretmodus_marksmithi_JXF4,98.259
+ASV_182,,,,,ASV_182,Simochromis diagramma,99.483,Simochromis_diagramma_AUD8,98.507
+ASV_181,,,,,ASV_181,Cardiopharynx schoutedeni,98.45,000000010_U07243.1_Cardiopharynx_schoutedeni_,98.45
+ASV_180,Lamprologus,callipterus,Clear; 12 ASVs,,ASV_180,Lamprologus callipterus,99.225,Lamprologus_callipterus_JAB1,98.756
+ASV_18,,,,,ASV_18,Petrochromis sp. 'Kazumbe',100,Petrochromis_sp_kazumbae_KEB4,99.751
+ASV_179,,,,,ASV_179,Xenotilapia boulengeri,96.354,Xenotilapia_sp_kilesa_Bel03,99.254
+ASV_178,,,,,ASV_178,Perissodus microlepis,99.483,000026837_EF679255.1_Perissodus_microlepis_,99.483
+ASV_177,,,,,ASV_177,Tropheus moorii,97.761,Petrochromis_sp_polyodon_texas_LHB3,98.756
+ASV_176,,,,,ASV_176,Petrochromis sp. 'Moshi yellow',99.225,Petrochromis_sp_moshi_yellow_LCF8,99.502
+ASV_175,Spathodus,sp,"Eretmodine clade. Unresolvable by species, likely due to hybridization",,ASV_175,Spathodus marlieri,100,Spathodus_erythrodon_JUB7,99.502
+ASV_174,Telmatochromis ,sp,"Big mess, multiple species, many ASVs",,ASV_174,Telmatochromis bifrenatus,99.742,Telmatochromis_sp_dhonti_twiyu_LHC1,99.751
+ASV_173,,,,,ASV_173,Gnathochromis pfefferi,100,Gnathochromis_pfefferi_AWE2,99.254
+ASV_172,Lepidiolamprologus ,sp,"Clade of several Lepidiolamprologus species -- elongatus, profudicola, attenuatus...and also some Neolamprologus species. I don't know what's going on but it seems like a mess. 10 ASVs in this group. ",,ASV_172,Lepidiolamprologus kendalli,100,000015952_EF462269.1_Lepidiolamprologus_kendalli_,100
+ASV_171,,,,,ASV_171,Cyprichromis pavo,98.191,Cyprichromis_pavo_JEB4,98.259
+ASV_170,,,,,ASV_170,Tropheus moorii,98.756,Tropheus_sp_mpimbwe_LDI7,99.254
+ASV_17,,,,,ASV_17,Pundamilia nyererei,99.005,000001733_AY930073.1_Astatotilapia_sp._R185_,98.966
+ASV_169,Neolamprologus,niger,"seven ASVs, one single genbank sequence",,ASV_169,Neolamprologus niger,99.742,000003989_AY740391.1_Neolamprologus_niger_,99.742
+ASV_168,,,,,ASV_168,Lobochilotes labiatus,99.742,Lobochilotes_labiatus_ISE5,98.756
+ASV_167,,,,,ASV_167,Tropheus polli,99.742,Tropheus_polli_LEF9,99.751
+ASV_166,,,,,ASV_166,Petrochromis sp. 'Kazumbe',99.483,Petrochromis_sp_kazumbae_KEB4,99.502
+ASV_165,,,,,ASV_165,Petrochromis fasciolatus,98.966,Petrochromis_sp_polyodon_texas_LHB3,98.507
+ASV_164,,,,,ASV_164,Grammatotria lemairii,97.416,Grammatotria_lemairii_JDD8,99.502
+ASV_163,Neolamprologus,sp,"affiliated with longicaudatus and savoryi, but distinct clade of ASVs. It could be that there are no reference sequences of longicaudatus or savoryi from this part of the lake?  I am unfamiliar with the geographic distribution of these species",longicaudatus or savoryi,ASV_163,Neolamprologus longicaudatus,96.907,Neolamprologus_longicaudatus_JWI3,97.022
+ASV_162,Neolamprologus,walteri,There are nearly identical haplotypes also IDd by the Salzburger group as chitamwebwai (?); This is a clear clade including 6 ASVs,,ASV_162,Neolamprologus walteri,100,Neolamprologus_chitamwebwai_KHA9,100
+ASV_161,,,,,ASV_161,Petrochromis sp. 'Moshi',99.483,Petrochromis_sp_kazumbae_KEB4,99.502
+ASV_160,,,,,ASV_160,Xenotilapia leptura,98.191,Asprotilapia_leptura_INF2,99.005
+ASV_16,,,,,ASV_16,Petrochromis famula,100,Petrochromis_famula_IYA7,98.756
+ASV_159,,,,,ASV_159,Petrochromis sp. 'Kazumbe',99.742,Petrochromis_sp_kazumbae_KEB4,99.751
+ASV_158,,,,,ASV_158,Lobochilotes labiatus,99.483,Lobochilotes_labiatus_ISE5,98.756
+ASV_157,,,,,ASV_157,Tropheus brichardi,99.483,Tropheus_sp_murago_LHD9,99.502
+ASV_156,,,,,ASV_156,Enantiopus melanogenys,98.45,000003839_AY682517.1_Xenotilapia_melanogenys_,98.45
+ASV_155,,,,,ASV_155,Petrochromis famula,99.742,Petrochromis_famula_IYA7,99.254
+ASV_154,,,,,ASV_154,Haplochromis burtoni,99.502,Tropheus_moorii_JBH4,96.766
+ASV_153,,,,,ASV_153,Tropheus moorii,100,Tropheus_sp_mpimbwe_LDI7,99.005
+ASV_152,Trematocara,sp,In a clade with four other ASVs and several Trematocara. Unclear what species,,ASV_152,Trematocara marginatum,98.421,Trematocara_variabile_Bel33,98.756
+ASV_151,,,,,ASV_151,Tropheus moorii,98.507,Tropheus_polli_LEF9,99.502
+ASV_150,,,,,ASV_150,Interochromis loocki,100,Interochromis_loocki_IPF3,99.502
+ASV_15,,,,,ASV_15,Limnotilapia dardennii,99.483,Limnotilapia_dardennii_AWI6,99.502
+ASV_149,,,,,ASV_149,Tropheus polli,99.483,Tropheus_polli_LEF9,99.502
+ASV_148,,,,,ASV_148,Petrochromis cf. polyodon SK-2009,99.742,000028660_GQ995767.1_Petrochromis_cf._polyodon_SK-2009_,99.742
+ASV_147,Sarotherodon,sp,,,ASV_147,Stomatepia pindu,99.751,Sarotherodon_caroli_Z17,99.751
+ASV_146,,,,,ASV_146,Tropheus moorii,98.756,Tropheus_sp_lunatus_KED7,99.751
+ASV_145,,,,,ASV_145,Petrochromis sp. 'Moshi yellow',99.742,Petrochromis_sp_moshi_yellow_LCF8,99.751
+ASV_144,Unknown,sp,Cool potentially unknown species with affinity to Chalinochromis; clade of 9 ASVs with no ref among them,,ASV_144,Neolamprologus christyi,96.641,Neolamprologus_christyi_IZI8,96.766
+ASV_143,,,,,ASV_143,Callochromis macrops,99.742,Callochromis_melanostigma_KAF4,99.751
+ASV_142,Neolamprologus,niger,"seven ASVs, one single genbank sequence",,ASV_142,Neolamprologus niger,99.483,000003989_AY740391.1_Neolamprologus_niger_,99.483
+ASV_141,,,,,ASV_141,Grammatotria lemairii,96.899,Grammatotria_lemairii_JDD8,98.756
+ASV_140,Tanganicodus,sp,"Eretmodine clade. Unresolvable by species, likely due to hybridization",,ASV_140,Eretmodus cyanostictus,97.674,Eretmodus_marksmithi_JXF4,97.761
+ASV_14,,,,,ASV_14,Haplochromis burtoni,99.751,Tropheus_moorii_JBH4,97.015
+ASV_139,Telmatochromis ,sp,"Big mess, multiple species, many ASVs",,ASV_139,Telmatochromis bifrenatus,99.483,Telmatochromis_sp_dhonti_twiyu_LHC1,99.502
+ASV_138,Tanganicodus,sp,"Eretmodine clade. Unresolvable by species, likely due to hybridization",,ASV_138,Eretmodus cyanostictus,97.933,Eretmodus_marksmithi_JXF4,98.01
+ASV_137,Bathybates,fasciatus,no species ID ambiguity; six ASVs in this clade,,ASV_137,Bathybates fasciatus,99.483,Bathybates_fasciatus_GPB2,99.254
+ASV_136,Neolamprologus,niger,"seven ASVs, one single genbank sequence",,ASV_136,Neolamprologus niger,99.225,000003989_AY740391.1_Neolamprologus_niger_,99.225
+ASV_135,,,,,ASV_135,Cardiopharynx schoutedeni,95.866,000000010_U07243.1_Cardiopharynx_schoutedeni_,95.866
+ASV_134,,,,,ASV_134,Petrochromis sp. 'Moshi',99.742,Petrochromis_sp_red_LCD5,98.756
+ASV_133,,,,,ASV_133,Xenotilapia leptura,99.742,Asprotilapia_leptura_INF2,99.502
+ASV_132,,,,,ASV_132,Pseudosimochromis babaulti,100,000028678_GQ995785.1_Pseudosimochromis_babaulti_,100
+ASV_131,Lamprologus,callipterus,Clear; 12 ASVs,,ASV_131,Lamprologus callipterus,98.966,Lamprologus_callipterus_JAB1,98.507
+ASV_130,Tanganicodus,sp,"Eretmodine clade. Unresolvable by species, likely due to hybridization",,ASV_130,Eretmodus cyanostictus,98.708,Eretmodus_marksmithi_JXF4,98.756
+ASV_13,,,,,ASV_13,Limnotilapia dardennii,100,Limnotilapia_dardennii_AWI6,99.751
+ASV_129,,,,,ASV_129,Petrochromis orthognathus,100,Petrochromis_sp_orthognathus_ikola_LFA8,99.254
+ASV_128,,,,,ASV_128,Xenotilapia spiloptera,98.45,Xenotilapia_sp_spilopterus_north_LEA3,98.756
+ASV_127,Neolamprologus,mondabu,clear clade with 14 ASVs; one genbank ref of mondabu,,ASV_127,Neolamprologus mondabu,99.742,000015925_EF462241.1_Neolamprologus_mondabu__000015926_EF462242.1_Neolamprologus_mondabu_,99.742
+ASV_126,,,,,ASV_126,Haplochromis burtoni,99.502,Tropheus_moorii_JBH4,96.766
+ASV_125,,,,,ASV_125,Haplochromis burtoni,99.502,Tropheus_moorii_JBH4,96.269
+ASV_124,,,,,ASV_124,Haplotaxodon microlepis,99.742,000026828_EF679246.1_Haplotaxodon_microlepis_,99.742
+ASV_123,,,,,ASV_123,Ctenochromis horei,99.742,Ctenochromis_horei_AXA7,99.751
+ASV_122,,,,,ASV_122,Xenotilapia boulengeri,95.833,Xenotilapia_ochrogenys_JVI5,98.756
+ASV_121,,,,,ASV_121,Ctenochromis horei,99.742,Ctenochromis_horei_AXA7,99.751
+ASV_120,,,,,ASV_120,Pseudosimochromis curvifrons,99.742,Pseudosimochromis_curvifrons_AYC7,99.254
+ASV_12,Neolamprologus,mondabu,clear clade with 14 ASVs; one genbank ref of mondabu,,ASV_12,Neolamprologus mondabu,100,000015925_EF462241.1_Neolamprologus_mondabu__000015926_EF462242.1_Neolamprologus_mondabu_,100
+ASV_119,,,,,ASV_119,Petrochromis sp. 'Kazumbe',99.742,Petrochromis_sp_kazumbae_KEB4,99.751
+ASV_118,,,,,ASV_118,Limnotilapia dardennii,99.483,Limnotilapia_dardennii_AWI6,99.502
+ASV_117,,,,,ASV_117,Xenotilapia cf. bathyphila,97.933,Xenotilapia_bathyphilus_IVB5,99.005
+ASV_116,Tanganicodus,sp,"Eretmodine clade. Unresolvable by species, likely due to hybridization",,ASV_116,Eretmodus cyanostictus,99.742,Eretmodus_marksmithi_JXF4,99.751
+ASV_115,,,,,ASV_115,Petrochromis cf. polyodon SK-2009,100,000028660_GQ995767.1_Petrochromis_cf._polyodon_SK-2009_,100
+ASV_114,,,,,ASV_114,Cardiopharynx schoutedeni,96.124,000000010_U07243.1_Cardiopharynx_schoutedeni_,96.124
+ASV_113,,,,,ASV_113,Callochromis macrops,97.674,Callochromis_macrops_BND3,98.507
+ASV_112,,,,,ASV_112,Cyprichromis leptosoma,99.742,Cyprichromis_sp_dwarf_jumbo_KFA9,99.751
+ASV_111,Bathybates,minor,no ambiguity in species ID; single ASV for the species,,ASV_111,Bathybates minor,100,Bathybates_minor_IXA5,100
+ASV_110,,,,,ASV_110,Petrochromis orthognathus,99.742,Petrochromis_sp_orthognathus_ikola_LFA8,99.005
+ASV_11,,,,,ASV_11,Cyprichromis pavo,98.191,Cyprichromis_pavo_JEB4,98.259
+ASV_109,,,,,ASV_109,Ctenochromis horei,99.742,Ctenochromis_horei_AXA7,99.751
+ASV_108,,,,,ASV_108,Trematochromis benthicola,99.722,Ctenochromis_benthicola_DMD1,97.264
+ASV_107,,,,,ASV_107,Callochromis pleurospilus,97.933,Callochromis_melanostigma_KAF4,97.264
+ASV_106,Eretmodus,sp,"Eretmodine clade. Unresolvable by species, likely due to hybridization",cyanostictus,ASV_106,Cichlidae environmental sample,97.416,000002083_AF398220.1_Eretmodus_cyanostictus_,97.416
+ASV_105,,,,,ASV_105,Petrochromis orthognathus,100,Petrochromis_sp_orthognathus_ikola_LFA8,99.751
+ASV_104,Lepidiolamprologus ,sp,"Clade of several Lepidiolamprologus species -- elongatus, profudicola, attenuatus...and also some Neolamprologus species. I don't know what's going on but it seems like a mess. 10 ASVs in this group. ",,ASV_104,Neolamprologus meeli,100,000002111_DQ055038.1_Neolamprologus_cf._meeli/boulengeri__000002123_DQ055051.1_Neolamprologus_meeli__000002129_DQ055057.1_Lepidiolamprologus_attenuatus__000015960_EF462277.1_Neolamprologus_meeli_,100
+ASV_103,,,,,ASV_103,Petrochromis cf. polyodon SK-2009,99.742,000028660_GQ995767.1_Petrochromis_cf._polyodon_SK-2009_,99.742
+ASV_102,Lamprologus,callipterus,Clear; 12 ASVs,,ASV_102,Lamprologus callipterus,100,Neolamprologus_cancellatus_LJD1,99.254
+ASV_101,Spathodus,sp,"Eretmodine clade. Unresolvable by species, likely due to hybridization",,ASV_101,Spathodus erythrodon,96.899,000005428_AF317267.1_Spathodus_erythrodon_,96.899
+ASV_100,Lepidiolamprologus,cunningtoni,,,ASV_100,Lepidiolamprologus cunningtoni,99.74,Lepidiolamprologus_cunningtoni_IOH5,99.502
+ASV_10,,,,,ASV_10,Haplochromis burtoni,99.751,Tropheus_moorii_JBH4,96.517
+ASV_1,,,,,ASV_1,Petrochromis sp. 'Kazumbe',100,Petrochromis_sp_kazumbae_KEB4,100
+000102595_KX347752.1_Benitochromis_nigrodorsalis_,,,,,,,,,
+000089677_KR010459.1_Astatotilapia_sp._2D10C_,,,,,,,,,
+000089670_KR010452.1_Astatotilapia_calliptera__000089671_KR010453.1_Astatotilapia_calliptera_,,,,,,,,,
+000089669_KR010451.1_Astatotilapia_sp._'Ruaha'_,,,,,,,,,
+000089668_KR010450.1_Astatotilapia_sp._'Ruaha'__000089678_KR010460.1_Astatotilapia_sp._'Ruaha'__000089679_KR010461.1_Astatotilapia_sp._'Ruaha'_,,,,,,,,,
+000089667_KR010449.1_Astatotilapia_sp._'Blue_Rufiji'_,,,,,,,,,
+000088098_KJ955424.1_Xenotilapia_leptura_,,,,,,,,,
+000088097_KJ955423.1_Baileychromis_centropomoides_,,,,,,,,,
+000088087_KJ955412.1_Astatotilapia_calliptera_,,,,,,,,,
+000087805_KF359882.1_Benitochromis_batesii_,,,,,,,,,
+000087804_KF359881.1_Benitochromis_conjunctus_,,,,,,,,,
+000087803_KF359880.1_Benitochromis_riomuniensis_,,,,,,,,,
+000087802_KF359879.1_Benitochromis_nigrodorsalis_,,,,,,,,,
+000087801_KF359878.1_Benitochromis_finleyi_,,,,,,,,,
+000085052_KM288988.1_Xenotilapia_spiloptera_,,,,,,,,,
+000085051_KM288987.1_Xenotilapia_spiloptera_,,,,,,,,,
+000085050_KM288986.1_Xenotilapia_spiloptera_,,,,,,,,,
+000085049_KM288985.1_Xenotilapia_flavipinnis_,,,,,,,,,
+000085048_KM288984.1_Xenotilapia_flavipinnis_,,,,,,,,,
+000085047_KM288983.1_Xenotilapia_flavipinnis_,,,,,,,,,
+000085046_KM288982.1_Xenotilapia_boulengeri_,,,,,,,,,
+000085045_KM288980.1_Xenotilapia_boulengeri_,,,,,,,,,
+000085043_KM288978.1_Variabilichromis_moorii_,,,,,,,,,
+000085042_KM288977.1_Variabilichromis_moorii__000085044_KM288979.1_Variabilichromis_moorii_,,,,,,,,,
+000085041_KM288975.1_Tropheus_moorii_,,,,,,,,,
+000085040_KM288974.1_Tropheus_moorii_,,,,,,,,,
+000085039_KM288971.1_Pseudosimochromis_pleurospilus_,,,,,,,,,
+000085037_KM288969.1_Pseudosimochromis_pleurospilus_,,,,,,,,,
+000085036_KM288967.1_Simochromis_diagramma_,,,,,,,,,
+000085035_KM288966.1_Simochromis_diagramma_,,,,,,,,,
+000085034_KM288965.1_Petrochromis_polyodon_,,,,,,,,,
+000085032_KM288963.1_Petrochromis_polyodon__000085033_KM288964.1_Petrochromis_polyodon_,,,,,,,,,
+000085031_KM288962.1_Perissodus_microlepis_,,,,,,,,,
+000085030_KM288961.1_Perissodus_microlepis_,,,,,,,,,
+000085029_KM288960.1_Perissodus_microlepis_,,,,,,,,,
+000085028_KM288959.1_Petrochromis_fasciolatus_,,,,,,,,,
+000085027_KM288958.1_Petrochromis_fasciolatus_,,,,,,,,,
+000085026_KM288957.1_Petrochromis_fasciolatus_,,,,,,,,,
+000085025_KM288956.1_Petrochromis_fasciolatus_,,,,,,,,,
+000085024_KM288953.1_Petrochromis_famula_,,,,,,,,,
+000085023_KM288951.1_Paracyprichromis_brieni_,,,,,,,,,
+000085022_KM288950.1_Paracyprichromis_brieni_,,,,,,,,,
+000085021_KM288949.1_Ophthalmotilapia_nasuta_,,,,,,,,,
+000085020_KM288948.1_Ophthalmotilapia_nasuta_,,,,,,,,,
+000085019_KM288947.1_Ophthalmotilapia_nasuta_,,,,,,,,,
+000085018_KM288946.1_Ophthalmotilapia_ventralis_,,,,,,,,,
+000085017_KM288945.1_Ophthalmotilapia_ventralis_,,,,,,,,,
+000085016_KM288944.1_Ophthalmotilapia_ventralis_,,,,,,,,,
+000085015_KM288943.1_Oreochromis_tanganicae_,,,,,,,,,
+000085014_KM288941.1_Oreochromis_tanganicae_,,,,,,,,,
+000085013_KM288940.1_Lobochilotes_labiatus_,,,,,,,,,
+000085012_KM288939.1_Lobochilotes_labiatus_,,,,,,,,,
+000085011_KM288938.1_Lobochilotes_labiatus_,,,,,,,,,
+000085009_KM288936.1_Lepidiolamprologus_elongatus__000085010_KM288937.1_Lepidiolamprologus_elongatus_,,,,,,,,,
+000085008_KM288935.1_Lepidiolamprologus_elongatus_,,,,,,,,,
+000085007_KM288934.1_Interochromis_loocki_,,,,,,,,,
+000085006_KM288933.1_Interochromis_loocki_,,,,,,,,,
+000085004_KM288931.1_Interochromis_loocki_,,,,,,,,,
+000085003_KM288930.1_Interochromis_loocki_,,,,,,,,,
+000085001_KM288928.1_Xenotilapia_melanogenys_,,,,,,,,,
+000084999_KM288926.1_Ectodus_descampsii_,,,,,,,,,
+000084998_KM288925.1_Ectodus_descampsii_,,,,,,,,,
+000084997_KM288924.1_Ectodus_descampsii_,,,,,,,,,
+000084995_KM288997.1_Callochromis_macrops__000084996_KM288998.1_Callochromis_macrops_,,,,,,,,,
+000084994_KM288996.1_Callochromis_macrops_,,,,,,,,,
+000084993_KM288995.1_Cunningtonia_longiventralis_,,,,,,,,,
+000084992_KM288993.1_Cunningtonia_longiventralis_,,,,,,,,,
+000084991_KM288992.1_Cyphotilapia_gibberosa_,,,,,,,,,
+000084990_KM288991.1_Ctenochromis_horei_,,,,,,,,,
+000084987_KM288923.1_Cyathopharynx_furcifer_,,,,,,,,,
+000084986_KM288922.1_Cyathopharynx_furcifer_,,,,,,,,,
+000084984_KM288920.1_Cyathopharynx_furcifer_,,,,,,,,,
+000084983_KM288918.1_Cyathopharynx_foae_,,,,,,,,,
+000084982_KM288917.1_Cyathopharynx_foae__000084985_KM288921.1_Cyathopharynx_furcifer_,,,,,,,,,
+000084981_KM288916.1_Cyathopharynx_foae_,,,,,,,,,
+000084977_KM288911.1_Xenotilapia_leptura_,,,,,,,,,
+000084976_KM288910.1_Xenotilapia_leptura_,,,,,,,,,
+000084975_KM288909.1_Aulonocranus_dewindti_,,,,,,,,,
+000084974_KM288908.1_Aulonocranus_dewindti_,,,,,,,,,
+000084973_KM288907.1_Aulonocranus_dewindti_,,,,,,,,,
+000082982_AB915416.1_Cyprichromis_leptosoma_,,,,,,,,,
+000082877_KJ816406.1_Benitochromis_aff._finleyi_'Njombe'_,,,,,,,,,
+000082875_KJ816404.1_Benitochromis_batesii_,,,,,,,,,
+000077687_AB850676.1_Petrochromis_sp._TT-2013_,,,,,,,,,
+000077686_AB850675.1_Petrochromis_sp._TT-2013_,,,,,,,,,
+000077685_AB850673.1_Petrochromis_sp._TT-2013_,,,,,,,,,
+000077683_AB850671.1_Petrochromis_sp._TT-2013__000077684_AB850672.1_Petrochromis_sp._TT-2013_,,,,,,,,,
+000077681_AB850665.1_Petrochromis_macrognathus__000077682_AB850667.1_Petrochromis_macrognathus_,,,,,,,,,
+000076571_KJ187245.1_Tropheus_duboisi_,,,,,,,,,
+000076570_KJ187244.1_Chalinochromis_brichardi_,,,,,,,,,
+000076566_KJ187240.1_Neolamprologus_timidus_,,,,,,,,,
+000076564_KJ187238.1_Neolamprologus_toae_,,,,,,,,,
+000076563_KJ187237.1_Chalinochromis_brichardi_,,,,,,,,,
+000076561_KJ187234.1_Neolamprologus_ventralis_,,,,,,,,,
+000076560_KJ187233.1_Neolamprologus_timidus__000076562_KJ187236.1_Neolamprologus_timidus__000076565_KJ187239.1_Neolamprologus_timidus_,,,,,,,,,
+000076556_KJ187229.1_Telmatochromis_brachygnathus_,,,,,,,,,
+000072951_KJ176276.1_Ctenochromis_horei_,,,,,,,,,
+000072947_KJ176272.1_Trematocara_cf._variabile_P-AA-0586_,,,,,,,,,
+000072946_KJ176271.1_Tanganicodus_irsacae_,,,,,,,,,
+000072941_KJ176266.1_Telmatochromis_temporalis_,,,,,,,,,
+000072940_KJ176265.1_Tropheus_moorii_,,,,,,,,,
+000072938_KJ176263.1_Cyphotilapia_gibberosa_,,,,,,,,,
+000072937_KJ176262.1_Lamprologus_signatus_,,,,,,,,,
+000072935_KJ176260.1_Lepidiolamprologus_nkambae_,,,,,,,,,
+000072934_KJ176259.1_Pseudosimochromis_pleurospilus_,,,,,,,,,
+000061551_JX910898.1_Trematocara_marginatum_,,,,,,,,,
+000061513_JX910856.1_Ctenochromis_pectoralis_,,,,,,,,,
+000057374_JX157071.1_Tropheus_moorii_,,,,,,,,,
+000057372_JX157069.1_Ctenochromis_horei__000057373_JX157070.1_Ctenochromis_horei_,,,,,,,,,
+000057364_JX157061.1_Lamprologus_tigripictilis_,,,,,,,,,
+000056970_HE961975.1_Tropheus_moorii_,,,,,,,,,
+000056969_HE961974.1_Petrochromis_trewavasae_,,,,,,,,,
+000056001_JN628855.1_Astatotilapia_calliptera_,,,,,,,,,
+000054695_JQ755391.1_Tropheus_brichardi_,,,,,,,,,
+000054694_JQ755390.1_Pseudosimochromis_marginatus_,,,,,,,,,
+000054693_JQ755389.1_Pseudosimochromis_marginatus_,,,,,,,,,
+000054692_JQ755388.1_Simochromis_diagramma_,,,,,,,,,
+000054691_JQ755387.1_Petrochromis_sp._'Moshi'_,,,,,,,,,
+000054690_JQ755386.1_Petrochromis_sp._'Moshi'_,,,,,,,,,
+000054689_JQ755385.1_Petrochromis_sp._'Moshi'_,,,,,,,,,
+000054682_JQ755368.1_Petrochromis_sp._'Kazumbe'__000054683_JQ755372.1_Petrochromis_sp._'Kazumbe'__000054688_JQ755379.1_Petrochromis_sp._'Kazumbe'_,,,,,,,,,
+000054681_JQ755363.1_Petrochromis_sp._'green'_,,,,,,,,,
+000054679_JQ755361.1_Petrochromis_orthognathus_,,,,,,,,,
+000054678_JQ755360.1_Petrochromis_famula_,,,,,,,,,
+000054677_JQ755359.1_Pseudosimochromis_curvifrons_,,,,,,,,,
+000054676_JQ755358.1_Pseudosimochromis_curvifrons_,,,,,,,,,
+000054672_JQ755346.1_Petrochromis_cf._polyodon_CEW-2012_,,,,,,,,,
+000054670_JQ755342.1_Petrochromis_cf._polyodon_CEW-2012_,,,,,,,,,
+000054571_JQ950383.1_Astatotilapia_sp._'red_chest'_,,,,,,,,,
+000054570_JQ950382.1_Astatotilapia_sp._'orange_shoulder'_,,,,,,,,,
+000054568_JQ950380.1_Astatotilapia_flaviijosephi_,,,,,,,,,
+000054565_JQ950377.1_Astatotilapia_calliptera_,,,,,,,,,
+000054559_JQ950366.1_Neolamprologus_savoryi_,,,,,,,,,
+000054558_JQ950365.1_Lepidiolamprologus_cunningtoni_,,,,,,,,,
+000053037_JF900328.1_Trematocara_nigrifrons_,,,,,,,,,
+000053036_JF900327.1_Trematocara_marginatum_,,,,,,,,,
+000053035_JF900326.1_Petrochromis_polyodon_,,,,,,,,,
+000053033_JF900324.1_Petrochromis_famula_,,,,,,,,,
+000053032_JF900323.1_Petrochromis_trewavasae_,,,,,,,,,
+000053031_JF900320.1_Trematochromis_benthicola_,,,,,,,,,
+000041184_JF961463.1_Lamprologus_werneri_,,,,,,,,,
+000038891_AB588116.1_Paracyprichromis_nigripinnis_,,,,,,,,,
+000038890_AB588115.1_Paracyprichromis_brieni_,,,,,,,,,
+000038887_AB588112.1_Cyprichromis_zonatus__000038888_AB588113.1_Cyprichromis_zonatus__000038889_AB588114.1_Cyprichromis_zonatus_,,,,,,,,,
+000038886_AB588111.1_Cyprichromis_pavo_,,,,,,,,,
+000038885_AB588110.1_Cyprichromis_pavo_,,,,,,,,,
+000038884_AB588109.1_Cyprichromis_pavo_,,,,,,,,,
+000038883_AB588102.1_Cyprichromis_leptosoma_,,,,,,,,,
+000038879_AB588097.1_Cyprichromis_leptosoma_,,,,,,,,,
+000038878_AB588092.1_Cyprichromis_coloratus_,,,,,,,,,
+000038877_AB588088.1_Cyprichromis_coloratus_,,,,,,,,,
+000038874_AB588075.1_Cyprichromis_coloratus_,,,,,,,,,
+000038873_AB588069.1_Cyprichromis_coloratus_,,,,,,,,,
+000038870_AB588066.1_Cyprichromis_coloratus_,,,,,,,,,
+000038869_AB588064.1_Cyprichromis_coloratus_,,,,,,,,,
+000038865_AB588057.1_Cyprichromis_coloratus_,,,,,,,,,
+000038864_AB588056.1_Cyprichromis_coloratus__000038866_AB588058.1_Cyprichromis_coloratus__000038867_AB588059.1_Cyprichromis_coloratus__000038868_AB588062.1_Cyprichromis_coloratus__000038871_AB588067.1_Cyprichromis_coloratus__000038872_AB588068.1_Cyprichromis_coloratus__000038876_AB588084.1_Cyprichromis_coloratus_,,,,,,,,,
+000038863_AB588055.1_Cyprichromis_coloratus__000038875_AB588083.1_Cyprichromis_coloratus_,,,,,,,,,
+000033409_HM135112.1_Chalinochromis_brichardi_,,,,,,,,,
+000033408_HM135111.1_Xenotilapia_boulengeri_,,,,,,,,,
+000033255_HM623830.1_Lepidiolamprologus_profundicola_,,,,,,,,,
+000033254_HM623829.1_Lepidiolamprologus_elongatus_,,,,,,,,,
+000033253_HM623828.1_Neolamprologus_sexfasciatus_,,,,,,,,,
+000033252_HM623827.1_Neolamprologus_petricola_,,,,,,,,,
+000033249_HM623824.1_Neolamprologus_obscurus_,,,,,,,,,
+000033247_HM623822.1_Neolamprologus_tetracanthus_,,,,,,,,,
+000033246_HM623821.1_Neolamprologus_modestus_,,,,,,,,,
+000033245_HM623820.1_Chalinochromis_brichardi_,,,,,,,,,
+000033244_HM623819.1_Julidochromis_marlieri_,,,,,,,,,
+000033243_HM623818.1_Julidochromis_regani_,,,,,,,,,
+000033242_HM623817.1_Neolamprologus_falcicula_,,,,,,,,,
+000033241_HM623816.1_Neolamprologus_gracilis_,,,,,,,,,
+000033239_HM623814.1_Neolamprologus_leleupi_,,,,,,,,,
+000033238_HM623813.1_Neolamprologus_toae_,,,,,,,,,
+000033237_HM623812.1_Neolamprologus_furcifer_,,,,,,,,,
+000033235_HM623810.1_Neolamprologus_savoryi_,,,,,,,,,
+000033234_HM623809.1_Neolamprologus_bifasciatus_,,,,,,,,,
+000033233_HM623808.1_Neolamprologus_walteri_,,,,,,,,,
+000033231_HM623806.1_Neolamprologus_savoryi_,,,,,,,,,
+000033230_HM623805.1_Neolamprologus_savoryi_,,,,,,,,,
+000033229_HM623804.1_Telmatochromis_dhonti_,,,,,,,,,
+000033227_HM623802.1_Neolamprologus_sp._'Kipili'_,,,,,,,,,
+000033226_HM623801.1_Neolamprologus_sp._'ndobnoi'_,,,,,,,,,
+000033225_HM623800.1_Neolamprologus_savoryi_,,,,,,,,,
+000033224_HM623799.1_Neolamprologus_splendens_,,,,,,,,,
+000033222_HM623797.1_Neolamprologus_marunguensis__000033223_HM623798.1_Neolamprologus_gracilis_,,,,,,,,,
+000033221_HM623796.1_Neolamprologus_savoryi_,,,,,,,,,
+000033219_HM623794.1_Neolamprologus_sp._'eseki'__000076557_KJ187230.1_Neolamprologus_sp._'Mwila'_,,,,,,,,,
+000033218_HM623793.1_Neolamprologus_longior_,,,,,,,,,
+000033217_HM623792.1_Julidochromis_transcriptus_,,,,,,,,,
+000033216_HM623791.1_Julidochromis_ornatus_,,,,,,,,,
+000033215_HM623790.1_Julidochromis_dickfeldi_,,,,,,,,,
+000033214_HM623789.1_Telmatochromis_temporalis_,,,,,,,,,
+000033213_HM623788.1_Telmatochromis_temporalis_,,,,,,,,,
+000033212_HM623787.1_Telmatochromis_dhonti_,,,,,,,,,
+000033211_U07265.1_Tanganicodus_irsacae_,,,,,,,,,
+000032283_HM101439.1_Lamprologus_tigripictilis_,,,,,,,,,
+000032279_HM101431.1_Lamprologus_tigripictilis__000032282_HM101437.1_Lamprologus_tigripictilis_,,,,,,,,,
+000032277_HM101429.1_Lamprologus_tigripictilis_,,,,,,,,,
+000032276_HM101426.1_Lamprologus_tigripictilis_,,,,,,,,,
+000032275_HM101425.1_Lamprologus_tigripictilis_,,,,,,,,,
+000032274_HM101409.1_Lamprologus_tigripictilis_,,,,,,,,,
+000032273_HM101420.1_Lamprologus_tigripictilis_,,,,,,,,,
+000032272_HM101419.1_Lamprologus_tigripictilis_,,,,,,,,,
+000032270_HM101414.1_Lamprologus_tigripictilis__000032271_HM101416.1_Lamprologus_tigripictilis_,,,,,,,,,
+000032269_HM101412.1_Lamprologus_tigripictilis_,,,,,,,,,
+000032268_HM101410.1_Lamprologus_tigripictilis_,,,,,,,,,
+000032267_HM101408.1_Lamprologus_tigripictilis_,,,,,,,,,
+000032265_HM101406.1_Lamprologus_tigripictilis__000032266_HM101405.1_Lamprologus_tigripictilis__000032278_HM101430.1_Lamprologus_tigripictilis__000032280_HM101433.1_Lamprologus_tigripictilis__000032281_HM101432.1_Lamprologus_tigripictilis_,,,,,,,,,
+000032264_HM101404.1_Lamprologus_tigripictilis_,,,,,,,,,
+000032263_HM101403.1_Lamprologus_tigripictilis_,,,,,,,,,
+000028700_GQ995818.1_Tropheus_polli_,,,,,,,,,
+000028698_GQ995816.1_Tropheus_sp._'Kapampa'_,,,,,,,,,
+000028696_GQ995814.1_Tropheus_sp._'Nakaku'_,,,,,,,,,
+000028694_GQ995812.1_Tropheus_sp._'Mpimbwe'__000028697_GQ995815.1_Tropheus_sp._'Kirschfleck'_,,,,,,,,,
+000028693_GQ995811.1_Tropheus_sp._'Kachese'_,,,,,,,,,
+000028692_GQ995810.1_Tropheus_moorii_,,,,,,,,,
+000028691_GQ995808.1_Tropheus_duboisi_,,,,,,,,,
+000028684_GQ995794.1_Petrochromis_fasciolatus__000028685_GQ995798.1_Petrochromis_fasciolatus__000028686_GQ995799.1_Petrochromis_fasciolatus__000053034_JF900325.1_Petrochromis_fasciolatus_,,,,,,,,,
+000028683_GQ995793.1_Petrochromis_fasciolatus_,,,,,,,,,
+000028682_GQ995792.1_Simochromis_diagramma_,,,,,,,,,
+000028681_GQ995791.1_Simochromis_diagramma_,,,,,,,,,
+000028680_GQ995790.1_Simochromis_diagramma_,,,,,,,,,
+000028679_GQ995789.1_Pseudosimochromis_marginatus_,,,,,,,,,
+000028678_GQ995785.1_Pseudosimochromis_babaulti_,,,,,,,,,
+000028677_GQ995784.1_Pseudosimochromis_babaulti_,,,,,,,,,
+000028674_GQ995781.1_Pseudosimochromis_pleurospilus_,,,,,,,,,
+000028673_GQ995780.1_Pseudosimochromis_pleurospilus__000028675_GQ995782.1_Pseudosimochromis_pleurospilus__000028676_GQ995783.1_Pseudosimochromis_pleurospilus_,,,,,,,,,
+000028671_GQ995778.1_Pseudosimochromis_curvifrons_,,,,,,,,,
+000028670_GQ995777.1_Pseudosimochromis_curvifrons__000028672_GQ995779.1_Pseudosimochromis_curvifrons_,,,,,,,,,
+000028669_GQ995776.1_Pseudosimochromis_curvifrons_,,,,,,,,,
+000028665_GQ995772.1_Petrochromis_sp._'macrognathus_rainbow'_,,,,,,,,,
+000028664_GQ995771.1_Petrochromis_sp._'macrognathus_rainbow'__000028666_GQ995773.1_Petrochromis_sp._'macrognathus_rainbow'_,,,,,,,,,
+000028663_GQ995770.1_Petrochromis_cf._macrognathus_SK-2009_,,,,,,,,,
+000028660_GQ995767.1_Petrochromis_cf._polyodon_SK-2009_,,,,,,,,,
+000028659_GQ995766.1_Petrochromis_sp._'Texas_Longola'_,,,,,,,,,
+000028658_GQ995765.1_Petrochromis_sp._'Moshi_yellow'__000028661_GQ995768.1_Petrochromis_cf._polyodon_SK-2009_,,,,,,,,,
+000028657_GQ995764.1_Petrochromis_sp._'Moshi_yellow'_,,,,,,,,,
+000028656_GQ995763.1_Petrochromis_sp._'Moshi_yellow'_,,,,,,,,,
+000028655_GQ995762.1_Petrochromis_sp._'Moshi_yellow'_,,,,,,,,,
+000028654_GQ995759.1_Petrochromis_trewavasae_,,,,,,,,,
+000028653_GQ995760.1_Petrochromis_trewavasae_,,,,,,,,,
+000028652_GQ995758.1_Petrochromis_sp._'Moshi_yellow'_,,,,,,,,,
+000028651_GQ995757.1_Petrochromis_cf._polyodon_SK-2009__000028662_GQ995756.1_Petrochromis_cf._polyodon_SK-2009__000028667_GQ995774.1_Petrochromis_cf._polyodon_SK-2009__000028668_GQ995775.1_Petrochromis_cf._polyodon_SK-2009_,,,,,,,,,
+000028648_GQ995749.1_Petrochromis_polyodon__000028650_GQ995755.1_Petrochromis_polyodon_,,,,,,,,,
+000028647_GQ995752.1_Petrochromis_polyodon__000028649_GQ995750.1_Petrochromis_polyodon_,,,,,,,,,
+000028646_GQ995751.1_Petrochromis_polyodon_,,,,,,,,,
+000028645_GQ995748.1_Petrochromis_sp._'Katete'_,,,,,,,,,
+000028644_GQ995747.1_Interochromis_loocki_,,,,,,,,,
+000028643_GQ995746.1_Interochromis_loocki_,,,,,,,,,
+000028641_GQ995742.1_Interochromis_loocki__000028642_GQ995745.1_Interochromis_loocki_,,,,,,,,,
+000028640_GQ995741.1_Petrochromis_orthognathus_,,,,,,,,,
+000028639_GQ995740.1_Petrochromis_orthognathus_,,,,,,,,,
+000028638_GQ995739.1_Petrochromis_orthognathus_,,,,,,,,,
+000028637_GQ995738.1_Petrochromis_orthognathus_,,,,,,,,,
+000028636_GQ995737.1_Petrochromis_orthognathus_,,,,,,,,,
+000028635_GQ995736.1_Petrochromis_trewavasae_,,,,,,,,,
+000028633_GQ995734.1_Petrochromis_famula_,,,,,,,,,
+000028631_GQ995732.1_Petrochromis_famula_,,,,,,,,,
+000028630_GQ995731.1_Petrochromis_famula__000033411_HM135114.1_Petrochromis_famula_,,,,,,,,,
+000028629_GQ995730.1_Petrochromis_famula_,,,,,,,,,
+000028628_GQ995729.1_Petrochromis_famula__000028632_GQ995733.1_Petrochromis_famula_,,,,,,,,,
+000028627_GQ995728.1_Lobochilotes_labiatus_,,,,,,,,,
+000028626_GQ995727.1_Lobochilotes_labiatus_,,,,,,,,,
+000028625_GQ995725.1_Lobochilotes_labiatus_,,,,,,,,,
+000028624_GQ995722.1_Limnotilapia_dardennii_,,,,,,,,,
+000028623_GQ995721.1_Gnathochromis_pfefferi_,,,,,,,,,
+000028622_GQ995720.1_Gnathochromis_pfefferi_,,,,,,,,,
+000027333_GQ167835.1_Cyprichromis_leptosoma__000038880_AB588098.1_Cyprichromis_leptosoma__000038881_AB588099.1_Cyprichromis_leptosoma__000038882_AB588101.1_Cyprichromis_leptosoma_,,,,,,,,,
+000027330_GQ167832.1_Bathybates_ferox_,,,,,,,,,
+000027329_GQ167831.1_Eretmodus_cyanostictus_,,,,,,,,,
+000027318_GQ167820.1_Boulengerochromis_microlepis_,,,,,,,,,
+000027308_GQ167810.1_Variabilichromis_moorii__000027331_GQ167833.1_Variabilichromis_moorii_,,,,,,,,,
+000027307_GQ167809.1_Tylochromis_sp._J46_,,,,,,,,,
+000027280_GQ167782.1_Oreochromis_tanganicae_,,,,,,,,,
+000026848_EF679266.1_Telmatochromis_dhonti_,,,,,,,,,
+000026847_EF679265.1_Petrochromis_famula_,,,,,,,,,
+000026845_EF679263.1_Tropheus_duboisi__000054696_JQ755392.1_Tropheus_duboisi_,,,,,,,,,
+000026843_EF679261.1_Telmatochromis_temporalis_,,,,,,,,,
+000026842_EF679260.1_Spathodus_marlieri_,,,,,,,,,
+000026841_EF679259.1_Simochromis_diagramma_,,,,,,,,,
+000026840_EF679258.1_Plecodus_straeleni_,,,,,,,,,
+000026838_EF679256.1_Petrochromis_sp._'Moshi'_,,,,,,,,,
+000026837_EF679255.1_Perissodus_microlepis_,,,,,,,,,
+000026836_EF679254.1_Ophthalmotilapia_heterodonta_,,,,,,,,,
+000026835_EF679253.1_Neolamprologus_tretocephalus_,,,,,,,,,
+000026833_EF679251.1_Neolamprologus_brichardi_,,,,,,,,,
+000026832_EF679250.1_Lobochilotes_labiatus_,,,,,,,,,
+000026831_EF679249.1_Limnotilapia_dardennii_,,,,,,,,,
+000026828_EF679246.1_Haplotaxodon_microlepis_,,,,,,,,,
+000026827_EF679245.1_Gnathochromis_pfefferi_,,,,,,,,,
+000026825_EF679243.1_Cyprichromis_leptosoma_,,,,,,,,,
+000026824_EF679241.1_Chalinochromis_brichardi_,,,,,,,,,
+000026823_EF679240.1_Lamprologus_callipterus_,,,,,,,,,
+000026822_EF679239.1_Telmatochromis_bifrenatus_,,,,,,,,,
+000026821_EF679238.1_Xenotilapia_leptura_,,,,,,,,,
+000026820_EF679237.1_Altolamprologus_compressiceps_,,,,,,,,,
+000026818_EF679235.1_Boulengerochromis_microlepis_,,,,,,,,,
+000022046_AP009509.1_Tylochromis_polylepis_,,,,,,,,,
+000021803_EU753939.1_Ctenochromis_pectoralis_,,,,,,,,,
+000021802_EU753938.1_Ctenochromis_pectoralis_,,,,,,,,,
+000021799_EU753935.1_Ctenochromis_horei_,,,,,,,,,
+000021798_EU753934.1_Astatotilapia_calliptera_,,,,,,,,,
+000016833_EF437513.1_Xenochromis_hecqui_,,,,,,,,,
+000016832_EF437512.1_Xenochromis_hecqui__000016834_EF437514.1_Xenochromis_hecqui_,,,,,,,,,
+000016830_EF437509.1_Perissodus_eccentricus_,,,,,,,,,
+000016829_EF437507.1_Perissodus_eccentricus__000016831_EF437510.1_Perissodus_eccentricus_,,,,,,,,,
+000016828_EF437506.1_Perissodus_eccentricus_,,,,,,,,,
+000016827_EF437505.1_Plecodus_multidentatus_,,,,,,,,,
+000016825_EF437503.1_Plecodus_elaviae__000016826_EF437504.1_Plecodus_elaviae_,,,,,,,,,
+000016824_EF437502.1_Plecodus_paradoxus_,,,,,,,,,
+000016823_EF437501.1_Plecodus_paradoxus_,,,,,,,,,
+000016822_EF437500.1_Plecodus_paradoxus_,,,,,,,,,
+000016821_EF437499.1_Plecodus_paradoxus_,,,,,,,,,
+000016819_EF437496.1_Haplotaxodon_microlepis_,,,,,,,,,
+000016818_EF437495.1_Haplotaxodon_microlepis_,,,,,,,,,
+000016812_EF437488.1_Haplotaxodon_trifasciatus_,,,,,,,,,
+000016811_EF437487.1_Haplotaxodon_trifasciatus__000016813_EF437490.1_Haplotaxodon_trifasciatus__000016814_EF437491.1_Haplotaxodon_trifasciatus__000016815_EF437492.1_Haplotaxodon_trifasciatus_,,,,,,,,,
+000016809_EF437484.1_Perissodus_microlepis_,,,,,,,,,
+000016808_EF437483.1_Perissodus_microlepis__000016810_EF437485.1_Perissodus_microlepis_,,,,,,,,,
+000016806_EF437481.1_Plecodus_straeleni_,,,,,,,,,
+000016805_EF437480.1_Plecodus_straeleni_,,,,,,,,,
+000016804_EF437479.1_Plecodus_straeleni__000016807_EF437482.1_Plecodus_straeleni_,,,,,,,,,
+000016803_EF437478.1_Plecodus_straeleni_,,,,,,,,,
+000016802_EF437477.1_Perissodus_cf._eccentricus_Kampemba-1881_,,,,,,,,,
+000016801_EF437476.1_Neolamprologus_devosi_,,,,,,,,,
+000015956_EF462273.1_Lepidiolamprologus_attenuatus__000015957_EF462274.1_Lepidiolamprologus_attenuatus_,,,,,,,,,
+000015955_EF462272.1_Neolamprologus_caudopunctatus_,,,,,,,,,
+000015953_EF462270.1_Lepidiolamprologus_nkambae_,,,,,,,,,
+000015952_EF462269.1_Lepidiolamprologus_kendalli_,,,,,,,,,
+000015950_EF462267.1_Lepidiolamprologus_elongatus__000015951_EF462268.1_Lepidiolamprologus_elongatus_,,,,,,,,,
+000015949_EF462266.1_Neolamprologus_multifasciatus_,,,,,,,,,
+000015947_EF462264.1_Neolamprologus_brevis_,,,,,,,,,
+000015946_EF462263.1_Neolamprologus_brevis_,,,,,,,,,
+000015945_EF462262.1_Neolamprologus_brevis_,,,,,,,,,
+000015944_EF462261.1_Neolamprologus_similis_,,,,,,,,,
+000015943_EF462260.1_Lamprologus_ornatipinnis_,,,,,,,,,
+000015942_EF462259.1_Lamprologus_ocellatus_,,,,,,,,,
+000015941_EF462258.1_Lamprologus_callipterus_,,,,,,,,,
+000015940_EF462256.1_Altolamprologus_calvus_,,,,,,,,,
+000015939_EF462255.1_Neolamprologus_fasciatus_,,,,,,,,,
+000015938_EF462254.1_Neolamprologus_boulengeri_,,,,,,,,,
+000015937_EF462253.1_Neolamprologus_variostigma_,,,,,,,,,
+000015936_EF462252.1_Neolamprologus_leloupi_,,,,,,,,,
+000015935_EF462251.1_Neolamprologus_leleupi_,,,,,,,,,
+000015934_EF462250.1_Neolamprologus_longicaudatus_,,,,,,,,,
+000015933_EF462249.1_Neolamprologus_furcifer__000026834_EF679252.1_Neolamprologus_furcifer__000076558_KJ187231.1_Neolamprologus_furcifer__000076559_KJ187232.1_Neolamprologus_furcifer__000076567_KJ187241.1_Neolamprologus_furcifer__000076568_KJ187242.1_Neolamprologus_furcifer_,,,,,,,,,
+000015932_EF462248.1_Neolamprologus_prochilus__000033250_HM623825.1_Neolamprologus_prochilus_,,,,,,,,,
+000015931_EF462247.1_Neolamprologus_savoryi_,,,,,,,,,
+000015930_EF462246.1_Neolamprologus_falcicula_,,,,,,,,,
+000015929_EF462245.1_Neolamprologus_brichardi_,,,,,,,,,
+000015927_EF462243.1_Neolamprologus_buescheri_,,,,,,,,,
+000015925_EF462241.1_Neolamprologus_mondabu__000015926_EF462242.1_Neolamprologus_mondabu_,,,,,,,,,
+000015924_EF462240.1_Neolamprologus_bifasciatus_,,,,,,,,,
+000015922_EF462238.1_Neolamprologus_pectoralis_,,,,,,,,,
+000015921_EF462237.1_Telmatochromis_vittatus_,,,,,,,,,
+000015919_EF462234.1_Telmatochromis_temporalis_,,,,,,,,,
+000015918_EF462233.1_Neolamprologus_ventralis_,,,,,,,,,
+000015917_EF462232.1_Chalinochromis_brichardi_,,,,,,,,,
+000015916_EF462231.1_Julidochromis_transcriptus_,,,,,,,,,
+000015915_EF462230.1_Julidochromis_dickfeldi_,,,,,,,,,
+000015914_EF462229.1_Julidochromis_ornatus_,,,,,,,,,
+000015913_EF462228.1_Julidochromis_regani_,,,,,,,,,
+000015912_EF462227.1_Julidochromis_marlieri_,,,,,,,,,
+000015911_EF462225.1_Neolamprologus_christyi_,,,,,,,,,
+000015910_EF462224.1_Neolamprologus_cylindricus__000033248_HM623823.1_Neolamprologus_cylindricus_,,,,,,,,,
+000015909_EF462223.1_Neolamprologus_mustax__000033236_HM623811.1_Neolamprologus_mustax_,,,,,,,,,
+000015908_EF462219.1_Neolamprologus_tretocephalus_,,,,,,,,,
+000015907_EF462217.1_Variabilichromis_moorii_,,,,,,,,,
+000014680_AP006015.1_Tropheus_duboisi_,,,,,,,,,
+000014679_AP006014.1_Neolamprologus_brichardi_,,,,,,,,,
+000014472_EF210777.1_Julidochromis_sp._AM0743_,,,,,,,,,
+000014375_EF191125.1_Lamprologus_callipterus_x_Neolamprologus_calliurus_,,,,,,,,,
+000014373_EF191122.1_Neolamprologus_caudopunctatus_,,,,,,,,,
+000014371_EF191120.1_Neolamprologus_fasciatus_,,,,,,,,,
+000014370_EF191119.1_Neolamprologus_fasciatus_,,,,,,,,,
+000014368_EF191117.1_Neolamprologus_calliurus_,,,,,,,,,
+000014367_EF191116.1_Neolamprologus_wauthioni__000014369_EF191118.1_Neolamprologus_wauthioni_,,,,,,,,,
+000014366_EF191115.1_Lamprologus_ocellatus_,,,,,,,,,
+000014365_EF191114.1_Lamprologus_ocellatus_,,,,,,,,,
+000014364_EF191113.1_Lamprologus_ocellatus_,,,,,,,,,
+000014362_EF191111.1_Lamprologus_ornatipinnis__000014363_EF191112.1_Lamprologus_ornatipinnis_,,,,,,,,,
+000014361_EF191110.1_Lamprologus_ornatipinnis_,,,,,,,,,
+000014360_EF191109.1_Lamprologus_ornatipinnis_,,,,,,,,,
+000014359_EF191108.1_Altolamprologus_calvus_,,,,,,,,,
+000014358_AF398229.1_Altolamprologus_compressiceps__000014372_EF191121.1_Altolamprologus_compressiceps_,,,,,,,,,
+000014357_EF191106.1_Altolamprologus_sp._'shell'_,,,,,,,,,
+000014356_EF191105.1_Altolamprologus_compressiceps_,,,,,,,,,
+000014354_EF191103.1_Neolamprologus_leloupi__000014355_EF191104.1_Neolamprologus_leloupi_,,,,,,,,,
+000014353_EF191102.1_Lamprologus_speciosus_,,,,,,,,,
+000014352_EF191101.1_Lamprologus_speciosus_,,,,,,,,,
+000014351_EF191100.1_Neolamprologus_similis_,,,,,,,,,
+000014350_EF191099.1_Neolamprologus_similis_,,,,,,,,,
+000014349_EF191098.1_Lamprologus_meleagris_,,,,,,,,,
+000014348_EF191097.1_Lamprologus_meleagris_,,,,,,,,,
+000014347_EF191096.1_Neolamprologus_calliurus__000014374_EF191123.1_Neolamprologus_fasciatus_x_Neolamprologus_calliurus_,,,,,,,,,
+000014346_EF191095.1_Neolamprologus_brevis_,,,,,,,,,
+000014345_EF191094.1_Neolamprologus_brevis_,,,,,,,,,
+000014342_EF191091.1_Neolamprologus_multifasciatus_,,,,,,,,,
+000014341_EF191090.1_Neolamprologus_multifasciatus__000015948_EF462265.1_Neolamprologus_multifasciatus_,,,,,,,,,
+000014340_EF191089.1_Neolamprologus_multifasciatus_,,,,,,,,,
+000014338_EF191087.1_Lamprologus_laparogramma__000014339_EF191088.1_Lamprologus_laparogramma__000015961_EF462278.1_Lamprologus_laparogramma_,,,,,,,,,
+000014337_EF191086.1_Lamprologus_signatus_,,,,,,,,,
+000014336_EF191085.1_Lamprologus_callipterus_,,,,,,,,,
+000014335_EF191084.1_Lamprologus_kungweensis_,,,,,,,,,
+000014334_DQ093112.1_Neolamprologus_calliurus_,,,,,,,,,
+000014333_EF191082.1_Julidochromis_ornatus_,,,,,,,,,
+000009586_AY740382.1_Cyprichromis_pavo_,,,,,,,,,
+000009585_AY740379.1_Cyprichromis_leptosoma_,,,,,,,,,
+000009584_AY740378.1_Paracyprichromis_brieni_,,,,,,,,,
+000009582_AY740376.1_Cyprichromis_zonatus__000009583_AY740377.1_Cyprichromis_zonatus_,,,,,,,,,
+000009580_AY740374.1_Cyprichromis_zonatus__000009581_AY740375.1_Cyprichromis_zonatus_,,,,,,,,,
+000009579_AY740373.1_Cyprichromis_pavo_,,,,,,,,,
+000009578_AY740372.1_Cyprichromis_zonatus_,,,,,,,,,
+000009577_AY740342.1_Cyprichromis_cf._leptosoma_'yellow'_,,,,,,,,,
+000009576_AY740369.1_Cyprichromis_cf._leptosoma_'jumbo'_,,,,,,,,,
+000009575_AY740368.1_Cyprichromis_cf._leptosoma_'jumbo'_,,,,,,,,,
+000009572_AY740363.1_Cyprichromis_cf._leptosoma_'jumbo'_,,,,,,,,,
+000009571_AY740362.1_Cyprichromis_cf._leptosoma_'jumbo'_,,,,,,,,,
+000009569_AY740344.1_Cyprichromis_cf._leptosoma_'gold'_,,,,,,,,,
+000009568_AY740356.1_Cyprichromis_cf._leptosoma_'jumbo_tricolor'_,,,,,,,,,
+000009567_AY740353.1_Cyprichromis_microlepidotus_,,,,,,,,,
+000009566_AY740352.1_Paracyprichromis_brieni_,,,,,,,,,
+000009565_AY740351.1_Cyprichromis_microlepidotus_,,,,,,,,,
+000009563_AY740349.1_Cyprichromis_microlepidotus_,,,,,,,,,
+000009562_AY740348.1_Cyprichromis_pavo_,,,,,,,,,
+000009561_AY740346.1_Cyprichromis_microlepidotus_,,,,,,,,,
+000009560_AY740343.1_Cyprichromis_leptosoma_,,,,,,,,,
+000009559_AY740340.1_Cyprichromis_cf._leptosoma_'jumbo'__000009564_AY740350.1_Cyprichromis_cf._leptosoma_'jumbo'_,,,,,,,,,
+000009558_AY740339.1_Paracyprichromis_nigripinnis_,,,,,,,,,
+000009556_AY740335.1_Cyprichromis_cf._leptosoma_'yellow'__000009570_AY740359.1_Cyprichromis_cf._leptosoma_'jumbo'_,,,,,,,,,
+000009555_AY740334.1_Cyprichromis_cf._leptosoma_'jumbo'_,,,,,,,,,
+000009395_AY337795.1_Callochromis_macrops_,,,,,,,,,
+000009394_AY337794.1_Xenotilapia_flavipinnis_,,,,,,,,,
+000009393_AY337793.1_Xenotilapia_rotundiventralis_,,,,,,,,,
+000009392_AY337792.1_Lestradea_stappersii_,,,,,,,,,
+000009391_AY337791.1_Cardiopharynx_schoutedeni_,,,,,,,,,
+000009390_AY337790.1_Ectodus_descampsii_,,,,,,,,,
+000009389_AY337789.1_Xenotilapia_bathyphila_,,,,,,,,,
+000009388_AY337788.1_Xenotilapia_spiloptera_,,,,,,,,,
+000009387_AY337787.1_Grammatotria_lemairii_,,,,,,,,,
+000009386_AY337786.1_Cyprichromis_leptosoma_,,,,,,,,,
+000009385_AY337785.1_Xenotilapia_sima_,,,,,,,,,
+000009384_AY337784.1_Xenotilapia_tenuidentata_,,,,,,,,,
+000009383_AY337783.1_Ophthalmotilapia_nasuta_,,,,,,,,,
+000009382_AY337782.1_Aulonocranus_dewindti_,,,,,,,,,
+000009381_AY337781.1_Cyathopharynx_furcifer_,,,,,,,,,
+000009380_AY337780.1_Cunningtonia_longiventralis_,,,,,,,,,
+000009379_AY337779.1_Xenotilapia_longispinis_,,,,,,,,,
+000009378_AY337778.1_Xenotilapia_longispinis_,,,,,,,,,
+000009377_AY337777.1_Xenotilapia_caudafasciata_,,,,,,,,,
+000009376_AY337776.1_Xenotilapia_sp._'papilio_sunflower'_,,,,,,,,,
+000009375_AY337775.1_Callochromis_stappersii_,,,,,,,,,
+000009374_AY337774.1_Ophthalmotilapia_ventralis_,,,,,,,,,
+000009373_AY337773.1_Ophthalmotilapia_boops_,,,,,,,,,
+000009372_AY337772.1_Xenotilapia_leptura_,,,,,,,,,
+000009371_AY337771.1_Callochromis_pleurospilus_,,,,,,,,,
+000009370_AY337770.1_Xenotilapia_melanogenys_,,,,,,,,,
+000009368_AY337768.1_Xenotilapia_cf._bathyphila_,,,,,,,,,
+000009367_AY337767.1_Xenotilapia_ochrogenys_,,,,,,,,,
+000009366_AF398216.1_Limnochromis_auritus_,,,,,,,,,
+000009365_AY337765.1_Lestradea_perspicax_,,,,,,,,,
+000005715_AF305279.1_Astatotilapia_calliptera__000005716_AF305278.1_Astatotilapia_calliptera__000032698_GU946219.1_Astatotilapia_calliptera_,,,,,,,,,
+000005714_AF305277.1_Astatotilapia_calliptera_,,,,,,,,,
+000005433_AF317273.1_Ectodus_descampsii_,,,,,,,,,
+000005432_AF317272.1_Lamprologus_congoensis_,,,,,,,,,
+000005429_AF317268.1_Trematocara_unimaculatum__000026826_EF679244.1_Eretmodus_cyanostictus_,,,,,,,,,
+000005428_AF317267.1_Spathodus_erythrodon_,,,,,,,,,
+000005426_AF317265.1_Perissodus_microlepis_,,,,,,,,,
+000005403_AF317240.1_Oreochromis_tanganicae_,,,,,,,,,
+000005392_AF317229.1_Boulengerochromis_microlepis_,,,,,,,,,
+000005088_AF398227.1_Neolamprologus_brichardi__000015928_EF462244.1_Neolamprologus_pulcher__000033220_HM623795.1_Neolamprologus_pulcher_,,,,,,,,,
+000005087_AF398226.1_Lamprologus_callipterus_,,,,,,,,,
+000005086_AF398224.1_Cyprichromis_leptosoma__000009557_AY740338.1_Cyprichromis_cf._leptosoma_'blue'_,,,,,,,,,
+000005085_AF398223.1_Paracyprichromis_brieni_,,,,,,,,,
+000005084_AF398222.1_Perissodus_microlepis_,,,,,,,,,
+000005083_AF398221.1_Plecodus_straeleni_,,,,,,,,,
+000005082_AF398215.1_Tylochromis_polylepis_,,,,,,,,,
+000003994_AY740396.1_Telmatochromis_vittatus_,,,,,,,,,
+000003993_AY740395.1_Neolamprologus_pulcher_,,,,,,,,,
+000003992_AY740394.1_Neolamprologus_sp._'Palmeri'_,,,,,,,,,
+000003991_AY740393.1_Neolamprologus_olivaceous_,,,,,,,,,
+000003990_AY740392.1_Neolamprologus_nigriventris__000015923_EF462239.1_Neolamprologus_nigriventris_,,,,,,,,,
+000003989_AY740391.1_Neolamprologus_niger_,,,,,,,,,
+000003988_AY740390.1_Neolamprologus_marunguensis__000033232_HM623807.1_Neolamprologus_savoryi_,,,,,,,,,
+000003987_AY740388.1_Neolamprologus_caudopunctatus_,,,,,,,,,
+000003986_AY740386.1_Lamprologus_lemairii_,,,,,,,,,
+000003985_AY740385.1_Lamprologus_congoensis_,,,,,,,,,
+000003982_AY740358.1_Cyprichromis_pavo_,,,,,,,,,
+000003981_AY740345.1_Cyprichromis_cf._leptosoma_'jumbo_tricolor'__000009573_AY740364.1_Cyprichromis_cf._leptosoma_'jumbo'__000009574_AY740367.1_Cyprichromis_cf._leptosoma_'jumbo'_,,,,,,,,,
+000003980_AY740354.1_Cyprichromis_microlepidotus_,,,,,,,,,
+000003979_AY740347.1_Cyprichromis_zonatus_,,,,,,,,,
+000003917_AB018975.2_Tropheus_moorii_,,,,,,,,,
+000003915_AB018973.2_Tylochromis_polylepis_,,,,,,,,,
+000003861_AY682546.1_Triglachromis_otostigma__000009369_AF398217.1_Triglachromis_otostigma_,,,,,,,,,
+000003860_AY682545.1_Telmatochromis_vittatus_,,,,,,,,,
+000003859_AY682544.1_Reganochromis_calliurus_,,,,,,,,,
+000003856_AY682538.1_Limnochromis_staneri__000003858_AY682542.1_Limnochromis_staneri_,,,,,,,,,
+000003855_AY682536.1_Limnochromis_auritus_,,,,,,,,,
+000003854_AY682535.1_Limnochromis_abeelei_,,,,,,,,,
+000003852_AY682533.1_Limnochromis_abeelei__000003853_AY682534.1_Limnochromis_abeelei_,,,,,,,,,
+000003851_AY682530.1_Haplotaxodon_sp._2025_Mpulungu__000016816_EF437493.1_Haplotaxodon_microlepis__000016817_EF437494.1_Haplotaxodon_microlepis__000016820_EF437498.1_Haplotaxodon_microlepis_,,,,,,,,,
+000003850_AY682529.1_Haplotaxodon_microlepis_,,,,,,,,,
+000003849_AY682528.1_Greenwoodochromis_christyi_,,,,,,,,,
+000003848_AY682527.1_Greenwoodochromis_christyi_,,,,,,,,,
+000003846_AY682525.1_Greenwoodochromis_christyi__000003847_AY682526.1_Greenwoodochromis_christyi_,,,,,,,,,
+000003844_AY682523.1_Greenwoodochromis_bellcrossi__000003845_AY682524.1_Greenwoodochromis_bellcrossi_,,,,,,,,,
+000003842_AY682521.1_Gnathochromis_permaxillaris_,,,,,,,,,
+000003841_AY682519.1_Gnathochromis_permaxillaris__000003843_AY682522.1_Gnathochromis_permaxillaris_,,,,,,,,,
+000003840_AY682518.1_Gnathochromis_pfefferi_,,,,,,,,,
+000003839_AY682517.1_Xenotilapia_melanogenys_,,,,,,,,,
+000003838_AY682516.1_Cunningtonia_longiventralis_,,,,,,,,,
+000003832_AY682509.1_Baileychromis_centropomoides__000003833_AY682511.1_Baileychromis_centropomoides_,,,,,,,,,
+000003759_AB117536.1_Tropheus_duboisi_,,,,,,,,,
+000003745_AY663736.1_Bathybates_ferox__000003746_AY663737.1_Bathybates_ferox_,,,,,,,,,
+000003744_AY663735.1_Bathybates_hornii_,,,,,,,,,
+000003743_AY663734.1_Bathybates_fasciatus_,,,,,,,,,
+000003742_AY663733.1_Bathybates_fasciatus__000026819_EF679236.1_Bathybates_fasciatus_,,,,,,,,,
+000003741_AY663732.1_Bathybates_fasciatus_,,,,,,,,,
+000003739_AY663730.1_Bathybates_leo__000003740_AY663731.1_Bathybates_leo_,,,,,,,,,
+000003738_AY663729.1_Bathybates_leo_,,,,,,,,,
+000003737_AY663727.1_Bathybates_vittatus_,,,,,,,,,
+000003736_AY663726.1_Bathybates_graueri_,,,,,,,,,
+000003734_AY663724.1_Bathybates_graueri_,,,,,,,,,
+000003733_AY663723.1_Bathybates_graueri_,,,,,,,,,
+000003732_AY663722.1_Bathybates_minor_,,,,,,,,,
+000003731_AY663721.1_Bathybates_minor_,,,,,,,,,
+000003730_AY663720.1_Bathybates_minor_,,,,,,,,,
+000003729_AY663719.1_Hemibates_stenosoma_,,,,,,,,,
+000003728_AY663718.1_Hemibates_stenosoma_,,,,,,,,,
+000003727_AY663717.1_Hemibates_stenosoma_,,,,,,,,,
+000003725_AY663715.1_Trematocara_macrostoma_,,,,,,,,,
+000002478_DQ093113.1_Neolamprologus_leleupi_,,,,,,,,,
+000002477_DQ093109.1_Limnotilapia_dardennii_,,,,,,,,,
+000002134_DQ055062.1_Neolamprologus_pulcher_,,,,,,,,,
+000002133_DQ055061.1_Telmatochromis_temporalis_,,,,,,,,,
+000002132_DQ055060.1_Lepidiolamprologus_kendalli_,,,,,,,,,
+000002131_AF398225.1_Lamprologus_mocquardi__000033240_HM623815.1_Lamprologus_teugelsi_,,,,,,,,,
+000002130_AY740389.1_Neolamprologus_christyi_,,,,,,,,,
+000002128_DQ055056.1_Lamprologus_lemairii__000014344_EF191093.1_Lamprologus_lemairii__000015954_EF462271.1_Lamprologus_lemairii__000026829_EF679247.1_Lamprologus_lemairii_,,,,,,,,,
+000002125_DQ055053.1_Lepidiolamprologus_cunningtoni__000033410_HM135113.1_Lepidiolamprologus_cunningtoni_,,,,,,,,,
+000002124_DQ055052.1_Neolamprologus_cf._meeli/boulengeri_,,,,,,,,,
+000002122_AY682543.1_Neolamprologus_toae_,,,,,,,,,
+000002121_DQ055049.1_Lepidiolamprologus_elongatus_,,,,,,,,,
+000002119_DQ055047.1_Lepidiolamprologus_nkambae_,,,,,,,,,
+000002117_DQ055045.1_Lepidiolamprologus_sp._'Zambia_yellow'_,,,,,,,,,
+000002115_DQ055042.1_Lepidiolamprologus_kendalli__000002116_DQ055043.1_Lepidiolamprologus_kendalli_,,,,,,,,,
+000002114_DQ055041.1_Neolamprologus_hecqui_,,,,,,,,,
+000002112_AF398230.1_Julidochromis_marlieri__000026846_EF679264.1_Julidochromis_marlieri_,,,,,,,,,
+000002111_DQ055038.1_Neolamprologus_cf._meeli/boulengeri__000002123_DQ055051.1_Neolamprologus_meeli__000002129_DQ055057.1_Lepidiolamprologus_attenuatus__000015960_EF462277.1_Neolamprologus_meeli_,,,,,,,,,
+000002110_DQ055037.1_Lepidiolamprologus_attenuatus__000002127_AY682532.1_Lepidiolamprologus_attenuatus_,,,,,,,,,
+000002109_AY740387.1_Lepidiolamprologus_attenuatus_,,,,,,,,,
+000002108_DQ055035.1_Lepidiolamprologus_nkambae_,,,,,,,,,
+000002107_DQ055034.1_Neolamprologus_boulengeri_,,,,,,,,,
+000002104_DQ055031.1_Neolamprologus_cylindricus_,,,,,,,,,
+000002102_DQ055029.1_Neolamprologus_variostigma_,,,,,,,,,
+000002101_DQ055028.1_Neolamprologus_variostigma_,,,,,,,,,
+000002100_DQ055027.1_Lamprologus_meleagris_,,,,,,,,,
+000002099_DQ055026.1_Neolamprologus_tretocephalus_,,,,,,,,,
+000002098_DQ055025.1_Lepidiolamprologus_profundicola_,,,,,,,,,
+000002097_DQ055024.1_Neolamprologus_caudopunctatus_,,,,,,,,,
+000002096_DQ055023.1_Lamprologus_callipterus_,,,,,,,,,
+000002094_DQ055021.1_Lepidiolamprologus_elongatus__000014343_EF191092.1_Lepidiolamprologus_elongatus_,,,,,,,,,
+000002091_DQ055018.1_Neolamprologus_hecqui_,,,,,,,,,
+000002090_DQ055017.1_Lepidiolamprologus_cunningtoni_,,,,,,,,,
+000002089_DQ055016.1_Variabilichromis_moorii_,,,,,,,,,
+000002088_DQ055015.1_Neolamprologus_brichardi_,,,,,,,,,
+000002087_DQ055014.1_Neolamprologus_marunguensis_,,,,,,,,,
+000002086_DQ055013.1_Neolamprologus_helianthus_,,,,,,,,,
+000002085_DQ055012.1_Neolamprologus_modestus_,,,,,,,,,
+000002084_DQ055011.1_Altolamprologus_calvus_,,,,,,,,,
+000002083_AF398220.1_Eretmodus_cyanostictus_,,,,,,,,,
+000002082_AF398228.1_Telmatochromis_bifrenatus_,,,,,,,,,
+000002081_AF398218.1_Spathodus_erythrodon_,,,,,,,,,
+000002080_AF398219.1_Tanganicodus_irsacae_,,,,,,,,,
+000002079_U07260.1_Perissodus_microlepis_,,,,,,,,,
+000001757_AY930100.1_Ctenochromis_horei__000028621_GQ995716.1_Ctenochromis_horei_,,,,,,,,,
+000001752_AY930093.1_Tropheus_moorii_,,,,,,,,,
+000001751_AY930091.1_Tropheus_moorii_,,,,,,,,,
+000001748_AY930088.1_Pseudosimochromis_marginatus_,,,,,,,,,
+000001747_AY930087.1_Simochromis_diagramma_,,,,,,,,,
+000001746_AY930066.1_Tropheus_moorii__000054589_JQ950401.1_Tropheus_moorii_,,,,,,,,,
+000001745_AY930085.1_Tropheus_duboisi__000028687_GQ995803.1_Tropheus_duboisi__000028688_GQ995804.1_Tropheus_duboisi__000028689_GQ995806.1_Tropheus_duboisi__000028690_GQ995807.1_Tropheus_duboisi_,,,,,,,,,
+000001744_AY930084.1_Tropheus_polli_,,,,,,,,,
+000001733_AY930073.1_Astatotilapia_sp._R185_,,,,,,,,,
+000001728_AY930068.1_Petrochromis_macrognathus__000026839_EF679257.1_Petrochromis_sp._'Kazumbe'__000054671_JQ755343.1_Petrochromis_cf._polyodon_CEW-2012__000054674_JQ755353.1_Petrochromis_cf._polyodon_CEW-2012__000054675_JQ755341.1_Petrochromis_cf._polyodon_CEW-2012__000054684_JQ755373.1_Petrochromis_sp._'Kazumbe'__000054685_JQ755345.1_Petrochromis_cf._polyodon_CEW-2012__000054686_JQ755375.1_Petrochromis_sp._'Kazumbe'__000054687_JQ755376.1_Petrochromis_sp._'Kazumbe'_,,,,,,,,,
+000001727_AY930067.1_Tropheus_moorii__000026844_EF679262.1_Tropheus_brichardi__000028695_GQ995813.1_Tropheus_sp._'Bemba'__000028699_GQ995817.1_Tropheus_brichardi_,,,,,,,,,
+000000034_U07270.1_Xenotilapia_sima_,,,,,,,,,
+000000033_U07269.1_Xenotilapia_flavipinnis_,,,,,,,,,
+000000032_U07268.1_Tylochromis_polylepis_,,,,,,,,,
+000000031_U07267.1_Tropheus_moorii_,,,,,,,,,
+000000030_U07266.1_Telmatochromis_temporalis_,,,,,,,,,
+000000028_U07262.1_Petrochromis_orthognathus_,,,,,,,,,
+000000027_U07261.1_Perissodus_microlepis_,,,,,,,,,
+000000026_U07259.1_Paracyprichromis_brieni_,,,,,,,,,
+000000024_U07257.1_Ophthalmotilapia_ventralis_,,,,,,,,,
+000000023_U07256.1_Neolamprologus_tetracanthus_,,,,,,,,,
+000000022_U07255.1_Neolamprologus_brichardi_,,,,,,,,,
+000000021_U07254.1_Lobochilotes_labiatus_,,,,,,,,,
+000000020_U07253.1_Limnochromis_auritus_,,,,,,,,,
+000000018_U07251.1_Lepidiolamprologus_elongatus__000015958_EF462275.1_Lepidiolamprologus_cf._profundicola_JJD-2007__000015959_EF462276.1_Lepidiolamprologus_cf._profundicola_JJD-2007__000026830_EF679248.1_Lepidiolamprologus_elongatus_,,,,,,,,,
+000000017_U07250.1_Lamprologus_callipterus_,,,,,,,,,
+000000016_U07249.1_Julidochromis_marlieri_,,,,,,,,,
+000000015_U07248.1_Gnathochromis_pfefferi_,,,,,,,,,
+000000014_U07247.1_Cyphotilapia_frontosa_,,,,,,,,,
+000000011_U07244.1_Chalinochromis_popelini_,,,,,,,,,
+000000010_U07243.1_Cardiopharynx_schoutedeni_,,,,,,,,,
+000000009_U07242.1_Callochromis_macrops_,,,,,,,,,
+000000007_U07240.1_Boulengerochromis_microlepis_,,,,,,,,,
+000000006_U07239.1_Bathybates_sp._,,,,,,,,,
