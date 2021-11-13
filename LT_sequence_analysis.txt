@@ -1,0 +1,297 @@
+### Lake Tanganyika eDNA samples — intraspecific genetic variation with COI and ND2 
+### Initial data exploration (multiqc): 4.21.2021
+### Sequence trimming, filtering, DADA2: 5.25.2021 
+
+# Copy files to working directory
+mkdir /workdir/kja68/lake_tanganyika
+cd /workdir/kja68/lake_tanganyika
+cp /home/kja68/lake_tanganyika/raw_sequence_files/*.gz /workdir/kja68/lake_tanganyika
+
+# Run multiqc on all samples and look at output 
+fastqc /workdir/kja68/*fastq.gz
+export LC_ALL=en_US.UTF-8
+export PATH=/programs/miniconda3/bin:$PATH
+source activate multiqc
+multiqc /workdir/kja68/lake_tanganyika
+conda deactivate
+
+cp -a multiqc_*/ /home/kja68/lake_tanganyika/
+
+### Trim adapters and split files by locus
+
+# Trim adapters: trimmomatic
+cp /home/kja68/round_goby_field/all_sites_edna/trimmomatic_loop.sh /workdir/kja68/lake_tanganyika/
+nano /trimmomatic_loop.sh # change file extension to match these files: _R1_001.fastq.gz and _R2_001.fastq.gz
+./trimmomatic_loop.sh
+
+# Copy in script to split reads by primer and make executable
+git clone https://github.com/marcomeola/Split_on_Primer.git
+chmod u+x Split_on_Primer/src/Split_on_Primer_fixed.py
+
+# Separate F and R primers into 2 .csv files (format: primer name,sequence) and copy into wd
+cp /home/kja68/lake_tanganyika/F_primers.csv /workdir/kja68/lake_tanganyika/
+cp /home/kja68/lake_tanganyika/R_primers.csv /workdir/kja68/lake_tanganyika/
+
+# Make directory for split sequence files and move trimmed files
+mkdir /workdir/kja68/lake_tanganyika/split_files/
+cp /workdir/kja68/lake_tanganyika/*_paired.fastq.gz /workdir/kja68/lake_tanganyika/split_files/
+
+# Unzip files (code only works on fasta or fastq) 
+gzip -d /workdir/kja68/lake_tanganyika/split_files/*fastq.gz
+
+# Run script separately for F and R reads; separated files will appear in sample_files directory
+# Separated files will get an extension on their file name with the locus name, e.g. filename-locusname_F.fastq.gz
+# Might take a while for several loci -- use screen so the session stays active
+screen
+for file in split_files/*_R1_*; do Split_on_Primer/src/Split_on_Primer_fixed.py -f "$file" -p F_primers.csv -m 2; done
+for file in split_files/*_R2_*; do Split_on_Primer/src/Split_on_Primer_fixed.py -f "$file" -p R_primers.csv -m 2; done
+
+# Clone script to match forward and reverse reads in identical order and make executable
+git clone https://github.com/linsalrob/fastq-pair
+cd fastq-pair/
+mkdir build && cd build
+gcc -std=gnu99   ../main.c ../robstr.c ../fastq_pair.c ../is_gzipped.c  -o fastq_pair
+
+# test it out
+mkdir test && cd test
+cp ../split_files/36-1-S1-L001*  ./
+echo $(cat 36-1-S1-L001-R1-001.fastq.gz-paired-COI_F.fastq | wc -l)/4|bc # 244525
+echo $(cat 36-1-S1-L001-R2-001.fastq.gz-paired-COI_R.fastq | wc -l)/4|bc # 240064
+
+for f1 in *_F.fastq; do f2a=${f1%%_F.fastq}"_R.fastq"; f2=${f2a/R1-001.fastq.gz/R2-001.fastq.gz}; ../fastq-pair/build/fastq_pair -t 1000 $f1 $f2; done
+
+echo $(cat 36-1-S1-L001-R1-001.fastq.gz-paired-COI_F.fastq.paired.fq | wc -l)/4|bc # 239077
+echo $(cat 36-1-S1-L001-R2-001.fastq.gz-paired-COI_R.fastq.paired.fq | wc -l)/4|bc # 239077
+
+# Now on the entire dataset
+cd ../split_files/
+for f1 in *_F.fastq; do f2a=${f1%%_F.fastq}"_R.fastq"; f2=${f2a/R1-001.fastq.gz/R2-001.fastq.gz}; ../fastq-pair/build/fastq_pair -t 10000 $f1 $f2; done
+
+# Make directories for each locus -- use the same locus names that are appended to your file names
+mkdir COI ND2
+
+# Move split files into the appropriate directory by locus name 
+# This command loops thru all of the locus directories you just created and grabs files by locus name
+# Add part of file name in with wildcard (e.g. paired-) or you'll get an error
+# {dir%/} removes the trailing slash from directory names so you can search for locus names within file names 
+for dir in */; do mv *paired-"${dir%/}"_F.fastq.paired.fq $dir; done
+for dir in */; do mv *paired-"${dir%/}"_R.fastq.paired.fq $dir; done
+
+# check how many sequences are in each file
+echo $(cat COI/*.fq | wc -l)/4|bc # 61092702
+echo $(cat ND2/*.fq | wc -l)/4|bc # 24550130
+echo $(cat *unsorted.fastq | wc -l)/4|bc # 16013784
+
+# Run DADA2
+	/programs//R-4.0.5/bin/R
+	library(ShortRead); packageVersion("ShortRead") # 1.48.0
+	library(dada2); packageVersion("dada2") # 1.19.2
+	loci <-c("COI","ND2")
+
+	# for (loc in loci){ # loop not working atm -- plots not saving correctly
+	# path <- paste("/workdir/kja68/lake_tanganyika/split_files/",loc,sep="") # change for each locus
+	path <- paste("/workdir/kja68/lake_tanganyika/split_files/", loci[2],sep="")
+	setwd(path) # change for each locus
+
+	fnFs <- sort(list.files(path, pattern="F.fastq", full.names = TRUE))
+	fnRs <- sort(list.files(path, pattern="R.fastq", full.names = TRUE))
+
+# Extract sample names, assuming filenames have format: SAMPLENAME_F.fastq.gz
+	sample.names <- sapply(strsplit(basename(fnFs), "-R1"), `[`, 1)
+
+# Inspect read quality profiles -- only for a subset of samples and for those with lengths > 0
+	fnFs_qual <- NULL
+	fnRs_qual <- NULL
+	for (i in 1:20){
+	srq <- readFastq(fnFs[i])
+	seqlen.tab <- table(width(srq))
+	if (nrow(seqlen.tab)>0)
+	fnFs_qual <- c(fnFs_qual,i)
+	srq <- readFastq(fnRs[i])
+	seqlen.tab <- table(width(srq))
+	if (nrow(seqlen.tab)>0)
+	fnRs_qual <- c(fnRs_qual,i)
+	}
+
+	pdf("QualityProfile.pdf")
+	plotQualityProfile(fnFs[fnFs_qual])
+	plotQualityProfile(fnRs[fnRs_qual])
+	dev.off()
+
+
+# Place filtered files in filtered/ subdirectory
+	filtFs <- file.path(path, "filtered", paste0(sample.names, "_F_filt.fastq.gz"))
+	filtRs <- file.path(path, "filtered", paste0(sample.names, "_R_filt.fastq.gz"))
+	names(filtFs) <- sample.names
+	names(filtRs) <- sample.names
+
+	out <- filterAndTrim(fnFs, filtFs, fnRs, filtRs, truncLen=c(290,290), trimLeft = c(26,26),
+                     maxN=0, maxEE=c(2,5), truncQ=2, rm.phix=TRUE,
+                     compress=TRUE, multithread=TRUE, matchIDs=TRUE, verbose=TRUE)
+	head(out)
+
+# Check how many samples passed filter and remove files that did not pass the filter
+	table(file.exists(filtFs))
+	table(file.exists(filtRs))
+	filtFs <- filtFs[file.exists(filtFs)]
+	filtRs <- filtRs[file.exists(filtRs)]
+
+# Learn errors
+	errF <- learnErrors(filtFs, multithread=TRUE)
+	errR <- learnErrors(filtRs, multithread=TRUE)
+
+	pdf("Error_plot.pdf")
+	plotErrors(errF, nominalQ=TRUE)
+	dev.off()
+
+	dadaFs <- dada(filtFs, err=errF, multithread=TRUE)
+	dadaRs <- dada(filtRs, err=errR, multithread=TRUE)
+
+	mergers_20_1 <- mergePairs(dadaFs, filtFs, dadaRs, filtRs, minOverlap=20, maxMismatch=1, verbose=TRUE)
+
+# Construct ASV table 
+	seqtab <- makeSequenceTable(mergers_20_1)
+	dim(seqtab)
+
+# Inspect distribution of sequence lengths (ASV table)
+	table(nchar(getSequences(seqtab)))
+	write.csv(table(nchar(getSequences(seqtab))), "Sequence_lengths.csv")
+
+# remove chimeras 
+	seqtab.nochim <- removeBimeraDenovo(seqtab, method="consensus", multithread=TRUE, verbose=TRUE)
+	sum(seqtab.nochim)/sum(seqtab)
+	dim(seqtab.nochim)
+
+# Save the tables and workspace
+	write.csv(t(seqtab), "seqtab.csv")
+	write.csv(t(seqtab.nochim), "seqtab.nochim.csv")
+	save.image(file='Dada2.RData')
+
+# Save fasta files
+	uniquesToFasta(getUniques(seqtab), fout="uniqueSeqs.fasta", ids=paste0("Seq", seq(length(getUniques(seqtab)))))
+	uniquesToFasta(getUniques(seqtab.nochim), fout="uniqueSeqs.nochim.fasta", ids=paste0("Seq", seq(length(getUniques(seqtab.nochim)))))
+	head(out)
+
+	mergers <- mergers_20_1
+
+# Track reads through the pipeline
+	getN <- function(x) sum(getUniques(x))
+	track <- cbind(sum(out[,1]), sum(out[,2]), sum(sapply(dadaFs, getN)), sum(sapply(dadaRs, getN)), sum(sapply(mergers, getN)), sum(rowSums(seqtab.nochim)))
+	colnames(track) <- c("input", "filtered", "denoisF", "denoisR", "merged", "nonchim")
+	track
+
+	pdf("Track_reads.pdf")
+	barplot(colSums(track))
+	dev.off()
+# }
+# end loop
+
+#### Run Blastn
+# Copy the nucleotide and taxonomic database to your workdir
+cp /shared_data/genome_db/BLAST_NCBI/nt* /workdir/kja68/lake_tanganyika/
+cp /shared_data/genome_db/BLAST_NCBI/taxdb.* /workdir/kja68/lake_tanganyika/
+
+# fmt 7 with higher taxonomic info
+blastn -query split_files/COI/uniqueSeqs.nochim.fasta -db nt -outfmt '7 qseqid saccver pident evalue qstart qend length sscinames staxids' -evalue 1e-3 -max_target_seqs 5 -num_threads 24 -out blstn_nonchim_fmt7_LT_COI.txt
+blastn -query split_files/ND2/uniqueSeqs.nochim.fasta -db nt -outfmt '7 qseqid saccver pident evalue qstart qend length sscinames staxids' -evalue 1e-3 -max_target_seqs 5 -num_threads 24 -out blstn_nonchim_fmt7_LT_ND2.txt
+
+
+# Download and unncompress higher taxnomic database from ftp://ftp.ncbi.nlm.nih.gov/pub/taxonomy/
+wget -c ftp://ftp.ncbi.nih.gov/pub/taxonomy/taxdump.tar.gz 
+tar -zxvf taxdump.tar.gz
+git clone https://github.com/theo-allnutt-bioinformatics/scripts
+chmod u+x scripts/tax_trace.pl
+cut -f1,9 blstn_nonchim_fmt7_LT_COI.txt > taxids_COI.txt
+perl scripts/tax_trace.pl nodes.dmp names.dmp taxids_COI.txt taxids_COI_export.txt
+cut -f1,9 blstn_nonchim_fmt7_LT_ND2.txt > taxids_ND2.txt
+perl scripts/tax_trace.pl nodes.dmp names.dmp taxids_ND2.txt taxids_ND2_export.txt
+
+# Copy back into login node
+cp *.txt /home/kja68/lake_tanganyika/dada2_out_6.3.21
+cp split_files/COI/*.csv /home/kja68/lake_tanganyika/dada2_out_6.3.21/COI
+cp split_files/COI/*.fasta /home/kja68/lake_tanganyika/dada2_out_6.3.21/COI
+cp split_files/COI/*.pdf /home/kja68/lake_tanganyika/dada2_out_6.3.21/COI
+cp split_files/COI/Dada2.RData /home/kja68/lake_tanganyika/dada2_out_6.3.21/COI
+cp split_files/ND2/*.csv /home/kja68/lake_tanganyika/dada2_out_6.3.21/ND2
+cp split_files/ND2/*.fasta /home/kja68/lake_tanganyika/dada2_out_6.3.21/ND2
+cp split_files/ND2/*.pdf /home/kja68/lake_tanganyika/dada2_out_6.3.21/ND2
+cp split_files/ND2/Dada2.RData /home/kja68/lake_tanganyika/dada2_out_6.3.21/ND2
+
+# Track reads thru entire pipeline
+echo $(zcat *001.fastq.gz | wc -l)/4|bc # RAW: 107018165
+echo $(zcat *_paired.fastq.gz | wc -l)/4|bc # TRIMMOMATIC: 104585420
+echo $(cat split_files/*-paired-COI_* | wc -l)/4|bc # SPLIT_ON_PRIMER COI: 62366428
+echo $(cat split_files/*-paired-ND2_* | wc -l)/4|bc # SPLIT_ON_PRIMER ND2:
+echo $(cat split_files/COI/*.paired.fq | wc -l)/4|bc # FASTQ_PAIR COI: 
+echo $(cat split_files/ND2/*.paired.fq | wc -l)/4|bc # FASTQ_PAIR ND2: 
+echo $(cat split_files/ | wc -l)/4|bc # DADA2 COI:
+echo $(cat split_files/ | wc -l)/4|bc # DADA2 ND2: 
+
+
+######################## With Kristy/Vasco's ASV dataset: ND2 (cichlids) ##########################
+
+#### Run Blastn against NCBI for ND2 9.21.21
+# Copy the nucleotide and taxonomic database to your workdir
+cp /shared_data/genome_db/BLAST_NCBI/nt* /workdir/kja68/
+cp /shared_data/genome_db/BLAST_NCBI/taxdb.* /workdir/kja68/
+cp /home/kja68/lake_tanganyika/LT_ND2_ASVs.fa /workdir/kja68/
+
+# fmt 7 with higher taxonomic info
+blastn -query LT_ND2_ASVs.fa -db nt -outfmt '7 qseqid saccver pident evalue qstart qend length sscinames staxids' -evalue 1e-3 -max_target_seqs 5 -num_threads 24 -out blstn_fmt7_LT_ND2_ASVs.txt
+
+# fmt 10
+blastn -query LT_ND2_ASVs.fa -db nt -outfmt '10 qseqid pident evalue qstart qend length sscinames scomnames sseq staxids' -evalue 1e-5 -max_target_seqs 1 -max_hsps 5 -num_threads 40 -out blstn_fmt10_LT_ND2_ASVs.csv
+
+
+#### Run Blastn against local curated databases 9.28.21
+cp /home/kja68/lake_tanganyika/NCBI_Lake_Tan_haplotypes.fasta /workdir/kja68
+cp /home/kja68/lake_tanganyika/WS_ND2_ref_data.fasta /workdir/kja68
+cp /shared_data/genome_db/BLAST_NCBI/taxdb.* /workdir/kja68/
+
+# trim sequence names to only seqids (remove everything after __ and before .)
+# sed -r 's/\__.+//' NCBI_Lake_Tan_haplotypes.fasta > NCBI_Lake_Tan_haplotypes_trim.fasta
+# sed -r 's/^>[^_]*\_/>/' NCBI_Lake_Tan_haplotypes_trim.fasta > NCBI_Lake_Tan_haplotypes_trimmed.fasta
+
+# turn fasta files into searchable database
+makeblastdb -in NCBI_Lake_Tan_haplotypes.fasta -blastdb_version 4 -out NCBI_Lake_Tan_db -dbtype nucl
+makeblastdb -in WS_ND2_ref_data.fasta -parse_seqids -blastdb_version 4 -out WS_ND2_db -dbtype nucl
+
+# fmt 7 with higher taxonomic info
+blastn -query LT_ND2_ASVs.fa -db "NCBI_Lake_Tan_db WS_ND2_db" -outfmt '7 qseqid saccver pident evalue qstart qend length sscinames staxids' -evalue 1e-3 -max_target_seqs 5 -num_threads 24 -out blstn_fmt7_LT_ND2_ASVs.txt
+
+# fmt 10
+blastn -query LT_ND2_ASVs.fa -db "NCBI_Lake_Tan_db WS_ND2_db" -outfmt '10 qseqid saccver pident evalue qstart qend length sscinames scomnames sseq staxids' -evalue 1e-5 -max_target_seqs 1 -max_hsps 5 -num_threads 40 -out blstn_fmt10_LT_ND2_ASVs.csv
+
+# copy back into login node
+cp /workdir/kja68/blstn_fmt10_LT_ND2_ASVs.csv /home/kja68/lake_tanganyika/
+cp /workdir/kja68/blstn_fmt7_LT_ND2_ASVs.txt /home/kja68/lake_tanganyika/
+
+
+######################## With Kristy/Vasco's ASV dataset: COI (metazonans) ##########################
+
+#### Run Blastn against NCBI 11.12.21
+# Copy the nucleotide and taxonomic database to your workdir
+cp /shared_data/genome_db/BLAST_NCBI/nt* /workdir/kja68/
+cp /shared_data/genome_db/BLAST_NCBI/taxdb.* /workdir/kja68/
+cp /home/kja68/lake_tanganyika/LT_COI_ASVs.fa /workdir/kja68/
+
+# fmt 5
+blastn -query LT_COI_ASVs.fa -db nt -outfmt 5 -evalue 1e-5 -max_target_seqs 5 -max_hsps 5 -num_threads 24 -out blstn_fmt5_LT_COI_ASVs.txt
+
+
+# fmt 7 with higher taxonomic info
+blastn -query LT_COI_ASVs.fa -db nt -outfmt '7 qseqid saccver pident evalue qstart qend length sscinames staxids' -evalue 1e-3 -max_target_seqs 5 -num_threads 24 -out blstn_fmt7_LT_COI_ASVs.txt
+
+# fmt 10
+blastn -query LT_COI_ASVs.fa -db nt -outfmt '10 qseqid pident evalue qstart qend length sscinames scomnames sseq staxids' -evalue 1e-5 -max_target_seqs 1 -max_hsps 5 -num_threads 24 -out blstn_fmt10_LT_COI_ASVs.csv
+
+
+# copy back into login node
+cp /workdir/kja68/blstn_fmt5_LT_COI_ASVs.txt /home/kja68/lake_tanganyika/
+cp /workdir/kja68/blstn_fmt10_LT_COI_ASVs.csv /home/kja68/lake_tanganyika/
+cp /workdir/kja68/blstn_fmt7_LT_COI_ASVs.txt /home/kja68/lake_tanganyika/
+
+
+
+
+

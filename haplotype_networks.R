@@ -126,7 +126,8 @@ plot_hap_network <- function(species, scale, size){
 ### Cardiopharynx schoutedeni, Grammatotria lemairii, Xenotilapia flavipinnis,
 ### Neolamprologus toae, Petrochromis sp. kazumbae, Simochromis diagramma,
 ### Cyathopharynx furcifer, Neolamprologus cancellatus, Lestradea perspicax
-### Limnotilapia dardennii, Lobochilotes_labiatus, Pseudosimochromis babaulti
+### Limnotilapia dardennii, Lobochilotes_labiatus, Pseudosimochromis babaulti,
+### Petrochromis_sp_moshi
 
 # Petrochromis famula: plot network colored by N-S sites
 fasta_dat <- hap_network(ASV_ND2_profiling_table_combined, species_annnotation, "Petrochromis_famula")
@@ -217,3 +218,29 @@ fasta_dat <- hap_network(ASV_ND2_profiling_table_combined, species_annnotation, 
 sample_dat <- hap_network_metadata(ASV_ND2_profiling_table_combined, species_annnotation, "Pseudosimochromis_babaulti")
 write.fasta(as.list(fasta_dat$sequence), fasta_dat$seq_name, file.out="/Users/kbja10/Downloads/fasta_dat_Pseudosimochromis_babaulti.fa", nbchar = 600, as.string = TRUE)
 plot_hap_network("Pseudosimochromis_babaulti", 1, 10)
+
+# Petrochromis_sp_moshi: plot network colored by N-S sites
+fasta_dat <- hap_network(ASV_ND2_profiling_table_combined, species_annnotation, "Petrochromis_sp_moshi")
+sample_dat <- hap_network_metadata(ASV_ND2_profiling_table_combined, species_annnotation, "Petrochromis_sp_moshi")
+write.fasta(as.list(fasta_dat$sequence), fasta_dat$seq_name, file.out="/Users/kbja10/Downloads/fasta_dat_Petrochromis_sp_moshi.fa", nbchar = 600, as.string = TRUE)
+plot_hap_network("Petrochromis_sp_moshi", 2, 100)
+
+# Eretmodus cyanostictus: plot network colored by N-S sites
+fasta_dat <- hap_network(ASV_ND2_profiling_table_combined, species_annnotation, "Eretmodus_cyanostictus")
+sample_dat <- hap_network_metadata(ASV_ND2_profiling_table_combined, species_annnotation, "Eretmodus_cyanostictus")
+write.fasta(as.list(fasta_dat$sequence), fasta_dat$seq_name, file.out="/Users/kbja10/Downloads/fasta_dat_Eretmodus_cyanostictus.fa", nbchar = 600, as.string = TRUE)
+plot_hap_network("Eretmodus_cyanostictus", 1, 10)
+
+# Ophthalmotilapia ventralis: plot network colored by N-S sites
+fasta_dat <- hap_network(ASV_ND2_profiling_table_combined, species_annnotation, "Ophthalmotilapia_ventralis")
+sample_dat <- hap_network_metadata(ASV_ND2_profiling_table_combined, species_annnotation, "Ophthalmotilapia_ventralis")
+write.fasta(as.list(fasta_dat$sequence), fasta_dat$seq_name, file.out="/Users/kbja10/Downloads/fasta_dat_Ophthalmotilapia_ventralis.fa", nbchar = 600, as.string = TRUE)
+plot_hap_network("Ophthalmotilapia_ventralis", 2, 50)
+
+### Full map of Lake Tanganyika and sampling sites
+# pdf("LT_sample_map.pdf", height=8, width=5)
+par(mar=c(1,1,1.2,1))
+plot(lt_shapefile)
+to_plot <- to_keep[!duplicated(to_keep$Color),]
+points(to_plot$Longitude, to_plot$Latitude, pch=21, cex=1.5, bg=cols3, col="black", lwd=0.5)
+# dev.off()
