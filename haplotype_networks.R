@@ -27,44 +27,53 @@ to_keep <- sample_metadata[sample_metadata$Vasco_dataset=="X",]
 ASV_ND2_profiling_table <- ASV_ND2_profiling_table[,colnames(ASV_ND2_profiling_table) %in% c("OTUID", to_keep$Sample)]
 ncol(ASV_ND2_profiling_table)
 
-### Create input file for haplotpye network: fasta file with sequences representing relative ASV abundance at each site
-hap_network_fasta <- function(ASV_table, annotation, species){
+### Create input file for haplotype network: fasta file with sequences representing relative ASV abundance at each site
+make_files <- function(ASV_table, annotation, species){
   # 1) Subset ASV table to ASVs matching species of interest
   ASV_subset <- annotation[grep(species, annotation$NCBI_top_match),] # subset annotation table
   ASV_table_subset <- ASV_table[ASV_table$OTUID %in% ASV_subset$OTUID,] # subset ASV table
-  ASV_table_subset_prop <- data.frame(OTUID=ASV_table_subset$OTUID,
-                                      lapply(ASV_table_subset[,-1], function(x) x/sum(x)*100)) # scale each sample to 100 reads
-  ASV_table_subset_prop[is.na(ASV_table_subset_prop)] <- 0 # replace NAs with 0
-  # 2) Combine duplicate samples per site (normalized per sample and scaled to 100 reads)
-  ASV_table_subset_prop_combined <- data.frame(OTUID=ASV_table_subset_prop$OTUID)
-  haplotype_frequency <- data.frame(OTUID=ASV_table_subset_prop$OTUID)
+  # 2) Combine duplicate samples per site (raw read counts, normalized read count, normalized read freq
+  haplotype_count_raw <- data.frame(OTUID=ASV_table_subset$OTUID)
+  haplotype_count_scaled <- data.frame(OTUID=ASV_table_subset$OTUID)
+  haplotype_frequency <- data.frame(OTUID=ASV_table_subset$OTUID)
   k <- 2
   for (i in unique(sample_metadata$SampleInfor)){
     site_data <- sample_metadata[sample_metadata$SampleInfor==i&sample_metadata$Vasco_dataset=="X",]
     if (nrow(site_data)>0){
-      site_reads <-  ASV_table_subset_prop[,colnames(ASV_table_subset_prop) %in% site_data$Sample]
+      site_reads <-  ASV_table_subset[,colnames(ASV_table_subset) %in% site_data$Sample]
       if(class(site_reads)=="data.frame"){ # if more than 2 sites remaining to combine
-        site_reads_combined <- rowSums(site_reads, na.rm=TRUE)/sum(rowSums(site_reads, na.rm=TRUE)) # normalize read count per sample
-      } else site_reads_combined <- site_reads/sum(site_reads) # normalize read count per sample
-      site_reads_combined[is.na(site_reads_combined)] <- 0
-      site_reads_combined_round <- round(site_reads_combined*100, digits=0) # combine replicates and scale to 100 reads
-      ASV_table_subset_prop_combined <- cbind(ASV_table_subset_prop_combined,site_reads_combined_round)
-      colnames(ASV_table_subset_prop_combined)[k] <- site_data$SampleInfor[1]
-      haplotype_frequency <- cbind(haplotype_frequency,site_reads_combined)
+        site_haplotype_count_raw <- rowSums(site_reads, na.rm=TRUE) # raw haplotype read count per site
+        site_haplotype_frequency <- apply(site_reads, 2, function(x) x/sum(x)*100) # normalized haplotype read freq per sample
+        site_haplotype_frequency <- rowSums(site_haplotype_frequency, na.rm=TRUE)/sum(rowSums(site_haplotype_frequency, na.rm=TRUE)) # normalized haplotype read freq per site
+        site_haplotype_frequency[is.na(site_haplotype_frequency)] <- 0 # replace NAs with 0
+        site_haplotype_count_scaled <- round(site_haplotype_frequency*100, digits=0) # normalized haplotype read count per site
+      } else {
+        site_haplotype_count_raw <- site_reads # raw haplotype read count per site
+        site_haplotype_frequency <- site_reads/sum(site_reads) # normalized haplotype read freq per site
+        site_haplotype_count_scaled <- round(site_haplotype_frequency*100, digits=0) # normalized haplotype read count per site
+      }
+
+      haplotype_count_raw <- cbind(haplotype_count_raw, site_haplotype_count_raw)
+      haplotype_count_scaled <- cbind(haplotype_count_scaled, site_haplotype_count_scaled)
+      haplotype_frequency <- cbind(haplotype_frequency, site_haplotype_frequency)
+      colnames(haplotype_count_raw)[k] <- site_data$SampleInfor[1]
+      colnames(haplotype_count_scaled)[k] <- site_data$SampleInfor[1]
       colnames(haplotype_frequency)[k] <- site_data$SampleInfor[1]
       k <- k+1
     }
   }
-  # 3) Export a haplotype frequency table for species of interest
+  # 3) Export haplotype count and frequency tables for species of interest
+  write.csv(haplotype_count_raw, file=paste("haplotype_count/raw/",gsub(" ", "_",species),"_haplotype_count_raw.csv", sep=""), row.names=FALSE)
+  write.csv(haplotype_count_scaled, file=paste("haplotype_count/scaled/",gsub(" ", "_",species),"_haplotype_count_scaled.csv", sep=""), row.names=FALSE)
   write.csv(haplotype_frequency, file=paste("haplotype_frequency/",gsub(" ", "_",species),"_haplotype_frequency.csv", sep=""), row.names=FALSE)
   # 4) Generate a fasta file based on the read frequencies of ASVs per sample
   fasta_dat <- data.frame(seq_name=NULL, sequence=NULL)
-  for (i in 2:ncol(ASV_table_subset_prop_combined)){ # for each sample in ASV table
-    for (j in 1:nrow(ASV_table_subset_prop_combined)){ # for each ASV
-      reads <- ASV_table_subset_prop_combined[j,i] # proportion of reads of ASV in the sample
+  for (i in 2:ncol(haplotype_count_scaled)){ # for each sample in ASV table
+    for (j in 1:nrow(haplotype_count_scaled)){ # for each ASV
+      reads <- haplotype_count_scaled[j,i] # proportion of reads of ASV in the sample
       if (reads>0){ # if the ASV is present in the sample
-        sample_metadata_subset <- sample_metadata[sample_metadata$SampleInfor==colnames(ASV_table_subset_prop_combined[i]),]
-        fasta_dat_temp <- data.frame(seq_name = rep(paste(colnames(ASV_table_subset_prop_combined[i]),"_",sample_metadata_subset$Basin[1],"_",sample_metadata_subset$Color[1],"_",ASV_table_subset_prop_combined[j,1], sep = ""), reads), # paste the sample name and ASV name
+        sample_metadata_subset <- sample_metadata[sample_metadata$SampleInfor==colnames(haplotype_count_scaled[i]),]
+        fasta_dat_temp <- data.frame(seq_name = rep(paste(colnames(haplotype_count_scaled[i]),"_",sample_metadata_subset$Basin[1],"_",sample_metadata_subset$Color[1],"_",haplotype_count_scaled[j,1], sep = ""), reads), # paste the sample name and ASV name
                                      sequence = rep(ND2_seqs[ND2_seqs$seq_name==ASV_table_subset[j,1],]$sequence, reads)) # paste the ASV sequence
         fasta_dat <- rbind(fasta_dat, fasta_dat_temp)
       }
@@ -119,7 +128,7 @@ for (i in unique(species_annotation$NCBI_top_match)){
 # Generate files for all species matching criteria: 
 # fasta files, haplotype frequencies, haplotype networks, maps 
 for (i in sp_list[-length(sp_list)]){
-  fasta_dat <- hap_network_fasta(ASV_ND2_profiling_table, species_annotation, i)
+  fasta_dat <- make_files(ASV_ND2_profiling_table, species_annotation, i)
   i_mod <- gsub(" ", "_", i)
   write.fasta(as.list(fasta_dat$sequence), fasta_dat$seq_name, file.out=paste0("fasta_dat/",i_mod,".fa"), nbchar = 600, as.string = TRUE)
   plot_hap_network(i_mod, 2, 50)
